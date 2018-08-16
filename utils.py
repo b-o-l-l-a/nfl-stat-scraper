@@ -6,6 +6,27 @@ Created on Sun Jul 09 16:04:46 2017
 """
 
 import pandas as pd
+import json
+from bs4 import BeautifulSoup
+import requests
+import re
+
+def get_config(home_dir):
+    path = "{}/config.json".format(home_dir)
+
+    with open(path) as f:
+        config = f.readlines()[0]
+    
+    config_dict = json.loads(config)
+
+    return config_dict
+
+def fetch_url_content(url):
+    
+    html = requests.get(url, verify=False).content
+    html = html.decode("utf-8")
+    soup = BeautifulSoup(re.sub("<!--|-->","", html), "lxml") 
+    return soup
 
 def get_full_team_names():
     team_dict = {
