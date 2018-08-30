@@ -1,0 +1,10 @@
+year,week_num,game_date,game_link,home_winner,winner,pts_win,loser,pts_lose,weather,favorite,line,over_under
+2008,1,September 4,/boxscores/200809040nyg.htm,True,New York Giants,16,Washington Redskins,7,"85 degrees relative humidity 50%, wind 10 mph, wind chill 0",New York Giants,-4.5,41.5
+2008,1,September 7,/boxscores/200809070mia.htm,False,New York Jets,20,Miami Dolphins,14,"88 degrees relative humidity 59%, wind 14 mph, wind chill 0",New York Jets,-3.0,36.0
+2008,1,September 7,/boxscores/200809070nwe.htm,True,New England Patriots,17,Kansas City Chiefs,10,"75 degrees relative humidity 64%, wind 15 mph, wind chill 0",New England Patriots,-16.0,43.5
+2008,1,September 7,/boxscores/200809070pit.htm,True,Pittsburgh Steelers,38,Houston Texans,17,"72 degrees relative humidity 47%, wind 11 mph",Pittsburgh Steelers,-6.5,43.0
+2008,1,September 7,/boxscores/200809070nor.htm,True,New Orleans Saints,24,Tampa Bay Buccaneers,20,,New Orleans Saints,-3.0,42.5
+2008,1,September 7,/boxscores/200809070buf.htm,True,Buffalo Bills,34,Seattle Seahawks,10,"66 degrees relative humidity 65%, wind 11 mph, wind chill 0",Buffalo Bills,-1.0,38.5
+2008,1,September 7,/boxscores/200809070phi.htm,True,Philadelphia Eagles,38,St. Louis Rams,3,"80 degrees relative humidity 49%, wind 11 mph, wind chill 0",Philadelphia Eagles,-8.0,44.0
+2008,1,September 7,/boxscores/200809070atl.htm,True,Atlanta Falcons,34,Detroit Lions,21,,Detroit Lions,-3.0,41.0
+2008,1,September 7,/boxscores/200809070oti.htm,True,Tennessee Titans,17,Jacksonville Jaguars,10,"78 degrees relative humidity 58%, no wind",Jacksonville Jaguars,-3.0,36.5

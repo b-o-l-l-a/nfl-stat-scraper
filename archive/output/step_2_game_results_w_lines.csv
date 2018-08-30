@@ -1,0 +1,627 @@
+year,week_num,game_date,game_link,home_winner,winner,pts_win,loser,pts_lose,weather,favorite,line,over_under
+2008,1,September 4,/boxscores/200809040nyg.htm,True,New York Giants,16,Washington Redskins,7,"85 degrees relative humidity 50%, wind 10 mph, wind chill 0",New York Giants,-4.5,41.5
+2008,1,September 7,/boxscores/200809070mia.htm,False,New York Jets,20,Miami Dolphins,14,"88 degrees relative humidity 59%, wind 14 mph, wind chill 0",New York Jets,-3.0,36.0
+2008,1,September 7,/boxscores/200809070nwe.htm,True,New England Patriots,17,Kansas City Chiefs,10,"75 degrees relative humidity 64%, wind 15 mph, wind chill 0",New England Patriots,-16.0,43.5
+2008,1,September 7,/boxscores/200809070pit.htm,True,Pittsburgh Steelers,38,Houston Texans,17,"72 degrees relative humidity 47%, wind 11 mph",Pittsburgh Steelers,-6.5,43.0
+2008,1,September 7,/boxscores/200809070nor.htm,True,New Orleans Saints,24,Tampa Bay Buccaneers,20,,New Orleans Saints,-3.0,42.5
+2008,1,September 7,/boxscores/200809070buf.htm,True,Buffalo Bills,34,Seattle Seahawks,10,"66 degrees relative humidity 65%, wind 11 mph, wind chill 0",Buffalo Bills,-1.0,38.5
+2008,1,September 7,/boxscores/200809070phi.htm,True,Philadelphia Eagles,38,St. Louis Rams,3,"80 degrees relative humidity 49%, wind 11 mph, wind chill 0",Philadelphia Eagles,-8.0,44.0
+2008,1,September 7,/boxscores/200809070atl.htm,True,Atlanta Falcons,34,Detroit Lions,21,,Detroit Lions,-3.0,41.0
+2008,1,September 7,/boxscores/200809070oti.htm,True,Tennessee Titans,17,Jacksonville Jaguars,10,"78 degrees relative humidity 58%, no wind",Jacksonville Jaguars,-3.0,36.5
+2008,1,September 7,/boxscores/200809070rav.htm,True,Baltimore Ravens,17,Cincinnati Bengals,10,"78 degrees relative humidity 85%, wind 7 mph, wind chill 0",Cincinnati Bengals,-2.0,37.5
+2008,1,September 7,/boxscores/200809070sdg.htm,False,Carolina Panthers,26,San Diego Chargers,24,"81 degrees relative humidity 63%, wind 8 mph, wind chill 0",San Diego Chargers,-9.5,41.0
+2008,1,September 7,/boxscores/200809070sfo.htm,False,Arizona Cardinals,23,San Francisco 49ers,13,"70 degrees relative humidity 70%, wind 20 mph, wind chill 0",Arizona Cardinals,-2.5,42.0
+2008,1,September 7,/boxscores/200809070cle.htm,False,Dallas Cowboys,28,Cleveland Browns,10,"71 degrees relative humidity 65%, wind 12 mph, wind chill 0",Dallas Cowboys,-6.0,48.5
+2008,1,September 7,/boxscores/200809070clt.htm,False,Chicago Bears,29,Indianapolis Colts,13,,Indianapolis Colts,-10.0,44.0
+2008,1,September 8,/boxscores/200809080gnb.htm,True,Green Bay Packers,24,Minnesota Vikings,19,"58 degrees relative humidity 66%, wind 5 mph, wind chill 0",Green Bay Packers,-2.5,37.5
+2008,1,September 8,/boxscores/200809080rai.htm,False,Denver Broncos,41,Oakland Raiders,14,"60 degrees relative humidity 84%, wind 13 mph, wind chill 0",Denver Broncos,-3.0,40.5
+2008,2,September 14,/boxscores/200809140kan.htm,False,Oakland Raiders,23,Kansas City Chiefs,8,"61 degrees relative humidity 63%, wind 25 mph, wind chill 0",Kansas City Chiefs,-3.5,36.0
+2008,2,September 14,/boxscores/200809140ram.htm,False,New York Giants,41,St. Louis Rams,13,,New York Giants,-8.0,43.5
+2008,2,September 14,/boxscores/200809140cin.htm,False,Tennessee Titans,24,Cincinnati Bengals,7,"88 degrees relative humidity 51%, wind 70 mph, wind chill 0",Cincinnati Bengals,-1.0,37.0
+2008,2,September 14,/boxscores/200809140car.htm,True,Carolina Panthers,20,Chicago Bears,17,"88 degrees relative humidity 78%, wind 10 mph, wind chill 0",Carolina Panthers,-3.0,37.5
+2008,2,September 14,/boxscores/200809140was.htm,True,Washington Redskins,29,New Orleans Saints,24,"90 degrees relative humidity 55%, wind 6 mph, wind chill 0",Washington Redskins,-1.0,43.5
+2008,2,September 14,/boxscores/200809140det.htm,False,Green Bay Packers,48,Detroit Lions,25,,Green Bay Packers,-3.0,47.0
+2008,2,September 14,/boxscores/200809140jax.htm,False,Buffalo Bills,20,Jacksonville Jaguars,16,"87 degrees relative humidity 60%, wind 5 mph, wind chill 0",Jacksonville Jaguars,-4.0,37.0
+2008,2,September 14,/boxscores/200809140min.htm,False,Indianapolis Colts,18,Minnesota Vikings,15,,Indianapolis Colts,-1.0,43.5
+2008,2,September 14,/boxscores/200809140tam.htm,True,Tampa Bay Buccaneers,24,Atlanta Falcons,9,"89 degrees relative humidity 55%, wind 8 mph, wind chill 0",Tampa Bay Buccaneers,-7.0,37.5
+2008,2,September 14,/boxscores/200809140sea.htm,False,San Francisco 49ers,33,Seattle Seahawks,30,"67 degrees relative humidity 63%, wind 6 mph, wind chill 0",Seattle Seahawks,-6.5,38.0
+2008,2,September 14,/boxscores/200809140nyj.htm,False,New England Patriots,19,New York Jets,10,"90 degrees relative humidity 54%, wind 12 mph, wind chill 0",New York Jets,-1.0,37.0
+2008,2,September 14,/boxscores/200809140crd.htm,True,Arizona Cardinals,31,Miami Dolphins,10,,Arizona Cardinals,-6.5,40.5
+2008,2,September 14,/boxscores/200809140den.htm,True,Denver Broncos,39,San Diego Chargers,38,"59 degrees relative humidity 56%, wind 5 mph, wind chill 0",Denver Broncos,-1.0,46.5
+2008,2,September 14,/boxscores/200809140cle.htm,False,Pittsburgh Steelers,10,Cleveland Browns,6,"80 degrees relative humidity 69%, wind 40 mph, wind chill 0",Pittsburgh Steelers,-6.5,43.5
+2008,2,September 15,/boxscores/200809150dal.htm,True,Dallas Cowboys,41,Philadelphia Eagles,37,"76 degrees relative humidity 26%, no wind, wind chill 0",Dallas Cowboys,-6.5,46.5
+2008,3,September 21,/boxscores/200809210oti.htm,True,Tennessee Titans,31,Houston Texans,12,"80 degrees relative humidity 49%, wind 4 mph",Tennessee Titans,-5.0,40.0
+2008,3,September 21,/boxscores/200809210buf.htm,True,Buffalo Bills,24,Oakland Raiders,23,"66 degrees relative humidity 83%, no wind, wind chill 0",Buffalo Bills,-10.0,37.5
+2008,3,September 21,/boxscores/200809210nwe.htm,False,Miami Dolphins,38,New England Patriots,13,"72 degrees relative humidity 53%, wind 1 mph, wind chill 0",New England Patriots,-12.5,37.0
+2008,3,September 21,/boxscores/200809210atl.htm,True,Atlanta Falcons,38,Kansas City Chiefs,14,,Atlanta Falcons,-6.5,37.0
+2008,3,September 21,/boxscores/200809210chi.htm,False,Tampa Bay Buccaneers,27,Chicago Bears,24,"76 degrees relative humidity 68%, wind 5 mph, wind chill 0",Chicago Bears,-3.0,35.0
+2008,3,September 21,/boxscores/200809210nyg.htm,True,New York Giants,26,Cincinnati Bengals,23,"76 degrees relative humidity 40%, wind 3 mph, wind chill 0",New York Giants,-13.0,42.5
+2008,3,September 21,/boxscores/200809210was.htm,True,Washington Redskins,24,Arizona Cardinals,17,"75 degrees relative humidity 46%, wind 1 mph, wind chill 0",Washington Redskins,-3.0,43.5
+2008,3,September 21,/boxscores/200809210min.htm,True,Minnesota Vikings,20,Carolina Panthers,10,,Minnesota Vikings,-3.0,37.5
+2008,3,September 21,/boxscores/200809210den.htm,True,Denver Broncos,34,New Orleans Saints,32,"75 degrees relative humidity 34%, wind 7 mph, wind chill 0",Denver Broncos,-5.5,52.0
+2008,3,September 21,/boxscores/200809210sfo.htm,True,San Francisco 49ers,31,Detroit Lions,13,"67 degrees relative humidity 62%, wind 12 mph, wind chill 0",San Francisco 49ers,-5.0,47.0
+2008,3,September 21,/boxscores/200809210sea.htm,True,Seattle Seahawks,37,St. Louis Rams,13,"59 degrees relative humidity 77%, wind 5 mph, wind chill 0",Seattle Seahawks,-8.0,44.5
+2008,3,September 21,/boxscores/200809210phi.htm,True,Philadelphia Eagles,15,Pittsburgh Steelers,6,"79 degrees relative humidity 42%, wind 3 mph, wind chill 0",Philadelphia Eagles,-3.5,45.0
+2008,3,September 21,/boxscores/200809210clt.htm,False,Jacksonville Jaguars,23,Indianapolis Colts,21,,Indianapolis Colts,-4.0,42.0
+2008,3,September 21,/boxscores/200809210rav.htm,True,Baltimore Ravens,28,Cleveland Browns,10,"77 degrees relative humidity 37%, wind 2 mph, wind chill 0",Baltimore Ravens,-2.5,37.0
+2008,3,September 21,/boxscores/200809210gnb.htm,False,Dallas Cowboys,27,Green Bay Packers,16,"64 degrees relative humidity 83%, wind 8 mph, wind chill 0",Dallas Cowboys,-3.0,51.0
+2008,3,September 22,/boxscores/200809220sdg.htm,True,San Diego Chargers,48,New York Jets,29,"71 degrees relative humidity 61%, wind 8 mph, wind chill 0",San Diego Chargers,-8.0,46.5
+2008,4,September 28,/boxscores/200809280kan.htm,True,Kansas City Chiefs,33,Denver Broncos,19,"74 degrees relative humidity 65%, wind 7 mph, wind chill 0",Denver Broncos,-9.0,47.0
+2008,4,September 28,/boxscores/200809280jax.htm,True,Jacksonville Jaguars,30,Houston Texans,27,"82 degrees relative humidity 39%, wind 7 mph, wind chill 0",Jacksonville Jaguars,-6.5,43.0
+2008,4,September 28,/boxscores/200809280cin.htm,False,Cleveland Browns,20,Cincinnati Bengals,12,"74 degrees relative humidity 56%, wind 7 mph, wind chill 0",Cincinnati Bengals,-1.0,42.0
+2008,4,September 28,/boxscores/200809280nyj.htm,True,New York Jets,56,Arizona Cardinals,35,"69 degrees relative humidity 97%, no wind, wind chill 0",New York Jets,-1.5,43.5
+2008,4,September 28,/boxscores/200809280tam.htm,True,Tampa Bay Buccaneers,30,Green Bay Packers,21,"81 degrees relative humidity 58%, wind 5 mph, wind chill 0",Tampa Bay Buccaneers,-2.0,43.0
+2008,4,September 28,/boxscores/200809280nor.htm,True,New Orleans Saints,31,San Francisco 49ers,17,,New Orleans Saints,-4.0,48.5
+2008,4,September 28,/boxscores/200809280oti.htm,True,Tennessee Titans,30,Minnesota Vikings,17,"78 degrees relative humidity 43%, wind 10 mph",Tennessee Titans,-3.0,35.0
+2008,4,September 28,/boxscores/200809280car.htm,True,Carolina Panthers,24,Atlanta Falcons,9,"78 degrees relative humidity 87%, wind 4 mph, wind chill 0",Carolina Panthers,-7.0,39.0
+2008,4,September 28,/boxscores/200809280rai.htm,False,San Diego Chargers,28,Oakland Raiders,18,"78 degrees relative humidity 64%, wind 11 mph, wind chill 0",San Diego Chargers,-8.0,45.5
+2008,4,September 28,/boxscores/200809280ram.htm,False,Buffalo Bills,31,St. Louis Rams,14,,Buffalo Bills,-8.5,43.5
+2008,4,September 28,/boxscores/200809280dal.htm,False,Washington Redskins,26,Dallas Cowboys,24,"85 degrees relative humidity 28%, no wind, wind chill 0",Dallas Cowboys,-10.0,47.0
+2008,4,September 28,/boxscores/200809280chi.htm,True,Chicago Bears,24,Philadelphia Eagles,20,"65 degrees relative humidity 75%, wind 8 mph, wind chill 0",Philadelphia Eagles,-3.0,39.0
+2008,4,September 29,/boxscores/200809290pit.htm,True,Pittsburgh Steelers,23,Baltimore Ravens,20,"65 degrees relative humidity 75%, wind 3 mph",Pittsburgh Steelers,-6.0,34.5
+2008,5,October 5,/boxscores/200810050htx.htm,False,Indianapolis Colts,31,Houston Texans,27,,Indianapolis Colts,-4.5,48.5
+2008,5,October 5,/boxscores/200810050gnb.htm,False,Atlanta Falcons,27,Green Bay Packers,24,"60 degrees relative humidity 49%, wind 8 mph, wind chill 0",Green Bay Packers,-5.0,42.5
+2008,5,October 5,/boxscores/200810050det.htm,False,Chicago Bears,34,Detroit Lions,7,,Chicago Bears,-3.0,45.5
+2008,5,October 5,/boxscores/200810050rav.htm,False,Tennessee Titans,13,Baltimore Ravens,10,"69 degrees relative humidity 52%, wind 3 mph, wind chill 0",Tennessee Titans,-1.0,33.5
+2008,5,October 5,/boxscores/200810050nyg.htm,True,New York Giants,44,Seattle Seahawks,6,"60 degrees relative humidity 75%, wind 6 mph, wind chill 0",New York Giants,-6.5,43.5
+2008,5,October 5,/boxscores/200810050mia.htm,True,Miami Dolphins,17,San Diego Chargers,10,"86 degrees relative humidity 74%, wind 16 mph, wind chill 0",San Diego Chargers,-6.0,44.5
+2008,5,October 5,/boxscores/200810050car.htm,True,Carolina Panthers,34,Kansas City Chiefs,0,"80 degrees relative humidity 77%, no wind, wind chill 0",Carolina Panthers,-10.0,38.0
+2008,5,October 5,/boxscores/200810050phi.htm,False,Washington Redskins,23,Philadelphia Eagles,17,"66 degrees relative humidity 68%, wind 4 mph, wind chill 0",Philadelphia Eagles,-6.5,42.0
+2008,5,October 5,/boxscores/200810050den.htm,True,Denver Broncos,16,Tampa Bay Buccaneers,13,"70 degrees relative humidity 30%, wind 9 mph, wind chill 0",Denver Broncos,-4.0,47.0
+2008,5,October 5,/boxscores/200810050sfo.htm,False,New England Patriots,30,San Francisco 49ers,21,"67 degrees relative humidity 52%, wind 8 mph, wind chill 0",New England Patriots,-3.0,41.0
+2008,5,October 5,/boxscores/200810050dal.htm,True,Dallas Cowboys,31,Cincinnati Bengals,22,"87 degrees relative humidity 32%, no wind, wind chill 0",Dallas Cowboys,-16.0,46.0
+2008,5,October 5,/boxscores/200810050crd.htm,True,Arizona Cardinals,41,Buffalo Bills,17,,Arizona Cardinals,-2.5,44.5
+2008,5,October 5,/boxscores/200810050jax.htm,False,Pittsburgh Steelers,26,Jacksonville Jaguars,21,"73 degrees relative humidity 81%, wind 10 mph, wind chill 0",Jacksonville Jaguars,-5.0,37.0
+2008,5,October 6,/boxscores/200810060nor.htm,False,Minnesota Vikings,30,New Orleans Saints,27,,New Orleans Saints,-3.0,47.0
+2008,6,October 12,/boxscores/200810120htx.htm,True,Houston Texans,29,Miami Dolphins,28,,Houston Texans,-3.0,44.5
+2008,6,October 12,/boxscores/200810120clt.htm,True,Indianapolis Colts,31,Baltimore Ravens,3,,Indianapolis Colts,-4.0,38.5
+2008,6,October 12,/boxscores/200810120atl.htm,True,Atlanta Falcons,22,Chicago Bears,20,,Chicago Bears,-3.0,43.5
+2008,6,October 12,/boxscores/200810120tam.htm,True,Tampa Bay Buccaneers,27,Carolina Panthers,3,"84 degrees relative humidity 86%, wind 8 mph, wind chill 0",Tampa Bay Buccaneers,-1.0,36.5
+2008,6,October 12,/boxscores/200810120nor.htm,True,New Orleans Saints,34,Oakland Raiders,3,,New Orleans Saints,-7.0,47.5
+2008,6,October 12,/boxscores/200810120nyj.htm,True,New York Jets,26,Cincinnati Bengals,14,"67 degrees relative humidity 66%, wind 7 mph, wind chill 0",New York Jets,-8.0,42.5
+2008,6,October 12,/boxscores/200810120was.htm,False,St. Louis Rams,19,Washington Redskins,17,"72 degrees relative humidity 46%, wind 2 mph, wind chill 0",Washington Redskins,-13.5,44.0
+2008,6,October 12,/boxscores/200810120min.htm,True,Minnesota Vikings,12,Detroit Lions,10,,Minnesota Vikings,-13.0,45.5
+2008,6,October 12,/boxscores/200810120den.htm,False,Jacksonville Jaguars,24,Denver Broncos,17,"43 degrees relative humidity 76%, wind 6 mph",Denver Broncos,-3.0,48.0
+2008,6,October 12,/boxscores/200810120crd.htm,True,Arizona Cardinals,30,Dallas Cowboys,24,,Dallas Cowboys,-5.0,53.0
+2008,6,October 12,/boxscores/200810120sfo.htm,False,Philadelphia Eagles,40,San Francisco 49ers,26,"64 degrees relative humidity 24%, wind 13 mph, wind chill 0",Philadelphia Eagles,-5.0,41.5
+2008,6,October 12,/boxscores/200810120sea.htm,False,Green Bay Packers,27,Seattle Seahawks,17,"56 degrees relative humidity 52%, no wind, wind chill 0",Seattle Seahawks,-1.0,44.5
+2008,6,October 12,/boxscores/200810120sdg.htm,True,San Diego Chargers,30,New England Patriots,10,"69 degrees relative humidity 37%, wind 8 mph, wind chill 0",San Diego Chargers,-6.0,44.0
+2008,6,October 13,/boxscores/200810130cle.htm,True,Cleveland Browns,35,New York Giants,14,"71 degrees relative humidity 87%, no wind, wind chill 0",New York Giants,-8.0,43.5
+2008,7,October 19,/boxscores/200810190kan.htm,False,Tennessee Titans,34,Kansas City Chiefs,10,"63 degrees relative humidity 55%, wind 10 mph, wind chill 0",Tennessee Titans,-9.0,35.0
+2008,7,October 19,/boxscores/200810190ram.htm,True,St. Louis Rams,34,Dallas Cowboys,14,,Dallas Cowboys,-8.0,45.0
+2008,7,October 19,/boxscores/200810190buf.htm,True,Buffalo Bills,23,San Diego Chargers,14,"51 degrees relative humidity 46%, wind 4 mph, wind chill 0",Buffalo Bills,-1.0,45.0
+2008,7,October 19,/boxscores/200810190nyg.htm,True,New York Giants,29,San Francisco 49ers,17,"51 degrees relative humidity 45%, wind 14 mph",New York Giants,-10.0,47.0
+2008,7,October 19,/boxscores/200810190mia.htm,False,Baltimore Ravens,27,Miami Dolphins,13,"80 degrees relative humidity 72%, wind 13 mph, wind chill 0",Miami Dolphins,-3.0,35.0
+2008,7,October 19,/boxscores/200810190chi.htm,True,Chicago Bears,48,Minnesota Vikings,41,"58 degrees relative humidity 50%, wind 17 mph, wind chill 0",Chicago Bears,-3.0,38.0
+2008,7,October 19,/boxscores/200810190cin.htm,False,Pittsburgh Steelers,38,Cincinnati Bengals,10,"56 degrees relative humidity 40%, wind 3 mph, wind chill 0",Pittsburgh Steelers,-8.5,37.0
+2008,7,October 19,/boxscores/200810190car.htm,True,Carolina Panthers,30,New Orleans Saints,7,"65 degrees relative humidity 71%, wind 12 mph, wind chill 0",Carolina Panthers,-3.0,44.5
+2008,7,October 19,/boxscores/200810190htx.htm,True,Houston Texans,28,Detroit Lions,21,,Houston Texans,-11.5,47.5
+2008,7,October 19,/boxscores/200810190rai.htm,True,Oakland Raiders,16,New York Jets,13,"59 degrees relative humidity 66%, wind 8 mph, wind chill 0",New York Jets,-3.0,41.0
+2008,7,October 19,/boxscores/200810190gnb.htm,True,Green Bay Packers,34,Indianapolis Colts,14,"60 degrees relative humidity 51%, wind 20 mph, wind chill 0",Indianapolis Colts,-2.5,47.0
+2008,7,October 19,/boxscores/200810190was.htm,True,Washington Redskins,14,Cleveland Browns,11,"59 degrees relative humidity 29%, wind 5 mph, wind chill 0",Washington Redskins,-7.0,42.0
+2008,7,October 19,/boxscores/200810190tam.htm,True,Tampa Bay Buccaneers,20,Seattle Seahawks,10,"75 degrees relative humidity 48%, wind 10 mph, wind chill 0",Tampa Bay Buccaneers,-11.5,40.5
+2008,7,October 20,/boxscores/200810200nwe.htm,True,New England Patriots,41,Denver Broncos,7,"40 degrees relative humidity 54%, no wind, wind chill 0",New England Patriots,-3.0,48.0
+2008,8,October 26,/boxscores/200810260nwe.htm,True,New England Patriots,23,St. Louis Rams,16,"61 degrees relative humidity 54%, wind 7 mph, wind chill 0",New England Patriots,-9.0,41.0
+2008,8,October 26,/boxscores/200810260phi.htm,True,Philadelphia Eagles,27,Atlanta Falcons,14,"63 degrees relative humidity 50%, wind 10 mph, wind chill 0",Philadelphia Eagles,-9.5,45.0
+2008,8,October 26,/boxscores/200810260rav.htm,True,Baltimore Ravens,29,Oakland Raiders,10,"65 degrees relative humidity 40%, wind 6 mph, wind chill 0",Baltimore Ravens,-8.0,34.5
+2008,8,October 26,/boxscores/200810260dal.htm,True,Dallas Cowboys,13,Tampa Bay Buccaneers,9,"74 degrees relative humidity 59%, no wind, wind chill 0",Dallas Cowboys,-1.5,40.5
+2008,8,October 26,/boxscores/200810260det.htm,False,Washington Redskins,25,Detroit Lions,17,,Washington Redskins,-7.0,42.0
+2008,8,October 26,/boxscores/200810260car.htm,True,Carolina Panthers,27,Arizona Cardinals,23,"70 degrees relative humidity 80%, no wind, wind chill 0",Carolina Panthers,-5.5,43.0
+2008,8,October 26,/boxscores/200810260nyj.htm,True,New York Jets,28,Kansas City Chiefs,24,"59 degrees relative humidity 49%, wind 5 mph, wind chill 0",New York Jets,-14.0,41.0
+2008,8,October 26,/boxscores/200810260mia.htm,True,Miami Dolphins,25,Buffalo Bills,16,"78 degrees relative humidity 83%, wind 8 mph, wind chill 0",Miami Dolphins,-1.0,41.5
+2008,8,October 26,/boxscores/200810260nor.htm,True,New Orleans Saints,37,San Diego Chargers,32,"54 degrees relative humidity 94%, wind 9 mph, wind chill 0",San Diego Chargers,-3.0,45.5
+2008,8,October 26,/boxscores/200810260htx.htm,True,Houston Texans,35,Cincinnati Bengals,6,,Houston Texans,-9.0,45.5
+2008,8,October 26,/boxscores/200810260jax.htm,False,Cleveland Browns,23,Jacksonville Jaguars,17,"72 degrees relative humidity 39%, wind 12 mph, wind chill 0",Jacksonville Jaguars,-7.0,42.0
+2008,8,October 26,/boxscores/200810260sfo.htm,False,Seattle Seahawks,34,San Francisco 49ers,13,"64 degrees relative humidity 70%, wind 3 mph, wind chill 0",San Francisco 49ers,-5.5,41.5
+2008,8,October 26,/boxscores/200810260pit.htm,False,New York Giants,21,Pittsburgh Steelers,14,"62 degrees relative humidity 50%, wind 10 mph",Pittsburgh Steelers,-3.0,41.0
+2008,8,October 27,/boxscores/200810270oti.htm,True,Tennessee Titans,31,Indianapolis Colts,21,"45 degrees relative humidity 46%, wind 10 mph",Tennessee Titans,-4.0,41.5
+2008,9,November 2,/boxscores/200811020ram.htm,False,Arizona Cardinals,34,St. Louis Rams,13,,Arizona Cardinals,-3.0,50.0
+2008,9,November 2,/boxscores/200811020cle.htm,False,Baltimore Ravens,37,Cleveland Browns,27,"55 degrees relative humidity 73%, wind 8 mph, wind chill 0",Cleveland Browns,-2.5,36.5
+2008,9,November 2,/boxscores/200811020buf.htm,False,New York Jets,26,Buffalo Bills,17,"49 degrees relative humidity 50%, wind 15 mph, wind chill 0",Buffalo Bills,-5.0,43.0
+2008,9,November 2,/boxscores/200811020chi.htm,True,Chicago Bears,27,Detroit Lions,23,"60 degrees relative humidity 65%, wind 9 mph, wind chill 0",Chicago Bears,-12.5,43.5
+2008,9,November 2,/boxscores/200811020oti.htm,True,Tennessee Titans,19,Green Bay Packers,16,"69 degrees relative humidity 38%, no wind",Tennessee Titans,-3.5,41.0
+2008,9,November 2,/boxscores/200811020cin.htm,True,Cincinnati Bengals,21,Jacksonville Jaguars,19,"66 degrees relative humidity 58%, wind 1 mph, wind chill 0",Jacksonville Jaguars,-7.5,40.0
+2008,9,November 2,/boxscores/200811020kan.htm,False,Tampa Bay Buccaneers,30,Kansas City Chiefs,27,"69 degrees relative humidity 61%, no wind, wind chill 0",Tampa Bay Buccaneers,-9.5,36.5
+2008,9,November 2,/boxscores/200811020min.htm,True,Minnesota Vikings,28,Houston Texans,21,,Minnesota Vikings,-5.5,47.0
+2008,9,November 2,/boxscores/200811020den.htm,False,Miami Dolphins,26,Denver Broncos,17,"77 degrees relative humidity 14%, wind 11 mph, wind chill 0",Denver Broncos,-4.0,50.0
+2008,9,November 2,/boxscores/200811020rai.htm,False,Atlanta Falcons,24,Oakland Raiders,0,"63 degrees relative humidity 74%, wind 10 mph, wind chill 0",Atlanta Falcons,-3.0,41.5
+2008,9,November 2,/boxscores/200811020nyg.htm,True,New York Giants,35,Dallas Cowboys,14,"48 degrees relative humidity 36%, wind 6 mph",New York Giants,-8.5,42.0
+2008,9,November 2,/boxscores/200811020sea.htm,False,Philadelphia Eagles,26,Seattle Seahawks,7,"58 degrees relative humidity 71%, wind 13 mph, wind chill 0",Philadelphia Eagles,-6.5,43.0
+2008,9,November 2,/boxscores/200811020clt.htm,True,Indianapolis Colts,18,New England Patriots,15,,Indianapolis Colts,-6.5,44.0
+2008,9,November 3,/boxscores/200811030was.htm,False,Pittsburgh Steelers,23,Washington Redskins,6,"51 degrees relative humidity 96%, no wind, wind chill 0",Washington Redskins,-2.5,37.0
+2008,10,November 6,/boxscores/200811060cle.htm,False,Denver Broncos,34,Cleveland Browns,30,"56 degrees relative humidity 52%, wind 6 mph, wind chill 0",Cleveland Browns,-3.0,47.0
+2008,10,November 9,/boxscores/200811090chi.htm,False,Tennessee Titans,21,Chicago Bears,14,"37 degrees relative humidity 63%, wind 16 mph, wind chill 28",Tennessee Titans,-3.0,37.0
+2008,10,November 9,/boxscores/200811090det.htm,False,Jacksonville Jaguars,38,Detroit Lions,14,,Jacksonville Jaguars,-5.0,43.0
+2008,10,November 9,/boxscores/200811090htx.htm,False,Baltimore Ravens,41,Houston Texans,13,,Houston Texans,-2.5,44.0
+2008,10,November 9,/boxscores/200811090nwe.htm,True,New England Patriots,20,Buffalo Bills,10,"54 degrees relative humidity 43%, wind 15 mph, wind chill 0",New England Patriots,-3.5,41.0
+2008,10,November 9,/boxscores/200811090atl.htm,True,Atlanta Falcons,34,New Orleans Saints,20,,Atlanta Falcons,-1.5,51.0
+2008,10,November 9,/boxscores/200811090mia.htm,True,Miami Dolphins,21,Seattle Seahawks,19,"78 degrees relative humidity 71%, wind 15 mph, wind chill 0",Miami Dolphins,-7.5,42.0
+2008,10,November 9,/boxscores/200811090nyj.htm,True,New York Jets,47,St. Louis Rams,3,"53 degrees relative humidity 46%, wind 14 mph, wind chill 0",New York Jets,-9.5,43.5
+2008,10,November 9,/boxscores/200811090min.htm,True,Minnesota Vikings,28,Green Bay Packers,27,,Minnesota Vikings,-2.5,44.5
+2008,10,November 9,/boxscores/200811090rai.htm,False,Carolina Panthers,17,Oakland Raiders,6,"62 degrees relative humidity 59%, wind 12 mph, wind chill 0",Carolina Panthers,-9.5,37.5
+2008,10,November 9,/boxscores/200811090pit.htm,False,Indianapolis Colts,24,Pittsburgh Steelers,20,"44 degrees relative humidity 60%, wind 11 mph",Pittsburgh Steelers,-3.5,39.0
+2008,10,November 9,/boxscores/200811090sdg.htm,True,San Diego Chargers,20,Kansas City Chiefs,19,"62 degrees relative humidity 61%, wind 24 mph, wind chill 0",San Diego Chargers,-14.5,47.5
+2008,10,November 9,/boxscores/200811090phi.htm,False,New York Giants,36,Philadelphia Eagles,31,"48 degrees relative humidity 63%, wind 5 mph",Philadelphia Eagles,-1.5,42.5
+2008,10,November 10,/boxscores/200811100crd.htm,True,Arizona Cardinals,29,San Francisco 49ers,24,,Arizona Cardinals,-9.5,47.5
+2008,11,November 13,/boxscores/200811130nwe.htm,False,New York Jets,34,New England Patriots,31,"44 degrees relative humidity 99%, wind 6 mph",New England Patriots,-3.5,42.5
+2008,11,November 16,/boxscores/200811160kan.htm,False,New Orleans Saints,30,Kansas City Chiefs,20,"53 degrees relative humidity 45%, wind 10 mph, wind chill 0",New Orleans Saints,-6.0,51.0
+2008,11,November 16,/boxscores/200811160nyg.htm,True,New York Giants,30,Baltimore Ravens,10,"49 degrees relative humidity 46%, wind 19 mph",New York Giants,-7.0,40.0
+2008,11,November 16,/boxscores/200811160gnb.htm,True,Green Bay Packers,37,Chicago Bears,3,"33 degrees relative humidity 61%, wind 15 mph, wind chill 23",Green Bay Packers,-3.5,43.0
+2008,11,November 16,/boxscores/200811160atl.htm,False,Denver Broncos,24,Atlanta Falcons,20,,Atlanta Falcons,-6.5,52.0
+2008,11,November 16,/boxscores/200811160mia.htm,True,Miami Dolphins,17,Oakland Raiders,15,"67 degrees relative humidity 39%, wind 11 mph, wind chill 0",Miami Dolphins,-10.0,37.5
+2008,11,November 16,/boxscores/200811160tam.htm,True,Tampa Bay Buccaneers,19,Minnesota Vikings,13,"62 degrees relative humidity 43%, wind 10 mph",Tampa Bay Buccaneers,-5.5,38.5
+2008,11,November 16,/boxscores/200811160clt.htm,True,Indianapolis Colts,33,Houston Texans,27,,Indianapolis Colts,-8.0,50.5
+2008,11,November 16,/boxscores/200811160car.htm,True,Carolina Panthers,31,Detroit Lions,22,"54 degrees relative humidity 58%, wind 10 mph, wind chill 0",Carolina Panthers,-14.0,40.5
+2008,11,November 16,/boxscores/200811160sfo.htm,True,San Francisco 49ers,35,St. Louis Rams,16,"75 degrees relative humidity 50%, wind 5 mph, wind chill 0",San Francisco 49ers,-7.0,43.5
+2008,11,November 16,/boxscores/200811160sea.htm,False,Arizona Cardinals,26,Seattle Seahawks,20,"52 degrees relative humidity 85%, wind 3 mph, wind chill 0",Arizona Cardinals,-3.0,48.0
+2008,11,November 16,/boxscores/200811160jax.htm,False,Tennessee Titans,24,Jacksonville Jaguars,14,"60 degrees relative humidity 39%, wind 10 mph, wind chill 0",Tennessee Titans,-3.0,40.0
+2008,11,November 16,/boxscores/200811160pit.htm,True,Pittsburgh Steelers,11,San Diego Chargers,10,"35 degrees relative humidity 80%, wind 14 mph, wind chill 26",Pittsburgh Steelers,-4.5,40.5
+2008,11,November 16,/boxscores/200811160was.htm,False,Dallas Cowboys,14,Washington Redskins,10,"44 degrees relative humidity 46%, wind 7 mph, wind chill 0",Dallas Cowboys,-2.0,43.0
+2008,11,November 17,/boxscores/200811170buf.htm,False,Cleveland Browns,29,Buffalo Bills,27,"30 degrees relative humidity 66%, wind 9 mph, wind chill 22",Buffalo Bills,-5.0,40.0
+2008,12,November 20,/boxscores/200811200pit.htm,True,Pittsburgh Steelers,27,Cincinnati Bengals,10,"32 degrees relative humidity 71%, wind 11 mph, wind chill 23",Pittsburgh Steelers,-11.5,34.5
+2008,12,November 23,/boxscores/200811230kan.htm,False,Buffalo Bills,54,Kansas City Chiefs,31,"50 degrees relative humidity 56%, wind 10 mph, wind chill 0",Buffalo Bills,-3.0,43.5
+2008,12,November 23,/boxscores/200811230ram.htm,False,Chicago Bears,27,St. Louis Rams,3,,Chicago Bears,-7.0,44.5
+2008,12,November 23,/boxscores/200811230oti.htm,False,New York Jets,34,Tennessee Titans,13,"52 degrees relative humidity 26%, wind 6 mph",Tennessee Titans,-5.5,41.0
+2008,12,November 23,/boxscores/200811230rav.htm,True,Baltimore Ravens,36,Philadelphia Eagles,7,"39 degrees relative humidity 38%, wind 5 mph",Baltimore Ravens,-2.0,39.5
+2008,12,November 23,/boxscores/200811230mia.htm,False,New England Patriots,48,Miami Dolphins,28,"73 degrees relative humidity 44%, wind 14 mph, wind chill 0",New England Patriots,-2.0,42.5
+2008,12,November 23,/boxscores/200811230cle.htm,False,Houston Texans,16,Cleveland Browns,6,"30 degrees relative humidity 79%, wind 12 mph, wind chill 20",Cleveland Browns,-3.0,49.5
+2008,12,November 23,/boxscores/200811230det.htm,False,Tampa Bay Buccaneers,38,Detroit Lions,20,,Tampa Bay Buccaneers,-8.0,42.5
+2008,12,November 23,/boxscores/200811230dal.htm,True,Dallas Cowboys,35,San Francisco 49ers,22,"64 degrees relative humidity 60%, no wind, wind chill 0",Dallas Cowboys,-9.5,45.5
+2008,12,November 23,/boxscores/200811230jax.htm,False,Minnesota Vikings,30,Jacksonville Jaguars,12,"66 degrees relative humidity 41%, wind 5 mph, wind chill 0",Jacksonville Jaguars,-2.5,41.5
+2008,12,November 23,/boxscores/200811230den.htm,False,Oakland Raiders,31,Denver Broncos,10,"47 degrees relative humidity 30%, wind 15 mph",Denver Broncos,-9.0,43.5
+2008,12,November 23,/boxscores/200811230atl.htm,True,Atlanta Falcons,45,Carolina Panthers,28,,Atlanta Falcons,-1.0,41.5
+2008,12,November 23,/boxscores/200811230sea.htm,False,Washington Redskins,20,Seattle Seahawks,17,"49 degrees relative humidity 60%, wind 4 mph",Washington Redskins,-3.0,40.0
+2008,12,November 23,/boxscores/200811230crd.htm,False,New York Giants,37,Arizona Cardinals,29,,New York Giants,-3.0,48.5
+2008,12,November 23,/boxscores/200811230sdg.htm,False,Indianapolis Colts,23,San Diego Chargers,20,"58 degrees relative humidity 63%, wind 8 mph, wind chill 0",San Diego Chargers,-3.0,49.0
+2008,12,November 24,/boxscores/200811240nor.htm,True,New Orleans Saints,51,Green Bay Packers,29,,New Orleans Saints,-1.0,52.0
+2008,13,November 27,/boxscores/200811270det.htm,False,Tennessee Titans,47,Detroit Lions,10,,Tennessee Titans,-11.0,44.0
+2008,13,November 27,/boxscores/200811270dal.htm,True,Dallas Cowboys,34,Seattle Seahawks,9,"69 degrees relative humidity 31%, no wind, wind chill 0",Dallas Cowboys,-12.0,46.5
+2008,13,November 27,/boxscores/200811270phi.htm,True,Philadelphia Eagles,48,Arizona Cardinals,20,"41 degrees relative humidity 62%, wind 5 mph",Philadelphia Eagles,-3.0,49.0
+2008,13,November 30,/boxscores/200811300ram.htm,False,Miami Dolphins,16,St. Louis Rams,12,,Miami Dolphins,-7.0,44.5
+2008,13,November 30,/boxscores/200811300buf.htm,False,San Francisco 49ers,10,Buffalo Bills,3,"38 degrees relative humidity 69%, wind 15 mph, wind chill 29",Buffalo Bills,-6.5,43.0
+2008,13,November 30,/boxscores/200811300cle.htm,False,Indianapolis Colts,10,Cleveland Browns,6,"36 degrees relative humidity 90%, wind 15 mph, wind chill 27",Indianapolis Colts,-4.0,44.0
+2008,13,November 30,/boxscores/200811300cin.htm,False,Baltimore Ravens,34,Cincinnati Bengals,3,"42 degrees relative humidity 93%, wind 3 mph",Baltimore Ravens,-7.0,36.0
+2008,13,November 30,/boxscores/200811300gnb.htm,False,Carolina Panthers,35,Green Bay Packers,31,"37 degrees relative humidity 75%, wind 10 mph, wind chill 30",Green Bay Packers,-3.0,41.5
+2008,13,November 30,/boxscores/200811300tam.htm,True,Tampa Bay Buccaneers,23,New Orleans Saints,20,"73 degrees relative humidity 83%, wind 30 mph",Tampa Bay Buccaneers,-3.5,43.5
+2008,13,November 30,/boxscores/200811300was.htm,False,New York Giants,23,Washington Redskins,7,"40 degrees relative humidity 92%, wind 10 mph, wind chill 0",New York Giants,-4.0,41.0
+2008,13,November 30,/boxscores/200811300sdg.htm,False,Atlanta Falcons,22,San Diego Chargers,16,"73 degrees relative humidity 62%, wind 8 mph, wind chill 0",San Diego Chargers,-6.5,48.0
+2008,13,November 30,/boxscores/200811300nyj.htm,False,Denver Broncos,34,New York Jets,17,"36 degrees relative humidity 89%, wind 10 mph, wind chill 29",New York Jets,-8.0,48.0
+2008,13,November 30,/boxscores/200811300rai.htm,False,Kansas City Chiefs,20,Oakland Raiders,13,"59 degrees relative humidity 72%, wind 6 mph, wind chill 0",Oakland Raiders,-3.5,41.5
+2008,13,November 30,/boxscores/200811300nwe.htm,False,Pittsburgh Steelers,33,New England Patriots,10,"34 degrees relative humidity 100%, wind 3 mph",New England Patriots,-2.5,40.0
+2008,13,November 30,/boxscores/200811300min.htm,True,Minnesota Vikings,34,Chicago Bears,14,,Minnesota Vikings,-5.0,42.5
+2008,13,December 1,/boxscores/200812010htx.htm,True,Houston Texans,30,Jacksonville Jaguars,17,,Houston Texans,-3.0,48.5
+2008,14,December 4,/boxscores/200812040sdg.htm,True,San Diego Chargers,34,Oakland Raiders,7,"62 degrees relative humidity 70%, wind 8 mph, wind chill 0",San Diego Chargers,-9.0,41.0
+2008,14,December 7,/boxscores/200812070chi.htm,True,Chicago Bears,23,Jacksonville Jaguars,10,"19 degrees relative humidity 43%, wind 8 mph, wind chill 9",Chicago Bears,-6.5,40.0
+2008,14,December 7,/boxscores/200812070nor.htm,True,New Orleans Saints,29,Atlanta Falcons,25,,New Orleans Saints,-3.0,51.5
+2008,14,December 7,/boxscores/200812070clt.htm,True,Indianapolis Colts,35,Cincinnati Bengals,3,,Indianapolis Colts,-13.5,41.5
+2008,14,December 7,/boxscores/200812070gnb.htm,False,Houston Texans,24,Green Bay Packers,21,"3 degrees relative humidity 79%, wind 3 mph, wind chill -3",Green Bay Packers,-7.0,47.5
+2008,14,December 7,/boxscores/200812070det.htm,False,Minnesota Vikings,20,Detroit Lions,16,,Minnesota Vikings,-10.5,45.5
+2008,14,December 7,/boxscores/200812070oti.htm,True,Tennessee Titans,28,Cleveland Browns,9,"32 degrees relative humidity 42%, wind 6 mph, wind chill 26",Tennessee Titans,-13.5,36.5
+2008,14,December 7,/boxscores/200812070nyg.htm,False,Philadelphia Eagles,20,New York Giants,14,"35 degrees relative humidity 47%, wind 21 mph, wind chill 24",New York Giants,-7.0,40.5
+2008,14,December 7,/boxscores/200812070buf.htm,False,Miami Dolphins,16,Buffalo Bills,3,,Buffalo Bills,-2.0,42.5
+2008,14,December 7,/boxscores/200812070den.htm,True,Denver Broncos,24,Kansas City Chiefs,17,"64 degrees relative humidity 25%, wind 4 mph, wind chill 0",Denver Broncos,-9.0,49.0
+2008,14,December 7,/boxscores/200812070sfo.htm,True,San Francisco 49ers,24,New York Jets,14,"52 degrees relative humidity 80%, no wind, wind chill 0",New York Jets,-5.0,45.5
+2008,14,December 7,/boxscores/200812070sea.htm,False,New England Patriots,24,Seattle Seahawks,21,"50 degrees relative humidity 86%, wind 3 mph",New England Patriots,-7.5,43.0
+2008,14,December 7,/boxscores/200812070crd.htm,True,Arizona Cardinals,34,St. Louis Rams,10,,Arizona Cardinals,-14.5,48.5
+2008,14,December 7,/boxscores/200812070pit.htm,True,Pittsburgh Steelers,20,Dallas Cowboys,13,"22 degrees relative humidity 42%, wind 16 mph, wind chill 8",Pittsburgh Steelers,-4.0,38.5
+2008,14,December 7,/boxscores/200812070rav.htm,True,Baltimore Ravens,24,Washington Redskins,10,"29 degrees relative humidity 36%, wind 20 mph, wind chill 12",Baltimore Ravens,-6.5,35.0
+2008,14,December 8,/boxscores/200812080car.htm,True,Carolina Panthers,38,Tampa Bay Buccaneers,23,"38 degrees relative humidity 31%, wind 4 mph",Carolina Panthers,-3.0,38.5
+2008,15,December 11,/boxscores/200812110chi.htm,True,Chicago Bears,27,New Orleans Saints,24,"28 degrees relative humidity 60%, wind 11 mph, wind chill 18",Chicago Bears,-3.0,46.0
+2008,15,December 14,/boxscores/200812140ram.htm,False,Seattle Seahawks,23,St. Louis Rams,20,,Seattle Seahawks,-2.5,42.0
+2008,15,December 14,/boxscores/200812140kan.htm,False,San Diego Chargers,22,Kansas City Chiefs,21,"36 degrees relative humidity 65%, wind 25 mph, wind chill 24",San Diego Chargers,-5.5,41.0
+2008,15,December 14,/boxscores/200812140clt.htm,True,Indianapolis Colts,31,Detroit Lions,21,,Indianapolis Colts,-17.0,45.0
+2008,15,December 14,/boxscores/200812140nyj.htm,True,New York Jets,31,Buffalo Bills,27,"40 degrees relative humidity 47%, wind 20 mph, wind chill 30",New York Jets,-8.0,41.0
+2008,15,December 14,/boxscores/200812140mia.htm,True,Miami Dolphins,14,San Francisco 49ers,9,"77 degrees relative humidity 54%, wind 17 mph, wind chill 0",Miami Dolphins,-5.5,41.0
+2008,15,December 14,/boxscores/200812140atl.htm,True,Atlanta Falcons,13,Tampa Bay Buccaneers,10,,Atlanta Falcons,-4.5,43.5
+2008,15,December 14,/boxscores/200812140cin.htm,True,Cincinnati Bengals,20,Washington Redskins,13,"49 degrees relative humidity 40%, wind 15 mph",Washington Redskins,-6.5,36.5
+2008,15,December 14,/boxscores/200812140jax.htm,True,Jacksonville Jaguars,20,Green Bay Packers,16,"67 degrees relative humidity 60%, wind 6 mph, wind chill 0",Green Bay Packers,-2.5,46.0
+2008,15,December 14,/boxscores/200812140htx.htm,True,Houston Texans,13,Tennessee Titans,12,,Tennessee Titans,-3.0,45.0
+2008,15,December 14,/boxscores/200812140crd.htm,False,Minnesota Vikings,35,Arizona Cardinals,14,,Arizona Cardinals,-3.5,46.5
+2008,15,December 14,/boxscores/200812140rai.htm,False,New England Patriots,49,Oakland Raiders,26,"44 degrees relative humidity 83%, wind 15 mph, wind chill 0",New England Patriots,-7.0,39.5
+2008,15,December 14,/boxscores/200812140car.htm,True,Carolina Panthers,30,Denver Broncos,10,"46 degrees relative humidity 64%, wind 5 mph",Carolina Panthers,-7.5,48.0
+2008,15,December 14,/boxscores/200812140rav.htm,False,Pittsburgh Steelers,13,Baltimore Ravens,9,"45 degrees relative humidity 53%, wind 14 mph",Baltimore Ravens,-3.0,34.0
+2008,15,December 14,/boxscores/200812140dal.htm,True,Dallas Cowboys,20,New York Giants,8,"71 degrees relative humidity 57%, no wind, wind chill 0",Dallas Cowboys,-3.0,46.0
+2008,15,December 15,/boxscores/200812150phi.htm,True,Philadelphia Eagles,30,Cleveland Browns,10,"58 degrees relative humidity 83%, wind 12 mph, wind chill 0",Philadelphia Eagles,-16.0,40.0
+2008,16,December 18,/boxscores/200812180jax.htm,False,Indianapolis Colts,31,Jacksonville Jaguars,24,"66 degrees relative humidity 84%, wind 4 mph, wind chill 0",Indianapolis Colts,-6.0,44.0
+2008,16,December 20,/boxscores/200812200dal.htm,False,Baltimore Ravens,33,Dallas Cowboys,24,"45 degrees relative humidity 45%, no wind, wind chill 0",Dallas Cowboys,-5.5,39.0
+2008,16,December 21,/boxscores/200812210ram.htm,False,San Francisco 49ers,17,St. Louis Rams,16,,San Francisco 49ers,-3.5,42.0
+2008,16,December 21,/boxscores/200812210kan.htm,False,Miami Dolphins,38,Kansas City Chiefs,31,"10 degrees relative humidity 45%, wind 20 mph, wind chill -12",Miami Dolphins,-3.5,37.5
+2008,16,December 21,/boxscores/200812210oti.htm,True,Tennessee Titans,31,Pittsburgh Steelers,14,"29 degrees relative humidity 37%, wind 11 mph, wind chill 19",Pittsburgh Steelers,-3.0,34.0
+2008,16,December 21,/boxscores/200812210tam.htm,False,San Diego Chargers,41,Tampa Bay Buccaneers,24,"72 degrees relative humidity 82%, wind 10 mph",Tampa Bay Buccaneers,-4.5,42.5
+2008,16,December 21,/boxscores/200812210nwe.htm,True,New England Patriots,47,Arizona Cardinals,7,"30 degrees relative humidity 100%, wind 10 mph, wind chill 21",New England Patriots,-8.0,41.0
+2008,16,December 21,/boxscores/200812210cle.htm,False,Cincinnati Bengals,14,Cleveland Browns,0,"18 degrees relative humidity 63%, wind 26 mph, wind chill 0",Cleveland Browns,-2.0,31.5
+2008,16,December 21,/boxscores/200812210det.htm,False,New Orleans Saints,42,Detroit Lions,7,,New Orleans Saints,-7.0,50.5
+2008,16,December 21,/boxscores/200812210rai.htm,True,Oakland Raiders,27,Houston Texans,16,"48 degrees relative humidity 80%, wind 6 mph",Houston Texans,-7.0,43.0
+2008,16,December 21,/boxscores/200812210den.htm,False,Buffalo Bills,30,Denver Broncos,23,"17 degrees relative humidity 61%, wind 8 mph, wind chill 7",Denver Broncos,-6.5,46.5
+2008,16,December 21,/boxscores/200812210sea.htm,True,Seattle Seahawks,13,New York Jets,3,"31 degrees relative humidity 60%, wind 11 mph, wind chill 22",New York Jets,-3.5,41.0
+2008,16,December 21,/boxscores/200812210min.htm,False,Atlanta Falcons,24,Minnesota Vikings,17,,Minnesota Vikings,-3.0,43.5
+2008,16,December 21,/boxscores/200812210was.htm,True,Washington Redskins,10,Philadelphia Eagles,3,"42 degrees relative humidity 39%, wind 17 mph",Philadelphia Eagles,-6.0,37.5
+2008,16,December 21,/boxscores/200812210nyg.htm,True,New York Giants,34,Carolina Panthers,28,"34 degrees relative humidity 42%, wind 18 mph, wind chill 23",New York Giants,-4.0,38.0
+2008,16,December 22,/boxscores/200812220chi.htm,True,Chicago Bears,20,Green Bay Packers,17,"2 degrees relative humidity 77%, wind 9 mph, wind chill -13",Chicago Bears,-4.0,40.0
+2008,17,December 28,/boxscores/200812280atl.htm,True,Atlanta Falcons,31,St. Louis Rams,27,,Atlanta Falcons,-14.0,44.5
+2008,17,December 28,/boxscores/200812280pit.htm,True,Pittsburgh Steelers,31,Cleveland Browns,0,"48 degrees relative humidity 50%, wind 22 mph",Pittsburgh Steelers,-11.5,33.0
+2008,17,December 28,/boxscores/200812280tam.htm,False,Oakland Raiders,31,Tampa Bay Buccaneers,24,"77 degrees relative humidity 61%, wind 5 mph",Tampa Bay Buccaneers,-10.5,39.5
+2008,17,December 28,/boxscores/200812280cin.htm,True,Cincinnati Bengals,16,Kansas City Chiefs,6,"43 degrees relative humidity 56%, wind 17 mph",Cincinnati Bengals,-1.5,40.0
+2008,17,December 28,/boxscores/200812280gnb.htm,True,Green Bay Packers,31,Detroit Lions,21,"22 degrees relative humidity 71%, wind 13 mph, wind chill 10",Green Bay Packers,-11.0,41.5
+2008,17,December 28,/boxscores/200812280clt.htm,True,Indianapolis Colts,23,Tennessee Titans,0,,Tennessee Titans,-3.0,39.5
+2008,17,December 28,/boxscores/200812280buf.htm,False,New England Patriots,13,Buffalo Bills,0,"39 degrees relative humidity 74%, wind 30 mph, wind chill 26",New England Patriots,-5.5,34.5
+2008,17,December 28,/boxscores/200812280htx.htm,True,Houston Texans,31,Chicago Bears,24,,Houston Texans,-3.0,46.0
+2008,17,December 28,/boxscores/200812280nor.htm,False,Carolina Panthers,33,New Orleans Saints,31,,Carolina Panthers,-1.5,51.5
+2008,17,December 28,/boxscores/200812280min.htm,True,Minnesota Vikings,20,New York Giants,19,,Minnesota Vikings,-7.0,41.0
+2008,17,December 28,/boxscores/200812280crd.htm,True,Arizona Cardinals,34,Seattle Seahawks,21,,Arizona Cardinals,-7.0,47.0
+2008,17,December 28,/boxscores/200812280phi.htm,True,Philadelphia Eagles,44,Dallas Cowboys,6,"62 degrees relative humidity 68%, wind 17 mph, wind chill 0",Philadelphia Eagles,-2.0,40.5
+2008,17,December 28,/boxscores/200812280sfo.htm,True,San Francisco 49ers,27,Washington Redskins,24,"50 degrees relative humidity 83%, wind 5 mph, wind chill 0",San Francisco 49ers,-3.0,37.0
+2008,17,December 28,/boxscores/200812280rav.htm,True,Baltimore Ravens,27,Jacksonville Jaguars,7,"62 degrees relative humidity 60%, wind 18 mph, wind chill 0",Baltimore Ravens,-10.5,37.5
+2008,17,December 28,/boxscores/200812280nyj.htm,False,Miami Dolphins,24,New York Jets,17,"65 degrees relative humidity 85%, wind 15 mph, wind chill 0",New York Jets,-2.5,43.0
+2008,17,December 28,/boxscores/200812280sdg.htm,True,San Diego Chargers,52,Denver Broncos,21,"58 degrees relative humidity 46%, wind 8 mph, wind chill 0",San Diego Chargers,-7.0,50.5
+2008,WildCard,January 3,/boxscores/200901030crd.htm,True,Arizona Cardinals,30,Atlanta Falcons,24,,Arizona Cardinals,-2.0,52.0
+2008,WildCard,January 3,/boxscores/200901030sdg.htm,True,San Diego Chargers,23,Indianapolis Colts,17,"53 degrees relative humidity 77%, wind 8 mph, wind chill 0",Indianapolis Colts,-2.5,50.0
+2008,WildCard,January 4,/boxscores/200901040mia.htm,False,Baltimore Ravens,27,Miami Dolphins,9,"79 degrees relative humidity 66%, wind 16 mph, wind chill 0",Baltimore Ravens,-3.5,38.0
+2008,WildCard,January 4,/boxscores/200901040min.htm,False,Philadelphia Eagles,26,Minnesota Vikings,14,,Philadelphia Eagles,-3.5,41.0
+2008,Division,January 10,/boxscores/200901100oti.htm,False,Baltimore Ravens,13,Tennessee Titans,10,"53 degrees relative humidity 90%, wind 11 mph",Tennessee Titans,-3.0,33.5
+2008,Division,January 10,/boxscores/200901100car.htm,False,Arizona Cardinals,33,Carolina Panthers,13,"45 degrees relative humidity 60%, wind 10 mph",Carolina Panthers,-10.0,49.5
+2008,Division,January 11,/boxscores/200901110nyg.htm,False,Philadelphia Eagles,23,New York Giants,11,"30 degrees relative humidity 55%, wind 20 mph, wind chill 17",New York Giants,-4.0,39.0
+2008,Division,January 11,/boxscores/200901110pit.htm,True,Pittsburgh Steelers,35,San Diego Chargers,24,"26 degrees relative humidity 69%, wind 5 mph, wind chill 20",Pittsburgh Steelers,-6.5,38.5
+2008,ConfChamp,January 18,/boxscores/200901180crd.htm,True,Arizona Cardinals,32,Philadelphia Eagles,25,,Philadelphia Eagles,-3.5,47.0
+2008,ConfChamp,January 18,/boxscores/200901180pit.htm,True,Pittsburgh Steelers,23,Baltimore Ravens,14,"26 degrees relative humidity 69%, wind 12 mph, wind chill 15",Pittsburgh Steelers,-6.0,35.5
+2008,SuperBowl,February 1,/boxscores/200902010crd.htm,True,Pittsburgh Steelers,27,Arizona Cardinals,23,"66 degrees relative humidity 43%, wind 1 mph",Pittsburgh Steelers,-6.5,46.5
+2009,1,September 10,/boxscores/200909100pit.htm,True,Pittsburgh Steelers,13,Tennessee Titans,10,"67 degrees relative humidity 54%, wind 9 mph",Pittsburgh Steelers,-6.5,35.0
+2009,1,September 13,/boxscores/200909130clt.htm,True,Indianapolis Colts,14,Jacksonville Jaguars,12,,Indianapolis Colts,-6.0,45.0
+2009,1,September 13,/boxscores/200909130cin.htm,False,Denver Broncos,12,Cincinnati Bengals,7,"73 degrees relative humidity 47%, wind 7 mph, wind chill 0",Cincinnati Bengals,-5.0,41.0
+2009,1,September 13,/boxscores/200909130rav.htm,True,Baltimore Ravens,38,Kansas City Chiefs,24,"76 degrees relative humidity 68%, wind 5 mph, wind chill 0",Baltimore Ravens,-13.0,36.5
+2009,1,September 13,/boxscores/200909130nor.htm,True,New Orleans Saints,45,Detroit Lions,27,,New Orleans Saints,-14.0,50.0
+2009,1,September 13,/boxscores/200909130tam.htm,False,Dallas Cowboys,34,Tampa Bay Buccaneers,21,"85 degrees relative humidity 82%, wind 6 mph",Dallas Cowboys,-5.0,40.0
+2009,1,September 13,/boxscores/200909130htx.htm,False,New York Jets,24,Houston Texans,7,,Houston Texans,-4.5,45.0
+2009,1,September 13,/boxscores/200909130cle.htm,False,Minnesota Vikings,34,Cleveland Browns,20,"70 degrees relative humidity 0%, wind 6 mph, wind chill 0",Minnesota Vikings,-4.5,40.0
+2009,1,September 13,/boxscores/200909130car.htm,False,Philadelphia Eagles,38,Carolina Panthers,10,"82 degrees relative humidity 61%, wind 5 mph, wind chill 0",Philadelphia Eagles,-2.5,43.5
+2009,1,September 13,/boxscores/200909130atl.htm,True,Atlanta Falcons,19,Miami Dolphins,7,,Atlanta Falcons,-4.0,44.5
+2009,1,September 13,/boxscores/200909130crd.htm,False,San Francisco 49ers,20,Arizona Cardinals,16,,Arizona Cardinals,-4.5,45.0
+2009,1,September 13,/boxscores/200909130nyg.htm,True,New York Giants,23,Washington Redskins,17,"80 degrees relative humidity 41%, wind 8 mph, wind chill 0",New York Giants,-6.0,37.0
+2009,1,September 13,/boxscores/200909130sea.htm,True,Seattle Seahawks,28,St. Louis Rams,0,"73 degrees relative humidity 55%, wind 5 mph, wind chill 0",Seattle Seahawks,-7.0,41.0
+2009,1,September 13,/boxscores/200909130gnb.htm,True,Green Bay Packers,21,Chicago Bears,15,"76 degrees relative humidity 59%, no wind, wind chill 0",Green Bay Packers,-5.0,47.0
+2009,1,September 14,/boxscores/200909140nwe.htm,True,New England Patriots,25,Buffalo Bills,24,"70 degrees relative humidity 53%, wind 5 mph, wind chill 0",New England Patriots,-13.5,47.5
+2009,1,September 14,/boxscores/200909140rai.htm,False,San Diego Chargers,24,Oakland Raiders,20,"63 degrees relative humidity 86%, wind 12 mph, wind chill 0",San Diego Chargers,-10.0,43.0
+2009,2,September 20,/boxscores/200909200kan.htm,False,Oakland Raiders,13,Kansas City Chiefs,10,"72 degrees relative humidity 70%, wind 5 mph, wind chill 0",Kansas City Chiefs,-1.5,40.0
+2009,2,September 20,/boxscores/200909200atl.htm,True,Atlanta Falcons,28,Carolina Panthers,20,,Atlanta Falcons,-5.5,43.5
+2009,2,September 20,/boxscores/200909200was.htm,True,Washington Redskins,9,St. Louis Rams,7,"72 degrees relative humidity 62%, wind 7 mph, wind chill 0",Washington Redskins,-10.0,37.0
+2009,2,September 20,/boxscores/200909200gnb.htm,False,Cincinnati Bengals,31,Green Bay Packers,24,"68 degrees relative humidity 54%, wind 7 mph, wind chill 0",Green Bay Packers,-7.5,42.0
+2009,2,September 20,/boxscores/200909200nyj.htm,True,New York Jets,16,New England Patriots,9,"69 degrees relative humidity 41%, wind 5 mph, wind chill 0",New England Patriots,-3.5,45.0
+2009,2,September 20,/boxscores/200909200oti.htm,False,Houston Texans,34,Tennessee Titans,31,"77 degrees relative humidity 83%, wind 13 mph",Tennessee Titans,-7.0,40.5
+2009,2,September 20,/boxscores/200909200jax.htm,False,Arizona Cardinals,31,Jacksonville Jaguars,17,"83 degrees relative humidity 74%, wind 8 mph, wind chill 0",Jacksonville Jaguars,-3.0,44.0
+2009,2,September 20,/boxscores/200909200det.htm,False,Minnesota Vikings,27,Detroit Lions,13,,Minnesota Vikings,-10.0,45.0
+2009,2,September 20,/boxscores/200909200phi.htm,False,New Orleans Saints,48,Philadelphia Eagles,22,"68 degrees relative humidity 53%, wind 2 mph, wind chill 0",New Orleans Saints,-2.5,46.0
+2009,2,September 20,/boxscores/200909200buf.htm,True,Buffalo Bills,33,Tampa Bay Buccaneers,20,"74 degrees relative humidity 47%, wind 4 mph, wind chill 0",Buffalo Bills,-4.0,42.0
+2009,2,September 20,/boxscores/200909200sfo.htm,True,San Francisco 49ers,23,Seattle Seahawks,10,"68 degrees relative humidity 70%, no wind, wind chill 0",San Francisco 49ers,-1.0,38.5
+2009,2,September 20,/boxscores/200909200den.htm,True,Denver Broncos,27,Cleveland Browns,6,"82 degrees relative humidity 20%, wind 9 mph, wind chill 0",Denver Broncos,-3.0,38.5
+2009,2,September 20,/boxscores/200909200sdg.htm,False,Baltimore Ravens,31,San Diego Chargers,26,"83 degrees relative humidity 50%, wind 8 mph, wind chill 0",San Diego Chargers,-1.0,41.0
+2009,2,September 20,/boxscores/200909200chi.htm,True,Chicago Bears,17,Pittsburgh Steelers,14,"70 degrees relative humidity 63%, wind 13 mph, wind chill 0",Pittsburgh Steelers,-3.0,38.5
+2009,2,September 20,/boxscores/200909200dal.htm,False,New York Giants,33,Dallas Cowboys,31,,Dallas Cowboys,-3.0,45.5
+2009,2,September 21,/boxscores/200909210mia.htm,False,Indianapolis Colts,27,Miami Dolphins,23,"84 degrees relative humidity 67%, wind 10 mph, wind chill 0",Indianapolis Colts,-3.0,41.0
+2009,3,September 27,/boxscores/200909270ram.htm,False,Green Bay Packers,36,St. Louis Rams,17,,Green Bay Packers,-6.5,43.0
+2009,3,September 27,/boxscores/200909270tam.htm,False,New York Giants,24,Tampa Bay Buccaneers,0,"88 degrees relative humidity 75%, wind 12 mph",New York Giants,-6.5,46.0
+2009,3,September 27,/boxscores/200909270phi.htm,True,Philadelphia Eagles,34,Kansas City Chiefs,14,"69 degrees relative humidity 84%, wind 6 mph, wind chill 0",Philadelphia Eagles,-7.5,39.0
+2009,3,September 27,/boxscores/200909270det.htm,True,Detroit Lions,19,Washington Redskins,14,,Washington Redskins,-6.0,39.5
+2009,3,September 27,/boxscores/200909270nwe.htm,True,New England Patriots,26,Atlanta Falcons,10,"62 degrees relative humidity 96%, no wind, wind chill 0",New England Patriots,-4.5,45.5
+2009,3,September 27,/boxscores/200909270rav.htm,True,Baltimore Ravens,34,Cleveland Browns,3,"72 degrees relative humidity 96%, wind 6 mph, wind chill 0",Baltimore Ravens,-13.5,38.5
+2009,3,September 27,/boxscores/200909270nyj.htm,True,New York Jets,24,Tennessee Titans,17,"66 degrees relative humidity 90%, wind 8 mph, wind chill 0",New York Jets,-1.0,36.0
+2009,3,September 27,/boxscores/200909270htx.htm,False,Jacksonville Jaguars,31,Houston Texans,24,,Houston Texans,-4.5,47.5
+2009,3,September 27,/boxscores/200909270min.htm,True,Minnesota Vikings,27,San Francisco 49ers,24,,Minnesota Vikings,-7.0,39.5
+2009,3,September 27,/boxscores/200909270buf.htm,False,New Orleans Saints,27,Buffalo Bills,7,"64 degrees relative humidity 85%, wind 9 mph, wind chill 0",New Orleans Saints,-5.5,51.5
+2009,3,September 27,/boxscores/200909270sea.htm,False,Chicago Bears,25,Seattle Seahawks,19,"60 degrees relative humidity 61%, wind 7 mph, wind chill 0",Chicago Bears,-2.5,37.5
+2009,3,September 27,/boxscores/200909270sdg.htm,True,San Diego Chargers,23,Miami Dolphins,13,"80 degrees relative humidity 58%, wind 11 mph, wind chill 0",San Diego Chargers,-5.5,45.5
+2009,3,September 27,/boxscores/200909270cin.htm,True,Cincinnati Bengals,23,Pittsburgh Steelers,20,"65 degrees relative humidity 76%, wind 9 mph, wind chill 0",Pittsburgh Steelers,-3.5,37.0
+2009,3,September 27,/boxscores/200909270rai.htm,False,Denver Broncos,23,Oakland Raiders,3,"81 degrees relative humidity 49%, wind 6 mph, wind chill 0",Denver Broncos,-2.5,38.0
+2009,3,September 27,/boxscores/200909270crd.htm,False,Indianapolis Colts,31,Arizona Cardinals,10,,Arizona Cardinals,-3.0,49.0
+2009,3,September 28,/boxscores/200909280dal.htm,True,Dallas Cowboys,21,Carolina Panthers,7,,Dallas Cowboys,-8.5,48.5
+2009,4,October 4,/boxscores/200910040kan.htm,False,New York Giants,27,Kansas City Chiefs,16,"59 degrees relative humidity 50%, wind 10 mph, wind chill 0",New York Giants,-9.5,43.0
+2009,4,October 4,/boxscores/200910040was.htm,True,Washington Redskins,16,Tampa Bay Buccaneers,13,"69 degrees relative humidity 64%, wind 10 mph, wind chill 0",Washington Redskins,-9.0,35.5
+2009,4,October 4,/boxscores/200910040nwe.htm,True,New England Patriots,27,Baltimore Ravens,21,"64 degrees relative humidity 80%, wind 2 mph, wind chill 0",New England Patriots,-2.0,45.0
+2009,4,October 4,/boxscores/200910040chi.htm,True,Chicago Bears,48,Detroit Lions,24,"53 degrees relative humidity 70%, wind 14 mph, wind chill 0",Chicago Bears,-9.5,43.0
+2009,4,October 4,/boxscores/200910040htx.htm,True,Houston Texans,29,Oakland Raiders,6,,Houston Texans,-8.0,43.0
+2009,4,October 4,/boxscores/200910040clt.htm,True,Indianapolis Colts,34,Seattle Seahawks,17,,Indianapolis Colts,-10.5,43.5
+2009,4,October 4,/boxscores/200910040cle.htm,False,Cincinnati Bengals,23,Cleveland Browns,20,"58 degrees relative humidity 66%, wind 15 mph, wind chill 0",Cincinnati Bengals,-6.5,37.5
+2009,4,October 4,/boxscores/200910040jax.htm,True,Jacksonville Jaguars,37,Tennessee Titans,17,"79 degrees relative humidity 68%, wind 5 mph, wind chill 0",Tennessee Titans,-3.5,42.0
+2009,4,October 4,/boxscores/200910040mia.htm,True,Miami Dolphins,38,Buffalo Bills,10,"88 degrees relative humidity 57%, wind 10 mph, wind chill 0",Miami Dolphins,-1.5,37.5
+2009,4,October 4,/boxscores/200910040nor.htm,True,New Orleans Saints,24,New York Jets,10,,New Orleans Saints,-7.5,47.0
+2009,4,October 4,/boxscores/200910040den.htm,True,Denver Broncos,17,Dallas Cowboys,10,"55 degrees relative humidity 45%, wind 6 mph, wind chill 0",Dallas Cowboys,-3.0,44.0
+2009,4,October 4,/boxscores/200910040sfo.htm,True,San Francisco 49ers,35,St. Louis Rams,0,"60 degrees relative humidity 51%, wind 17 mph, wind chill 0",San Francisco 49ers,-9.5,36.5
+2009,4,October 4,/boxscores/200910040pit.htm,True,Pittsburgh Steelers,38,San Diego Chargers,28,"54 degrees relative humidity 66%, wind 4 mph",Pittsburgh Steelers,-5.5,43.5
+2009,4,October 5,/boxscores/200910050min.htm,True,Minnesota Vikings,30,Green Bay Packers,23,,Minnesota Vikings,-5.0,46.5
+2009,5,October 11,/boxscores/200910110kan.htm,False,Dallas Cowboys,26,Kansas City Chiefs,20,"40 degrees relative humidity 60%, wind 5 mph",Dallas Cowboys,-7.0,43.5
+2009,5,October 11,/boxscores/200910110ram.htm,False,Minnesota Vikings,38,St. Louis Rams,10,,Minnesota Vikings,-10.5,41.0
+2009,5,October 11,/boxscores/200910110buf.htm,False,Cleveland Browns,6,Buffalo Bills,3,"47 degrees relative humidity 54%, wind 13 mph",Buffalo Bills,-5.5,42.0
+2009,5,October 11,/boxscores/200910110phi.htm,True,Philadelphia Eagles,33,Tampa Bay Buccaneers,14,"62 degrees relative humidity 45%, wind 7 mph, wind chill 0",Philadelphia Eagles,-15.5,42.0
+2009,5,October 11,/boxscores/200910110nyg.htm,True,New York Giants,44,Oakland Raiders,7,"61 degrees relative humidity 45%, wind 10 mph, wind chill 0",New York Giants,-15.0,38.5
+2009,5,October 11,/boxscores/200910110det.htm,False,Pittsburgh Steelers,28,Detroit Lions,20,,Pittsburgh Steelers,-11.0,44.0
+2009,5,October 11,/boxscores/200910110rav.htm,False,Cincinnati Bengals,17,Baltimore Ravens,14,"64 degrees relative humidity 51%, wind 3 mph, wind chill 0",Baltimore Ravens,-9.0,42.5
+2009,5,October 11,/boxscores/200910110car.htm,True,Carolina Panthers,20,Washington Redskins,17,"70 degrees relative humidity 68%, wind 7 mph, wind chill 0",Carolina Panthers,-5.5,38.0
+2009,5,October 11,/boxscores/200910110sfo.htm,False,Atlanta Falcons,45,San Francisco 49ers,10,"58 degrees relative humidity 60%, wind 9 mph, wind chill 0",San Francisco 49ers,-1.0,39.5
+2009,5,October 11,/boxscores/200910110crd.htm,True,Arizona Cardinals,28,Houston Texans,21,,Arizona Cardinals,-6.0,51.0
+2009,5,October 11,/boxscores/200910110sea.htm,True,Seattle Seahawks,41,Jacksonville Jaguars,0,"55 degrees relative humidity 32%, no wind, wind chill 0",Seattle Seahawks,-2.0,44.5
+2009,5,October 11,/boxscores/200910110den.htm,True,Denver Broncos,20,New England Patriots,17,"30 degrees relative humidity 72%, wind 4 mph, wind chill 26",New England Patriots,-3.0,41.5
+2009,5,October 11,/boxscores/200910110oti.htm,False,Indianapolis Colts,31,Tennessee Titans,9,"57 degrees relative humidity 75%, wind 4 mph",Indianapolis Colts,-3.5,44.0
+2009,5,October 12,/boxscores/200910120mia.htm,True,Miami Dolphins,31,New York Jets,27,"83 degrees relative humidity 69%, wind 7 mph, wind chill 0",New York Jets,-3.0,36.5
+2009,6,October 18,/boxscores/200910180tam.htm,False,Carolina Panthers,28,Tampa Bay Buccaneers,21,"64 degrees relative humidity 54%, wind 17 mph",Carolina Panthers,-3.0,40.5
+2009,6,October 18,/boxscores/200910180pit.htm,True,Pittsburgh Steelers,27,Cleveland Browns,14,"41 degrees relative humidity 77%, wind 9 mph",Pittsburgh Steelers,-14.0,38.0
+2009,6,October 18,/boxscores/200910180gnb.htm,True,Green Bay Packers,26,Detroit Lions,0,"46 degrees relative humidity 65%, wind 13 mph",Green Bay Packers,-14.0,48.0
+2009,6,October 18,/boxscores/200910180cin.htm,False,Houston Texans,28,Cincinnati Bengals,17,"49 degrees relative humidity 47%, wind 2 mph, wind chill 0",Cincinnati Bengals,-3.5,46.5
+2009,6,October 18,/boxscores/200910180nor.htm,True,New Orleans Saints,48,New York Giants,27,,New Orleans Saints,-3.0,47.5
+2009,6,October 18,/boxscores/200910180jax.htm,True,Jacksonville Jaguars,23,St. Louis Rams,20,"57 degrees relative humidity 53%, wind 17 mph, wind chill 0",Jacksonville Jaguars,-9.5,42.5
+2009,6,October 18,/boxscores/200910180was.htm,False,Kansas City Chiefs,14,Washington Redskins,6,"45 degrees relative humidity 79%, wind 13 mph",Washington Redskins,-6.5,36.5
+2009,6,October 18,/boxscores/200910180min.htm,True,Minnesota Vikings,33,Baltimore Ravens,31,,Minnesota Vikings,-3.0,45.5
+2009,6,October 18,/boxscores/200910180rai.htm,True,Oakland Raiders,13,Philadelphia Eagles,9,"62 degrees relative humidity 73%, wind 15 mph, wind chill 0",Philadelphia Eagles,-14.0,40.5
+2009,6,October 18,/boxscores/200910180sea.htm,False,Arizona Cardinals,27,Seattle Seahawks,3,"58 degrees relative humidity 82%, wind 4 mph, wind chill 0",Seattle Seahawks,-3.0,46.0
+2009,6,October 18,/boxscores/200910180nwe.htm,True,New England Patriots,59,Tennessee Titans,0,"39 degrees relative humidity 94%, wind 13 mph, wind chill 0",New England Patriots,-9.0,37.5
+2009,6,October 18,/boxscores/200910180nyj.htm,False,Buffalo Bills,16,New York Jets,13,"44 degrees relative humidity 37%, wind 18 mph, wind chill 30",New York Jets,-9.5,35.5
+2009,6,October 18,/boxscores/200910180atl.htm,True,Atlanta Falcons,21,Chicago Bears,14,,Atlanta Falcons,-3.5,45.5
+2009,6,October 19,/boxscores/200910190sdg.htm,False,Denver Broncos,34,San Diego Chargers,23,"68 degrees relative humidity 73%, wind 8 mph, wind chill 0",San Diego Chargers,-3.5,45.0
+2009,7,October 25,/boxscores/200910250ram.htm,False,Indianapolis Colts,42,St. Louis Rams,6,,Indianapolis Colts,-14.5,45.0
+2009,7,October 25,/boxscores/200910250kan.htm,False,San Diego Chargers,37,Kansas City Chiefs,7,"58 degrees relative humidity 64%, wind 10 mph, wind chill 0",San Diego Chargers,-5.5,44.0
+2009,7,October 25,/boxscores/200910250cle.htm,False,Green Bay Packers,31,Cleveland Browns,3,"50 degrees relative humidity 45%, wind 12 mph",Green Bay Packers,-9.0,41.5
+2009,7,October 25,/boxscores/200910250pit.htm,True,Pittsburgh Steelers,27,Minnesota Vikings,17,"52 degrees relative humidity 57%, wind 5 mph",Pittsburgh Steelers,-6.0,46.5
+2009,7,October 25,/boxscores/200910250htx.htm,True,Houston Texans,24,San Francisco 49ers,21,,Houston Texans,-3.0,44.5
+2009,7,October 25,/boxscores/200910250tam.htm,False,New England Patriots,35,Tampa Bay Buccaneers,7,"59 degrees relative humidity 59%, wind 16 mph, wind chill 0",New England Patriots,-15.5,44.5
+2009,7,October 25,/boxscores/200910250car.htm,False,Buffalo Bills,20,Carolina Panthers,9,"67 degrees relative humidity 49%, wind 9 mph, wind chill 0",Carolina Panthers,-7.0,37.0
+2009,7,October 25,/boxscores/200910250rai.htm,False,New York Jets,38,Oakland Raiders,0,"70 degrees relative humidity 53%, wind 6 mph, wind chill 0",New York Jets,-6.0,34.0
+2009,7,October 25,/boxscores/200910250dal.htm,True,Dallas Cowboys,37,Atlanta Falcons,21,,Dallas Cowboys,-5.0,48.0
+2009,7,October 25,/boxscores/200910250mia.htm,False,New Orleans Saints,46,Miami Dolphins,34,"89 degrees relative humidity 57%, wind 2 mph, wind chill 0",New Orleans Saints,-6.5,48.0
+2009,7,October 25,/boxscores/200910250cin.htm,True,Cincinnati Bengals,45,Chicago Bears,10,"61 degrees relative humidity 40%, wind 7 mph, wind chill 0",Chicago Bears,-2.0,43.0
+2009,7,October 25,/boxscores/200910250nyg.htm,False,Arizona Cardinals,24,New York Giants,17,"57 degrees relative humidity 43%, wind 3 mph, wind chill 0",New York Giants,-8.0,47.0
+2009,7,October 26,/boxscores/200910260was.htm,False,Philadelphia Eagles,27,Washington Redskins,17,"57 degrees relative humidity 47%, no wind, wind chill 0",Philadelphia Eagles,-9.0,38.0
+2009,8,November 1,/boxscores/200911010chi.htm,True,Chicago Bears,30,Cleveland Browns,6,"50 degrees relative humidity 46%, wind 8 mph",Chicago Bears,-13.5,40.0
+2009,8,November 1,/boxscores/200911010nyj.htm,False,Miami Dolphins,30,New York Jets,25,"54 degrees relative humidity 65%, wind 10 mph, wind chill 0",New York Jets,-3.5,40.5
+2009,8,November 1,/boxscores/200911010rav.htm,True,Baltimore Ravens,30,Denver Broncos,7,"56 degrees relative humidity 75%, wind 8 mph, wind chill 0",Baltimore Ravens,-3.5,42.0
+2009,8,November 1,/boxscores/200911010buf.htm,False,Houston Texans,31,Buffalo Bills,10,"49 degrees relative humidity 47%, wind 5 mph",Houston Texans,-3.5,41.5
+2009,8,November 1,/boxscores/200911010clt.htm,True,Indianapolis Colts,18,San Francisco 49ers,14,,Indianapolis Colts,-13.5,44.5
+2009,8,November 1,/boxscores/200911010dal.htm,True,Dallas Cowboys,38,Seattle Seahawks,17,,Dallas Cowboys,-9.5,46.0
+2009,8,November 1,/boxscores/200911010det.htm,False,St. Louis Rams,17,Detroit Lions,10,,Detroit Lions,-4.0,43.5
+2009,8,November 1,/boxscores/200911010phi.htm,True,Philadelphia Eagles,40,New York Giants,17,"56 degrees relative humidity 55%, wind 10 mph, wind chill 0",New York Giants,-1.0,44.5
+2009,8,November 1,/boxscores/200911010oti.htm,True,Tennessee Titans,30,Jacksonville Jaguars,13,"59 degrees relative humidity 40%, wind 11 mph",Tennessee Titans,-3.0,44.5
+2009,8,November 1,/boxscores/200911010sdg.htm,True,San Diego Chargers,24,Oakland Raiders,16,"78 degrees relative humidity 26%, wind 8 mph, wind chill 0",San Diego Chargers,-16.5,41.5
+2009,8,November 1,/boxscores/200911010gnb.htm,False,Minnesota Vikings,38,Green Bay Packers,26,"48 degrees relative humidity 56%, wind 6 mph",Green Bay Packers,-3.0,47.0
+2009,8,November 1,/boxscores/200911010crd.htm,False,Carolina Panthers,34,Arizona Cardinals,21,,Arizona Cardinals,-10.0,41.0
+2009,8,November 2,/boxscores/200911020nor.htm,True,New Orleans Saints,35,Atlanta Falcons,27,,New Orleans Saints,-12.0,56.0
+2009,9,November 8,/boxscores/200911080nwe.htm,True,New England Patriots,27,Miami Dolphins,17,"65 degrees relative humidity 44%, wind 8 mph, wind chill 0",New England Patriots,-10.5,46.5
+2009,9,November 8,/boxscores/200911080cin.htm,True,Cincinnati Bengals,17,Baltimore Ravens,7,"67 degrees relative humidity 48%, wind 7 mph, wind chill 0",Baltimore Ravens,-3.0,44.5
+2009,9,November 8,/boxscores/200911080clt.htm,True,Indianapolis Colts,20,Houston Texans,17,,Indianapolis Colts,-8.5,49.5
+2009,9,November 8,/boxscores/200911080jax.htm,True,Jacksonville Jaguars,24,Kansas City Chiefs,21,"75 degrees relative humidity 55%, wind 12 mph, wind chill 0",Jacksonville Jaguars,-7.0,41.5
+2009,9,November 8,/boxscores/200911080tam.htm,True,Tampa Bay Buccaneers,38,Green Bay Packers,28,"82 degrees relative humidity 48%, wind 13 mph",Green Bay Packers,-9.5,43.5
+2009,9,November 8,/boxscores/200911080atl.htm,True,Atlanta Falcons,31,Washington Redskins,17,,Atlanta Falcons,-9.0,41.0
+2009,9,November 8,/boxscores/200911080chi.htm,False,Arizona Cardinals,41,Chicago Bears,21,"65 degrees relative humidity 71%, wind 12 mph, wind chill 0",Chicago Bears,-3.0,44.5
+2009,9,November 8,/boxscores/200911080nor.htm,True,New Orleans Saints,30,Carolina Panthers,20,,New Orleans Saints,-13.0,51.5
+2009,9,November 8,/boxscores/200911080sea.htm,True,Seattle Seahawks,32,Detroit Lions,20,"48 degrees relative humidity 80%, wind 11 mph",Seattle Seahawks,-10.0,42.0
+2009,9,November 8,/boxscores/200911080sfo.htm,False,Tennessee Titans,34,San Francisco 49ers,27,"63 degrees relative humidity 57%, wind 5 mph, wind chill 0",San Francisco 49ers,-4.0,40.5
+2009,9,November 8,/boxscores/200911080nyg.htm,False,San Diego Chargers,21,New York Giants,20,"71 degrees relative humidity 39%, wind 2 mph, wind chill 0",New York Giants,-4.5,48.0
+2009,9,November 8,/boxscores/200911080phi.htm,False,Dallas Cowboys,20,Philadelphia Eagles,16,"61 degrees relative humidity 61%, wind 1 mph, wind chill 0",Philadelphia Eagles,-3.0,50.0
+2009,9,November 9,/boxscores/200911090den.htm,False,Pittsburgh Steelers,28,Denver Broncos,10,"55 degrees relative humidity 37%, wind 7 mph, wind chill 0",Pittsburgh Steelers,-3.0,41.5
+2009,10,November 12,/boxscores/200911120sfo.htm,True,San Francisco 49ers,10,Chicago Bears,6,"60 degrees relative humidity 51%, wind 18 mph, wind chill 0",San Francisco 49ers,-3.0,43.5
+2009,10,November 15,/boxscores/200911150ram.htm,False,New Orleans Saints,28,St. Louis Rams,23,,New Orleans Saints,-14.5,51.0
+2009,10,November 15,/boxscores/200911150nyj.htm,False,Jacksonville Jaguars,24,New York Jets,22,"62 degrees relative humidity 88%, wind 5 mph, wind chill 0",New York Jets,-6.5,41.0
+2009,10,November 15,/boxscores/200911150pit.htm,False,Cincinnati Bengals,18,Pittsburgh Steelers,12,"64 degrees relative humidity 55%, wind 4 mph",Pittsburgh Steelers,-6.5,41.5
+2009,10,November 15,/boxscores/200911150was.htm,True,Washington Redskins,27,Denver Broncos,17,"70 degrees relative humidity 77%, no wind, wind chill 0",Denver Broncos,-3.5,36.5
+2009,10,November 15,/boxscores/200911150oti.htm,True,Tennessee Titans,41,Buffalo Bills,17,"68 degrees relative humidity 50%, wind 5 mph",Tennessee Titans,-7.5,41.0
+2009,10,November 15,/boxscores/200911150car.htm,True,Carolina Panthers,28,Atlanta Falcons,19,"73 degrees relative humidity 80%, wind 3 mph, wind chill 0",Atlanta Falcons,-1.0,43.5
+2009,10,November 15,/boxscores/200911150mia.htm,True,Miami Dolphins,25,Tampa Bay Buccaneers,23,"80 degrees relative humidity 43%, wind 9 mph, wind chill 0",Miami Dolphins,-10.0,43.5
+2009,10,November 15,/boxscores/200911150min.htm,True,Minnesota Vikings,27,Detroit Lions,10,,Minnesota Vikings,-17.0,47.5
+2009,10,November 15,/boxscores/200911150rai.htm,False,Kansas City Chiefs,16,Oakland Raiders,10,"60 degrees relative humidity 47%, wind 5 mph, wind chill 0",Oakland Raiders,-2.5,36.0
+2009,10,November 15,/boxscores/200911150gnb.htm,True,Green Bay Packers,17,Dallas Cowboys,7,"47 degrees relative humidity 43%, wind 10 mph",Dallas Cowboys,-3.0,48.0
+2009,10,November 15,/boxscores/200911150sdg.htm,True,San Diego Chargers,31,Philadelphia Eagles,23,"71 degrees relative humidity 58%, wind 8 mph, wind chill 0",San Diego Chargers,-1.5,47.0
+2009,10,November 15,/boxscores/200911150crd.htm,True,Arizona Cardinals,31,Seattle Seahawks,20,,Arizona Cardinals,-8.5,46.5
+2009,10,November 15,/boxscores/200911150clt.htm,True,Indianapolis Colts,35,New England Patriots,34,,Indianapolis Colts,-1.5,48.5
+2009,10,November 16,/boxscores/200911160cle.htm,False,Baltimore Ravens,16,Cleveland Browns,0,"46 degrees relative humidity 0%, wind 16 mph",Baltimore Ravens,-11.0,39.0
+2009,11,November 19,/boxscores/200911190car.htm,False,Miami Dolphins,24,Carolina Panthers,17,"56 degrees relative humidity 81%, wind 2 mph, wind chill 0",Carolina Panthers,-3.5,42.0
+2009,11,November 22,/boxscores/200911220kan.htm,True,Kansas City Chiefs,27,Pittsburgh Steelers,24,"55 degrees relative humidity 62%, wind 5 mph, wind chill 0",Pittsburgh Steelers,-11.5,39.5
+2009,11,November 22,/boxscores/200911220tam.htm,False,New Orleans Saints,38,Tampa Bay Buccaneers,7,"79 degrees relative humidity 78%, wind 8 mph",New Orleans Saints,-10.5,51.0
+2009,11,November 22,/boxscores/200911220det.htm,True,Detroit Lions,38,Cleveland Browns,37,,Detroit Lions,-3.0,37.5
+2009,11,November 22,/boxscores/200911220gnb.htm,True,Green Bay Packers,30,San Francisco 49ers,24,"53 degrees relative humidity 77%, wind 13 mph, wind chill 0",Green Bay Packers,-6.0,42.0
+2009,11,November 22,/boxscores/200911220rav.htm,False,Indianapolis Colts,17,Baltimore Ravens,15,"56 degrees relative humidity 52%, wind 7 mph, wind chill 0",Indianapolis Colts,-1.5,44.5
+2009,11,November 22,/boxscores/200911220nyg.htm,True,New York Giants,34,Atlanta Falcons,31,"53 degrees relative humidity 54%, wind 10 mph",New York Giants,-7.0,46.5
+2009,11,November 22,/boxscores/200911220dal.htm,True,Dallas Cowboys,7,Washington Redskins,6,,Dallas Cowboys,-10.5,41.5
+2009,11,November 22,/boxscores/200911220jax.htm,True,Jacksonville Jaguars,18,Buffalo Bills,15,"74 degrees relative humidity 85%, wind 10 mph, wind chill 0",Jacksonville Jaguars,-8.5,41.0
+2009,11,November 22,/boxscores/200911220min.htm,True,Minnesota Vikings,35,Seattle Seahawks,9,,Minnesota Vikings,-11.0,47.0
+2009,11,November 22,/boxscores/200911220ram.htm,False,Arizona Cardinals,21,St. Louis Rams,13,,Arizona Cardinals,-9.0,47.0
+2009,11,November 22,/boxscores/200911220rai.htm,True,Oakland Raiders,20,Cincinnati Bengals,17,"54 degrees relative humidity 84%, wind 8 mph, wind chill 0",Cincinnati Bengals,-8.5,36.0
+2009,11,November 22,/boxscores/200911220den.htm,False,San Diego Chargers,32,Denver Broncos,3,"51 degrees relative humidity 25%, wind 3 mph, wind chill 0",San Diego Chargers,-6.0,42.0
+2009,11,November 22,/boxscores/200911220nwe.htm,True,New England Patriots,31,New York Jets,14,"45 degrees relative humidity 68%, wind 10 mph",New England Patriots,-11.0,45.0
+2009,11,November 22,/boxscores/200911220chi.htm,False,Philadelphia Eagles,24,Chicago Bears,20,"47 degrees relative humidity 87%, wind 5 mph",Philadelphia Eagles,-3.5,47.0
+2009,11,November 23,/boxscores/200911230htx.htm,False,Tennessee Titans,20,Houston Texans,17,,Houston Texans,-3.5,48.0
+2009,12,November 26,/boxscores/200911260det.htm,False,Green Bay Packers,34,Detroit Lions,12,,Green Bay Packers,-11.5,48.0
+2009,12,November 26,/boxscores/200911260dal.htm,True,Dallas Cowboys,24,Oakland Raiders,7,,Dallas Cowboys,-13.5,40.5
+2009,12,November 26,/boxscores/200911260den.htm,True,Denver Broncos,26,New York Giants,6,"57 degrees relative humidity 15%, no wind, wind chill 0",New York Giants,-4.5,43.5
+2009,12,November 29,/boxscores/200911290ram.htm,False,Seattle Seahawks,27,St. Louis Rams,17,,Seattle Seahawks,-3.5,42.5
+2009,12,November 29,/boxscores/200911290cin.htm,True,Cincinnati Bengals,16,Cleveland Browns,7,"59 degrees relative humidity 41%, wind 15 mph, wind chill 0",Cincinnati Bengals,-12.0,39.5
+2009,12,November 29,/boxscores/200911290htx.htm,False,Indianapolis Colts,35,Houston Texans,27,,Indianapolis Colts,-3.0,48.0
+2009,12,November 29,/boxscores/200911290buf.htm,True,Buffalo Bills,31,Miami Dolphins,14,"49 degrees relative humidity 64%, wind 15 mph",Miami Dolphins,-3.5,38.5
+2009,12,November 29,/boxscores/200911290nyj.htm,True,New York Jets,17,Carolina Panthers,6,"53 degrees relative humidity 44%, wind 9 mph, wind chill 0",New York Jets,-3.5,41.5
+2009,12,November 29,/boxscores/200911290phi.htm,True,Philadelphia Eagles,27,Washington Redskins,24,"56 degrees relative humidity 52%, wind 10 mph, wind chill 0",Philadelphia Eagles,-10.0,40.5
+2009,12,November 29,/boxscores/200911290atl.htm,True,Atlanta Falcons,20,Tampa Bay Buccaneers,17,,Atlanta Falcons,-12.5,46.0
+2009,12,November 29,/boxscores/200911290sfo.htm,True,San Francisco 49ers,20,Jacksonville Jaguars,3,"68 degrees relative humidity 20%, no wind, wind chill 0",San Francisco 49ers,-3.0,42.5
+2009,12,November 29,/boxscores/200911290sdg.htm,True,San Diego Chargers,43,Kansas City Chiefs,14,"63 degrees relative humidity 60%, wind 8 mph, wind chill 0",San Diego Chargers,-13.5,45.0
+2009,12,November 29,/boxscores/200911290oti.htm,True,Tennessee Titans,20,Arizona Cardinals,17,"59 degrees relative humidity 52%, wind 9 mph",Tennessee Titans,-2.0,45.5
+2009,12,November 29,/boxscores/200911290min.htm,True,Minnesota Vikings,36,Chicago Bears,10,,Minnesota Vikings,-10.0,47.0
+2009,12,November 29,/boxscores/200911290rav.htm,True,Baltimore Ravens,20,Pittsburgh Steelers,17,"58 degrees relative humidity 64%, wind 5 mph, wind chill 0",Baltimore Ravens,-8.0,34.0
+2009,12,November 30,/boxscores/200911300nor.htm,True,New Orleans Saints,38,New England Patriots,17,,New Orleans Saints,-1.5,56.5
+2009,13,December 3,/boxscores/200912030buf.htm,False,New York Jets,19,Buffalo Bills,13,,New York Jets,-3.5,37.0
+2009,13,December 6,/boxscores/200912060kan.htm,False,Denver Broncos,44,Kansas City Chiefs,13,"37 degrees relative humidity 45%, wind 6 mph",Denver Broncos,-6.0,39.0
+2009,13,December 6,/boxscores/200912060chi.htm,True,Chicago Bears,17,St. Louis Rams,9,"36 degrees relative humidity 56%, wind 8 mph, wind chill 30",Chicago Bears,-9.0,41.0
+2009,13,December 6,/boxscores/200912060pit.htm,False,Oakland Raiders,27,Pittsburgh Steelers,24,"28 degrees relative humidity 54%, wind 6 mph, wind chill 21",Pittsburgh Steelers,-15.0,37.0
+2009,13,December 6,/boxscores/200912060cin.htm,True,Cincinnati Bengals,23,Detroit Lions,13,"34 degrees relative humidity 49%, wind 7 mph, wind chill 28",Cincinnati Bengals,-13.5,42.0
+2009,13,December 6,/boxscores/200912060mia.htm,True,Miami Dolphins,22,New England Patriots,21,"75 degrees relative humidity 66%, wind 5 mph, wind chill 0",New England Patriots,-5.0,46.5
+2009,13,December 6,/boxscores/200912060was.htm,False,New Orleans Saints,33,Washington Redskins,30,"36 degrees relative humidity 52%, wind 9 mph, wind chill 29",New Orleans Saints,-8.0,47.0
+2009,13,December 6,/boxscores/200912060clt.htm,True,Indianapolis Colts,27,Tennessee Titans,17,,Indianapolis Colts,-6.0,47.0
+2009,13,December 6,/boxscores/200912060jax.htm,True,Jacksonville Jaguars,23,Houston Texans,18,"54 degrees relative humidity 71%, wind 6 mph, wind chill 0",Houston Texans,-1.5,47.5
+2009,13,December 6,/boxscores/200912060car.htm,True,Carolina Panthers,16,Tampa Bay Buccaneers,6,"43 degrees relative humidity 50%, wind 7 mph",Carolina Panthers,-3.5,40.0
+2009,13,December 6,/boxscores/200912060atl.htm,False,Philadelphia Eagles,34,Atlanta Falcons,7,,Philadelphia Eagles,-4.0,43.5
+2009,13,December 6,/boxscores/200912060cle.htm,False,San Diego Chargers,30,Cleveland Browns,23,"34 degrees relative humidity 44%, wind 8 mph, wind chill 27",San Diego Chargers,-13.5,42.5
+2009,13,December 6,/boxscores/200912060nyg.htm,True,New York Giants,31,Dallas Cowboys,24,"37 degrees relative humidity 46%, wind 8 mph",Dallas Cowboys,-1.5,45.5
+2009,13,December 6,/boxscores/200912060sea.htm,True,Seattle Seahawks,20,San Francisco 49ers,17,"35 degrees relative humidity 57%, wind 6 mph, wind chill 30",San Francisco 49ers,-1.0,41.5
+2009,13,December 6,/boxscores/200912060crd.htm,True,Arizona Cardinals,30,Minnesota Vikings,17,,Minnesota Vikings,-3.0,49.0
+2009,13,December 7,/boxscores/200912070gnb.htm,True,Green Bay Packers,27,Baltimore Ravens,14,"21 degrees relative humidity 77%, wind 4 mph, wind chill 15",Green Bay Packers,-4.0,43.0
+2009,14,December 10,/boxscores/200912100cle.htm,True,Cleveland Browns,13,Pittsburgh Steelers,6,"15 degrees relative humidity 0%, wind 25 mph, wind chill -6",Pittsburgh Steelers,-10.0,34.5
+2009,14,December 13,/boxscores/200912130kan.htm,False,Buffalo Bills,16,Kansas City Chiefs,10,"42 degrees relative humidity 80%, wind 3 mph, wind chill 0",Buffalo Bills,-2.5,38.0
+2009,14,December 13,/boxscores/200912130tam.htm,False,New York Jets,26,Tampa Bay Buccaneers,3,"73 degrees relative humidity 94%, wind 5 mph",New York Jets,-3.5,36.5
+2009,14,December 13,/boxscores/200912130rav.htm,True,Baltimore Ravens,48,Detroit Lions,3,"36 degrees relative humidity 100%, wind 3 mph",Baltimore Ravens,-14.0,40.5
+2009,14,December 13,/boxscores/200912130nwe.htm,True,New England Patriots,20,Carolina Panthers,10,"40 degrees relative humidity 59%, wind 4 mph",New England Patriots,-12.5,43.5
+2009,14,December 13,/boxscores/200912130atl.htm,False,New Orleans Saints,26,Atlanta Falcons,23,,New Orleans Saints,-10.0,50.0
+2009,14,December 13,/boxscores/200912130chi.htm,False,Green Bay Packers,21,Chicago Bears,14,"38 degrees relative humidity 82%, wind 8 mph",Green Bay Packers,-4.0,42.0
+2009,14,December 13,/boxscores/200912130clt.htm,True,Indianapolis Colts,28,Denver Broncos,16,,Indianapolis Colts,-6.5,43.5
+2009,14,December 13,/boxscores/200912130htx.htm,True,Houston Texans,34,Seattle Seahawks,7,,Houston Texans,-7.0,45.0
+2009,14,December 13,/boxscores/200912130jax.htm,False,Miami Dolphins,14,Jacksonville Jaguars,10,"75 degrees relative humidity 84%, wind 13 mph, wind chill 0",Jacksonville Jaguars,-2.0,43.0
+2009,14,December 13,/boxscores/200912130min.htm,True,Minnesota Vikings,30,Cincinnati Bengals,10,,Minnesota Vikings,-6.0,42.5
+2009,14,December 13,/boxscores/200912130oti.htm,True,Tennessee Titans,47,St. Louis Rams,7,"54 degrees relative humidity 87%, no wind",Tennessee Titans,-14.0,40.0
+2009,14,December 13,/boxscores/200912130rai.htm,False,Washington Redskins,34,Oakland Raiders,13,"52 degrees relative humidity 93%, wind 9 mph, wind chill 0",Washington Redskins,-2.5,37.5
+2009,14,December 13,/boxscores/200912130dal.htm,False,San Diego Chargers,20,Dallas Cowboys,17,,Dallas Cowboys,-3.5,48.5
+2009,14,December 13,/boxscores/200912130nyg.htm,False,Philadelphia Eagles,45,New York Giants,38,"42 degrees relative humidity 91%, no wind",Philadelphia Eagles,-1.0,42.5
+2009,14,December 14,/boxscores/200912140sfo.htm,True,San Francisco 49ers,24,Arizona Cardinals,9,"53 degrees relative humidity 83%, no wind, wind chill 0",Arizona Cardinals,-4.0,45.0
+2009,15,December 17,/boxscores/200912170jax.htm,False,Indianapolis Colts,35,Jacksonville Jaguars,31,"56 degrees relative humidity 85%, wind 10 mph, wind chill 0",Indianapolis Colts,-3.0,43.5
+2009,15,December 19,/boxscores/200912190nor.htm,False,Dallas Cowboys,24,New Orleans Saints,17,,New Orleans Saints,-7.5,53.5
+2009,15,December 20,/boxscores/200912200ram.htm,False,Houston Texans,16,St. Louis Rams,13,,Houston Texans,-14.0,43.5
+2009,15,December 20,/boxscores/200912200kan.htm,False,Cleveland Browns,41,Kansas City Chiefs,34,"39 degrees relative humidity 65%, wind 15 mph, wind chill 30",Kansas City Chiefs,-3.0,37.0
+2009,15,December 20,/boxscores/200912200buf.htm,False,New England Patriots,17,Buffalo Bills,10,"28 degrees relative humidity 52%, wind 5 mph, wind chill 22",New England Patriots,-7.0,41.0
+2009,15,December 20,/boxscores/200912200det.htm,False,Arizona Cardinals,31,Detroit Lions,24,,Arizona Cardinals,-14.0,47.0
+2009,15,December 20,/boxscores/200912200oti.htm,True,Tennessee Titans,27,Miami Dolphins,24,"35 degrees relative humidity 72%, wind 5 mph",Tennessee Titans,-4.5,43.0
+2009,15,December 20,/boxscores/200912200nyj.htm,False,Atlanta Falcons,10,New York Jets,7,"29 degrees relative humidity 31%, wind 18 mph, wind chill 18",New York Jets,-7.0,35.5
+2009,15,December 20,/boxscores/200912200den.htm,False,Oakland Raiders,20,Denver Broncos,19,"57 degrees relative humidity 26%, wind 6 mph, wind chill 0",Denver Broncos,-14.0,37.0
+2009,15,December 20,/boxscores/200912200sdg.htm,True,San Diego Chargers,27,Cincinnati Bengals,24,"72 degrees relative humidity 54%, wind 8 mph, wind chill 0",San Diego Chargers,-7.0,43.5
+2009,15,December 20,/boxscores/200912200pit.htm,True,Pittsburgh Steelers,37,Green Bay Packers,36,"30 degrees relative humidity 56%, wind 10 mph, wind chill 21",Pittsburgh Steelers,-2.5,41.0
+2009,15,December 20,/boxscores/200912200rav.htm,True,Baltimore Ravens,31,Chicago Bears,7,"32 degrees relative humidity 58%, wind 19 mph, wind chill 20",Baltimore Ravens,-11.0,39.0
+2009,15,December 20,/boxscores/200912200phi.htm,True,Philadelphia Eagles,27,San Francisco 49ers,13,"32 degrees relative humidity 44%, wind 18 mph, wind chill 20",Philadelphia Eagles,-7.5,41.0
+2009,15,December 20,/boxscores/200912200sea.htm,False,Tampa Bay Buccaneers,24,Seattle Seahawks,7,"52 degrees relative humidity 83%, wind 12 mph, wind chill 0",Seattle Seahawks,-6.5,39.0
+2009,15,December 20,/boxscores/200912200car.htm,True,Carolina Panthers,26,Minnesota Vikings,7,"37 degrees relative humidity 43%, wind 5 mph",Minnesota Vikings,-9.0,43.0
+2009,15,December 21,/boxscores/200912210was.htm,False,New York Giants,45,Washington Redskins,12,"38 degrees relative humidity 60%, wind 12 mph, wind chill 30",New York Giants,-3.0,43.5
+2009,16,December 25,/boxscores/200912250oti.htm,False,San Diego Chargers,42,Tennessee Titans,17,"33 degrees relative humidity 70%, wind 7 mph, wind chill 27",Tennessee Titans,-2.0,48.0
+2009,16,December 27,/boxscores/200912270cle.htm,True,Cleveland Browns,23,Oakland Raiders,9,"34 degrees relative humidity 84%, wind 6 mph, wind chill 30",Cleveland Browns,-3.0,37.0
+2009,16,December 27,/boxscores/200912270nwe.htm,True,New England Patriots,35,Jacksonville Jaguars,7,"55 degrees relative humidity 88%, wind 14 mph, wind chill 0",New England Patriots,-9.0,44.5
+2009,16,December 27,/boxscores/200912270mia.htm,False,Houston Texans,27,Miami Dolphins,20,"75 degrees relative humidity 65%, wind 6 mph, wind chill 0",Miami Dolphins,-2.0,47.0
+2009,16,December 27,/boxscores/200912270pit.htm,True,Pittsburgh Steelers,23,Baltimore Ravens,20,"39 degrees relative humidity 49%, wind 9 mph",Pittsburgh Steelers,-3.0,43.0
+2009,16,December 27,/boxscores/200912270gnb.htm,True,Green Bay Packers,48,Seattle Seahawks,10,"18 degrees relative humidity 96%, wind 5 mph, wind chill 11",Green Bay Packers,-13.5,43.5
+2009,16,December 27,/boxscores/200912270atl.htm,True,Atlanta Falcons,31,Buffalo Bills,3,,Atlanta Falcons,-8.0,40.0
+2009,16,December 27,/boxscores/200912270cin.htm,True,Cincinnati Bengals,17,Kansas City Chiefs,10,"41 degrees relative humidity 50%, wind 14 mph",Cincinnati Bengals,-13.0,39.5
+2009,16,December 27,/boxscores/200912270nor.htm,False,Tampa Bay Buccaneers,20,New Orleans Saints,17,,New Orleans Saints,-14.0,48.5
+2009,16,December 27,/boxscores/200912270nyg.htm,False,Carolina Panthers,41,New York Giants,9,"50 degrees relative humidity 39%, wind 12 mph",New York Giants,-8.5,43.0
+2009,16,December 27,/boxscores/200912270sfo.htm,True,San Francisco 49ers,20,Detroit Lions,6,"55 degrees relative humidity 80%, wind 5 mph, wind chill 0",San Francisco 49ers,-14.0,41.0
+2009,16,December 27,/boxscores/200912270crd.htm,True,Arizona Cardinals,31,St. Louis Rams,10,,Arizona Cardinals,-16.0,43.5
+2009,16,December 27,/boxscores/200912270clt.htm,False,New York Jets,29,Indianapolis Colts,15,,Indianapolis Colts,-3.0,40.5
+2009,16,December 27,/boxscores/200912270phi.htm,True,Philadelphia Eagles,30,Denver Broncos,27,"45 degrees relative humidity 52%, wind 7 mph",Philadelphia Eagles,-7.0,43.0
+2009,16,December 27,/boxscores/200912270was.htm,False,Dallas Cowboys,17,Washington Redskins,0,"37 degrees relative humidity 53%, wind 8 mph",Dallas Cowboys,-7.0,42.0
+2009,16,December 28,/boxscores/200912280chi.htm,True,Chicago Bears,36,Minnesota Vikings,30,"26 degrees relative humidity 54%, wind 9 mph, wind chill 17",Minnesota Vikings,-8.5,42.0
+2009,17,January 3,/boxscores/201001030ram.htm,False,San Francisco 49ers,28,St. Louis Rams,6,,San Francisco 49ers,-7.0,39.5
+2009,17,January 3,/boxscores/201001030cle.htm,True,Cleveland Browns,23,Jacksonville Jaguars,17,"16 degrees relative humidity 81%, wind 20 mph, wind chill -1",Cleveland Browns,-2.0,35.0
+2009,17,January 3,/boxscores/201001030mia.htm,False,Pittsburgh Steelers,30,Miami Dolphins,24,"60 degrees relative humidity 44%, wind 11 mph, wind chill 0",Pittsburgh Steelers,-3.0,46.0
+2009,17,January 3,/boxscores/201001030buf.htm,True,Buffalo Bills,30,Indianapolis Colts,7,"12 degrees relative humidity 81%, wind 12 mph, wind chill -2",Buffalo Bills,-8.0,32.0
+2009,17,January 3,/boxscores/201001030htx.htm,True,Houston Texans,34,New England Patriots,27,,Houston Texans,-7.5,47.0
+2009,17,January 3,/boxscores/201001030tam.htm,False,Atlanta Falcons,20,Tampa Bay Buccaneers,10,"44 degrees relative humidity 0%, wind 5 mph",Atlanta Falcons,-3.0,41.5
+2009,17,January 3,/boxscores/201001030det.htm,False,Chicago Bears,37,Detroit Lions,23,,Chicago Bears,-4.5,44.5
+2009,17,January 3,/boxscores/201001030car.htm,True,Carolina Panthers,23,New Orleans Saints,10,"30 degrees relative humidity 36%, wind 7 mph, wind chill 23",Carolina Panthers,-10.0,41.0
+2009,17,January 3,/boxscores/201001030min.htm,True,Minnesota Vikings,44,New York Giants,7,,Minnesota Vikings,-8.0,48.0
+2009,17,January 3,/boxscores/201001030den.htm,False,Kansas City Chiefs,44,Denver Broncos,24,"36 degrees relative humidity 63%, wind 6 mph",Denver Broncos,-10.0,38.0
+2009,17,January 3,/boxscores/201001030dal.htm,True,Dallas Cowboys,24,Philadelphia Eagles,0,,Dallas Cowboys,-3.0,47.0
+2009,17,January 3,/boxscores/201001030sdg.htm,True,San Diego Chargers,23,Washington Redskins,20,"74 degrees relative humidity 46%, wind 8 mph, wind chill 0",San Diego Chargers,-3.0,39.0
+2009,17,January 3,/boxscores/201001030rai.htm,False,Baltimore Ravens,21,Oakland Raiders,13,"54 degrees relative humidity 80%, wind 6 mph, wind chill 0",Baltimore Ravens,-10.0,39.0
+2009,17,January 3,/boxscores/201001030crd.htm,False,Green Bay Packers,33,Arizona Cardinals,7,,Arizona Cardinals,-3.0,44.0
+2009,17,January 3,/boxscores/201001030sea.htm,False,Tennessee Titans,17,Seattle Seahawks,13,"46 degrees relative humidity 85%, no wind, wind chill 0",Tennessee Titans,-6.0,45.0
+2009,17,January 3,/boxscores/201001030nyj.htm,True,New York Jets,37,Cincinnati Bengals,0,"20 degrees relative humidity 49%, wind 17 mph, wind chill 4",New York Jets,-10.0,33.5
+2009,WildCard,January 9,/boxscores/201001090cin.htm,False,New York Jets,24,Cincinnati Bengals,14,"21 degrees relative humidity 56%, wind 11 mph, wind chill 9",Cincinnati Bengals,-2.5,34.5
+2009,WildCard,January 9,/boxscores/201001090dal.htm,True,Dallas Cowboys,34,Philadelphia Eagles,14,,Dallas Cowboys,-3.5,46.0
+2009,WildCard,January 10,/boxscores/201001100nwe.htm,False,Baltimore Ravens,33,New England Patriots,14,"20 degrees relative humidity 36%, wind 12 mph, wind chill 8",New England Patriots,-4.0,44.0
+2009,WildCard,January 10,/boxscores/201001100crd.htm,True,Arizona Cardinals,51,Green Bay Packers,45,,Green Bay Packers,-2.5,48.0
+2009,Division,January 16,/boxscores/201001160nor.htm,True,New Orleans Saints,45,Arizona Cardinals,14,,New Orleans Saints,-7.0,57.0
+2009,Division,January 16,/boxscores/201001160clt.htm,True,Indianapolis Colts,20,Baltimore Ravens,3,,Indianapolis Colts,-6.5,44.0
+2009,Division,January 17,/boxscores/201001170min.htm,True,Minnesota Vikings,34,Dallas Cowboys,3,,Minnesota Vikings,-2.5,45.0
+2009,Division,January 17,/boxscores/201001170sdg.htm,False,New York Jets,17,San Diego Chargers,14,"63 degrees relative humidity 42%, wind 8 mph, wind chill 0",San Diego Chargers,-9.0,42.5
+2009,ConfChamp,January 24,/boxscores/201001240clt.htm,True,Indianapolis Colts,30,New York Jets,17,,Indianapolis Colts,-8.5,40.5
+2009,ConfChamp,January 24,/boxscores/201001240nor.htm,True,New Orleans Saints,31,Minnesota Vikings,28,,New Orleans Saints,-3.5,54.0
+2009,SuperBowl,February 7,/boxscores/201002070clt.htm,True,New Orleans Saints,31,Indianapolis Colts,17,"60 degrees relative humidity 57%, wind 6 mph, wind chill 0",Indianapolis Colts,-4.5,56.5
+2010,1,September 9,/boxscores/201009090nor.htm,True,New Orleans Saints,14,Minnesota Vikings,9,,New Orleans Saints,-5.0,49.5
+2010,1,September 12,/boxscores/201009120tam.htm,True,Tampa Bay Buccaneers,17,Cleveland Browns,14,"87 degrees relative humidity 78%, wind 6 mph",Tampa Bay Buccaneers,-2.5,37.0
+2010,1,September 12,/boxscores/201009120htx.htm,True,Houston Texans,34,Indianapolis Colts,24,,Indianapolis Colts,-1.0,48.0
+2010,1,September 12,/boxscores/201009120nwe.htm,True,New England Patriots,38,Cincinnati Bengals,24,"62 degrees relative humidity 0%, wind 10 mph, wind chill 0",New England Patriots,-5.5,45.0
+2010,1,September 12,/boxscores/201009120buf.htm,False,Miami Dolphins,15,Buffalo Bills,10,"62 degrees relative humidity 81%, wind 7 mph, wind chill 0",Miami Dolphins,-3.0,39.0
+2010,1,September 12,/boxscores/201009120oti.htm,True,Tennessee Titans,38,Oakland Raiders,13,"77 degrees relative humidity 45%, wind 9 mph, wind chill 0",Tennessee Titans,-6.5,40.0
+2010,1,September 12,/boxscores/201009120pit.htm,True,Pittsburgh Steelers,15,Atlanta Falcons,9,"65 degrees relative humidity 67%, wind 9 mph",Atlanta Falcons,-1.5,39.5
+2010,1,September 12,/boxscores/201009120chi.htm,True,Chicago Bears,19,Detroit Lions,14,"75 degrees relative humidity 45%, wind 10 mph, wind chill 0",Chicago Bears,-6.5,45.0
+2010,1,September 12,/boxscores/201009120jax.htm,True,Jacksonville Jaguars,24,Denver Broncos,17,"90 degrees relative humidity 67%, wind 10 mph, wind chill 0",Jacksonville Jaguars,-3.0,41.5
+2010,1,September 12,/boxscores/201009120nyg.htm,True,New York Giants,31,Carolina Panthers,18,"64 degrees relative humidity 67%, wind 10 mph, wind chill 0",New York Giants,-6.0,41.0
+2010,1,September 12,/boxscores/201009120ram.htm,False,Arizona Cardinals,17,St. Louis Rams,13,,Arizona Cardinals,-3.0,39.5
+2010,1,September 12,/boxscores/201009120sea.htm,True,Seattle Seahawks,31,San Francisco 49ers,6,"64 degrees relative humidity 0%, wind 11 mph, wind chill 0",San Francisco 49ers,-3.0,37.0
+2010,1,September 12,/boxscores/201009120phi.htm,False,Green Bay Packers,27,Philadelphia Eagles,20,"69 degrees relative humidity 72%, wind 4 mph, wind chill 0",Green Bay Packers,-3.0,48.0
+2010,1,September 12,/boxscores/201009120was.htm,True,Washington Redskins,13,Dallas Cowboys,7,"66 degrees relative humidity 85%, wind 2 mph, wind chill 0",Dallas Cowboys,-3.0,40.0
+2010,1,September 13,/boxscores/201009130nyj.htm,False,Baltimore Ravens,10,New York Jets,9,"67 degrees relative humidity 100%, wind 11 mph, wind chill 0",New York Jets,-1.0,36.5
+2010,1,September 13,/boxscores/201009130kan.htm,True,Kansas City Chiefs,21,San Diego Chargers,14,"78 degrees relative humidity 75%, wind 10 mph, wind chill 0",San Diego Chargers,-4.0,45.5
+2010,2,September 19,/boxscores/201009190det.htm,False,Philadelphia Eagles,35,Detroit Lions,32,,Philadelphia Eagles,-6.5,41.0
+2010,2,September 19,/boxscores/201009190cle.htm,False,Kansas City Chiefs,16,Cleveland Browns,14,"65 degrees relative humidity 0%, wind 16 mph, wind chill 0",Cleveland Browns,-3.0,38.0
+2010,2,September 19,/boxscores/201009190cin.htm,True,Cincinnati Bengals,15,Baltimore Ravens,10,"78 degrees relative humidity 52%, wind 1 mph, wind chill 0",Baltimore Ravens,-3.0,39.5
+2010,2,September 19,/boxscores/201009190gnb.htm,True,Green Bay Packers,34,Buffalo Bills,7,"58 degrees relative humidity 51%, wind 4 mph, wind chill 0",Green Bay Packers,-13.0,43.0
+2010,2,September 19,/boxscores/201009190oti.htm,False,Pittsburgh Steelers,19,Tennessee Titans,11,"87 degrees relative humidity 49%, wind 3 mph",Tennessee Titans,-6.0,37.0
+2010,2,September 19,/boxscores/201009190car.htm,False,Tampa Bay Buccaneers,20,Carolina Panthers,7,"89 degrees relative humidity 39%, wind 4 mph, wind chill 0",Carolina Panthers,-4.0,37.5
+2010,2,September 19,/boxscores/201009190atl.htm,True,Atlanta Falcons,41,Arizona Cardinals,7,,Atlanta Falcons,-7.0,43.5
+2010,2,September 19,/boxscores/201009190dal.htm,False,Chicago Bears,27,Dallas Cowboys,20,,Dallas Cowboys,-7.0,41.5
+2010,2,September 19,/boxscores/201009190min.htm,False,Miami Dolphins,14,Minnesota Vikings,10,,Minnesota Vikings,-6.0,41.0
+2010,2,September 19,/boxscores/201009190rai.htm,True,Oakland Raiders,16,St. Louis Rams,14,"72 degrees relative humidity 60%, wind 6 mph, wind chill 0",Oakland Raiders,-3.0,37.5
+2010,2,September 19,/boxscores/201009190den.htm,True,Denver Broncos,31,Seattle Seahawks,14,"91 degrees relative humidity 4%, wind 9 mph, wind chill 0",Denver Broncos,-3.5,41.0
+2010,2,September 19,/boxscores/201009190was.htm,False,Houston Texans,30,Washington Redskins,27,"85 degrees relative humidity 43%, wind 6 mph, wind chill 0",Houston Texans,-3.0,42.5
+2010,2,September 19,/boxscores/201009190sdg.htm,True,San Diego Chargers,38,Jacksonville Jaguars,13,"76 degrees relative humidity 63%, wind 8 mph, wind chill 0",San Diego Chargers,-7.0,45.0
+2010,2,September 19,/boxscores/201009190nyj.htm,True,New York Jets,28,New England Patriots,14,"81 degrees relative humidity 36%, wind 6 mph, wind chill 0",New England Patriots,-3.0,39.5
+2010,2,September 19,/boxscores/201009190clt.htm,True,Indianapolis Colts,38,New York Giants,14,,Indianapolis Colts,-4.0,48.5
+2010,2,September 20,/boxscores/201009200sfo.htm,False,New Orleans Saints,25,San Francisco 49ers,22,"65 degrees relative humidity 60%, wind 10 mph, wind chill 0",New Orleans Saints,-5.0,43.5
+2010,3,September 26,/boxscores/201009260car.htm,False,Cincinnati Bengals,20,Carolina Panthers,7,"67 degrees relative humidity 86%, wind 8 mph, wind chill 0",Cincinnati Bengals,-3.5,37.0
+2010,3,September 26,/boxscores/201009260rav.htm,True,Baltimore Ravens,24,Cleveland Browns,17,"64 degrees relative humidity 83%, wind 6 mph, wind chill 0",Baltimore Ravens,-12.5,36.5
+2010,3,September 26,/boxscores/201009260htx.htm,False,Dallas Cowboys,27,Houston Texans,13,,Houston Texans,-2.5,47.5
+2010,3,September 26,/boxscores/201009260nyg.htm,False,Tennessee Titans,29,New York Giants,10,"70 degrees relative humidity 48%, wind 3 mph, wind chill 0",New York Giants,-3.0,43.5
+2010,3,September 26,/boxscores/201009260nwe.htm,True,New England Patriots,38,Buffalo Bills,30,"68 degrees relative humidity 0%, wind 11 mph, wind chill 0",New England Patriots,-14.5,43.0
+2010,3,September 26,/boxscores/201009260nor.htm,False,Atlanta Falcons,27,New Orleans Saints,24,,New Orleans Saints,-3.0,49.5
+2010,3,September 26,/boxscores/201009260tam.htm,False,Pittsburgh Steelers,38,Tampa Bay Buccaneers,13,"90 degrees relative humidity 62%, wind 7 mph",Pittsburgh Steelers,-3.0,33.0
+2010,3,September 26,/boxscores/201009260kan.htm,True,Kansas City Chiefs,31,San Francisco 49ers,10,"55 degrees relative humidity 72%, wind 10 mph, wind chill 0",San Francisco 49ers,-3.0,38.0
+2010,3,September 26,/boxscores/201009260min.htm,True,Minnesota Vikings,24,Detroit Lions,10,,Minnesota Vikings,-13.0,43.0
+2010,3,September 26,/boxscores/201009260jax.htm,False,Philadelphia Eagles,28,Jacksonville Jaguars,3,"89 degrees relative humidity 67%, wind 5 mph, wind chill 0",Philadelphia Eagles,-3.0,45.0
+2010,3,September 26,/boxscores/201009260ram.htm,True,St. Louis Rams,30,Washington Redskins,16,,Washington Redskins,-5.0,39.0
+2010,3,September 26,/boxscores/201009260crd.htm,True,Arizona Cardinals,24,Oakland Raiders,23,,Arizona Cardinals,-5.5,39.0
+2010,3,September 26,/boxscores/201009260den.htm,False,Indianapolis Colts,27,Denver Broncos,13,"85 degrees relative humidity 12%, wind 6 mph, wind chill 0",Indianapolis Colts,-6.0,47.0
+2010,3,September 26,/boxscores/201009260sea.htm,True,Seattle Seahawks,27,San Diego Chargers,20,"68 degrees relative humidity 0%, wind 10 mph, wind chill 0",San Diego Chargers,-4.0,44.0
+2010,3,September 26,/boxscores/201009260mia.htm,False,New York Jets,31,Miami Dolphins,23,"83 degrees relative humidity 77%, wind 9 mph, wind chill 0",Miami Dolphins,-2.5,36.0
+2010,3,September 27,/boxscores/201009270chi.htm,True,Chicago Bears,20,Green Bay Packers,17,"56 degrees relative humidity 75%, wind 6 mph, wind chill 0",Green Bay Packers,-3.0,46.5
+2010,4,October 3,/boxscores/201010030ram.htm,True,St. Louis Rams,20,Seattle Seahawks,3,,Seattle Seahawks,-2.0,40.0
+2010,4,October 3,/boxscores/201010030buf.htm,False,New York Jets,38,Buffalo Bills,14,"51 degrees relative humidity 66%, wind 16 mph, wind chill 0",New York Jets,-6.0,37.0
+2010,4,October 3,/boxscores/201010030gnb.htm,True,Green Bay Packers,28,Detroit Lions,26,"52 degrees relative humidity 61%, wind 8 mph, wind chill 0",Green Bay Packers,-14.5,46.0
+2010,4,October 3,/boxscores/201010030oti.htm,False,Denver Broncos,26,Tennessee Titans,20,"54 degrees relative humidity 67%, wind 13 mph",Tennessee Titans,-6.5,43.5
+2010,4,October 3,/boxscores/201010030cle.htm,True,Cleveland Browns,23,Cincinnati Bengals,20,"50 degrees relative humidity 0%, wind 10 mph, wind chill 0",Cincinnati Bengals,-2.5,37.0
+2010,4,October 3,/boxscores/201010030pit.htm,False,Baltimore Ravens,17,Pittsburgh Steelers,14,"52 degrees relative humidity 86%, wind 5 mph",Pittsburgh Steelers,-2.5,34.5
+2010,4,October 3,/boxscores/201010030atl.htm,True,Atlanta Falcons,16,San Francisco 49ers,14,,Atlanta Falcons,-7.0,42.5
+2010,4,October 3,/boxscores/201010030nor.htm,True,New Orleans Saints,16,Carolina Panthers,14,,New Orleans Saints,-12.5,44.0
+2010,4,October 3,/boxscores/201010030rai.htm,False,Houston Texans,31,Oakland Raiders,24,"71 degrees relative humidity 53%, wind 15 mph, wind chill 0",Houston Texans,-3.5,44.0
+2010,4,October 3,/boxscores/201010030jax.htm,True,Jacksonville Jaguars,31,Indianapolis Colts,28,"80 degrees relative humidity 30%, wind 10 mph, wind chill 0",Indianapolis Colts,-7.0,46.0
+2010,4,October 3,/boxscores/201010030sdg.htm,True,San Diego Chargers,41,Arizona Cardinals,10,"72 degrees relative humidity 67%, wind 8 mph, wind chill 0",San Diego Chargers,-9.5,46.5
+2010,4,October 3,/boxscores/201010030phi.htm,False,Washington Redskins,17,Philadelphia Eagles,12,"63 degrees relative humidity 57%, wind 13 mph, wind chill 0",Philadelphia Eagles,-5.0,43.5
+2010,4,October 3,/boxscores/201010030nyg.htm,True,New York Giants,17,Chicago Bears,3,"59 degrees relative humidity 52%, wind 14 mph, wind chill 0",New York Giants,-3.5,44.0
+2010,4,October 4,/boxscores/201010040mia.htm,False,New England Patriots,41,Miami Dolphins,14,"80 degrees relative humidity 60%, wind 15 mph, wind chill 0",New England Patriots,-1.0,48.0
+2010,5,October 10,/boxscores/201010100det.htm,True,Detroit Lions,44,St. Louis Rams,6,,Detroit Lions,-3.0,42.5
+2010,5,October 10,/boxscores/201010100rav.htm,True,Baltimore Ravens,31,Denver Broncos,17,"67 degrees relative humidity 40%, wind 6 mph, wind chill 0",Baltimore Ravens,-8.0,39.5
+2010,5,October 10,/boxscores/201010100buf.htm,False,Jacksonville Jaguars,36,Buffalo Bills,26,"62 degrees relative humidity 52%, wind 10 mph, wind chill 0",Buffalo Bills,-2.5,41.5
+2010,5,October 10,/boxscores/201010100was.htm,True,Washington Redskins,16,Green Bay Packers,13,"72 degrees relative humidity 46%, no wind, wind chill 0",Green Bay Packers,-3.0,45.5
+2010,5,October 10,/boxscores/201010100car.htm,False,Chicago Bears,23,Carolina Panthers,6,"81 degrees relative humidity 29%, wind 2 mph, wind chill 0",Carolina Panthers,-3.0,33.0
+2010,5,October 10,/boxscores/201010100htx.htm,False,New York Giants,34,Houston Texans,10,,Houston Texans,-3.0,48.5
+2010,5,October 10,/boxscores/201010100cin.htm,False,Tampa Bay Buccaneers,24,Cincinnati Bengals,21,"81 degrees relative humidity 32%, wind 2 mph, wind chill 0",Cincinnati Bengals,-7.0,38.5
+2010,5,October 10,/boxscores/201010100clt.htm,True,Indianapolis Colts,19,Kansas City Chiefs,9,,Indianapolis Colts,-7.5,46.5
+2010,5,October 10,/boxscores/201010100cle.htm,False,Atlanta Falcons,20,Cleveland Browns,10,"71 degrees relative humidity 0%, wind 9 mph, wind chill 0",Atlanta Falcons,-3.0,41.5
+2010,5,October 10,/boxscores/201010100crd.htm,True,Arizona Cardinals,30,New Orleans Saints,20,,New Orleans Saints,-7.0,45.5
+2010,5,October 10,/boxscores/201010100rai.htm,True,Oakland Raiders,35,San Diego Chargers,27,"67 degrees relative humidity 0%, no wind, wind chill 0",San Diego Chargers,-7.0,44.0
+2010,5,October 10,/boxscores/201010100dal.htm,False,Tennessee Titans,34,Dallas Cowboys,27,,Dallas Cowboys,-7.0,43.0
+2010,5,October 10,/boxscores/201010100sfo.htm,False,Philadelphia Eagles,27,San Francisco 49ers,24,"71 degrees relative humidity 51%, wind 10 mph, wind chill 0",San Francisco 49ers,-3.0,38.5
+2010,5,October 11,/boxscores/201010110nyj.htm,True,New York Jets,29,Minnesota Vikings,20,"72 degrees relative humidity 56%, wind 10 mph, wind chill 0",New York Jets,-4.5,40.0
+2010,6,October 17,/boxscores/201010170ram.htm,True,St. Louis Rams,20,San Diego Chargers,17,,San Diego Chargers,-8.5,45.0
+2010,6,October 17,/boxscores/201010170nwe.htm,True,New England Patriots,23,Baltimore Ravens,20,"57 degrees relative humidity 0%, wind 14 mph, wind chill 0",New England Patriots,-3.0,44.5
+2010,6,October 17,/boxscores/201010170phi.htm,True,Philadelphia Eagles,31,Atlanta Falcons,17,"66 degrees relative humidity 45%, wind 12 mph, wind chill 0",Philadelphia Eagles,-1.5,43.0
+2010,6,October 17,/boxscores/201010170gnb.htm,False,Miami Dolphins,23,Green Bay Packers,20,"57 degrees relative humidity 45%, wind 11 mph, wind chill 0",Green Bay Packers,-3.0,44.0
+2010,6,October 17,/boxscores/201010170tam.htm,False,New Orleans Saints,31,Tampa Bay Buccaneers,6,"81 degrees relative humidity 48%, wind 9 mph",New Orleans Saints,-5.5,44.0
+2010,6,October 17,/boxscores/201010170pit.htm,True,Pittsburgh Steelers,28,Cleveland Browns,10,"61 degrees relative humidity 48%, wind 13 mph",Pittsburgh Steelers,-14.0,37.5
+2010,6,October 17,/boxscores/201010170chi.htm,False,Seattle Seahawks,23,Chicago Bears,20,"61 degrees relative humidity 49%, wind 9 mph, wind chill 0",Chicago Bears,-6.0,38.0
+2010,6,October 17,/boxscores/201010170nyg.htm,True,New York Giants,28,Detroit Lions,20,"63 degrees relative humidity 44%, wind 9 mph, wind chill 0",New York Giants,-10.0,45.5
+2010,6,October 17,/boxscores/201010170htx.htm,True,Houston Texans,35,Kansas City Chiefs,31,,Houston Texans,-4.5,46.0
+2010,6,October 17,/boxscores/201010170den.htm,False,New York Jets,24,Denver Broncos,20,"73 degrees relative humidity 13%, wind 4 mph, wind chill 0",New York Jets,-3.5,43.0
+2010,6,October 17,/boxscores/201010170sfo.htm,True,San Francisco 49ers,17,Oakland Raiders,9,"53 degrees relative humidity 72%, wind 10 mph, wind chill 0",San Francisco 49ers,-7.0,41.0
+2010,6,October 17,/boxscores/201010170min.htm,True,Minnesota Vikings,24,Dallas Cowboys,21,,Minnesota Vikings,-1.5,44.0
+2010,6,October 17,/boxscores/201010170was.htm,False,Indianapolis Colts,27,Washington Redskins,24,"70 degrees relative humidity 46%, wind 7 mph, wind chill 0",Indianapolis Colts,-3.0,45.0
+2010,6,October 18,/boxscores/201010180jax.htm,False,Tennessee Titans,30,Jacksonville Jaguars,3,"70 degrees relative humidity 0%, wind 8 mph, wind chill 0",Tennessee Titans,-3.0,43.5
+2010,7,October 24,/boxscores/201010240mia.htm,False,Pittsburgh Steelers,23,Miami Dolphins,22,"80 degrees relative humidity 84%, wind 13 mph, wind chill 0",Pittsburgh Steelers,-3.0,40.5
+2010,7,October 24,/boxscores/201010240rav.htm,True,Baltimore Ravens,37,Buffalo Bills,34,"70 degrees relative humidity 52%, wind 5 mph, wind chill 0",Baltimore Ravens,-12.5,40.0
+2010,7,October 24,/boxscores/201010240oti.htm,True,Tennessee Titans,37,Philadelphia Eagles,19,"78 degrees relative humidity 39%, wind 22 mph, wind chill 0",Tennessee Titans,-3.0,42.0
