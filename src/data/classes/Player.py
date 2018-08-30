@@ -119,8 +119,12 @@ class PlayerGame():
             game_stats_id = "kicking"
 
         game_stats_tbody = game_html.find("table", {"id" : game_stats_id}).tbody
-        player_game_stats = game_stats_tbody.find("a", {"href" : player_link})
-
+        
+        if game_stats_tbody.find("a", {"href" : player_link}) is None:
+            player_game_stats = None
+        else:
+            player_game_stats = game_stats_tbody.find("a", {"href" : player_link}).parent.parent
+            
         return player_game_stats
     
     def get_pos_stats_flg(self, player_snaps_tr):

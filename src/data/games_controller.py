@@ -60,7 +60,6 @@ def get_games_stats(config, upcoming_flg):
                     
                     positional_player = player_game.player_class(player_game)
                     pos_player_stats = positional_player.get_positional_stats(player_game)
-                    print(pos_player_stats)
                     player_stats_dict.update(pos_player_stats)
                     team_game_player_stats.append(player_stats_dict)
             

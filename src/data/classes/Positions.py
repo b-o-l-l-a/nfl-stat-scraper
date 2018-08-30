@@ -42,7 +42,9 @@ class Quarterback():
     
     def get_positional_stats(self, PlayerGame):
         
+        
         positional_stats_list = self.game_tbl_passing_stats + self.game_tbl_rushing_stats
+        
         qb_stats = PlayerGame.get_player_indiv_game_stats(positional_stats_list)
         
         return qb_stats
