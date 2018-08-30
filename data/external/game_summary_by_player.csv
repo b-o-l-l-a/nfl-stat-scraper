@@ -1,0 +1,863 @@
+perc_snaps,player_link,player_name,position,season,snaps,team,week
+1.0,/players/H/HopkDe00.htm,DeAndre Hopkins,WR,2017,66,Houston Texans,2
+1.0,/players/W/WatsDe00.htm,Deshaun Watson,QB,2017,66,Houston Texans,2
+0.95,/players/M/MillBr03.htm,Braxton Miller,WR,2017,63,Houston Texans,2
+0.74,/players/M/MillLa01.htm,Lamar Miller,RB,2017,49,Houston Texans,2
+0.41,/players/E/ErviTy00.htm,Tyler Ervin,RB,2017,27,Houston Texans,2
+0.26,/players/F/ForeDO00.htm,D'Onta Foreman,RB,2017,17,Houston Texans,2
+1.0,/players/H/HalxAn00.htm,Andre Hal,DB,2017,64,Houston Texans,2
+0.98,/players/M/McKiBe00.htm,Benardrick McKinney,LB,2017,63,Houston Texans,2
+0.92,/players/J/JackKa99.htm,Kareem Jackson,DB,2017,59,Houston Texans,2
+0.91,/players/W/WattJ.00.htm,J.J. Watt,DL,2017,58,Houston Texans,2
+0.86,/players/M/MoorCo00.htm,Corey Moore,DB,2017,55,Houston Texans,2
+0.86,/players/C/ClowJa00.htm,Jadeveon Clowney,LB,2017,55,Houston Texans,2
+0.73,/players/J/JohnKe04.htm,Kevin Johnson,DB,2017,47,Houston Texans,2
+0.67,/players/C/CunnZa00.htm,Zach Cunningham,LB,2017,43,Houston Texans,2
+0.55,/players/R/ReadD.00.htm,D.J. Reader,DL,2017,35,Houston Texans,2
+0.42,/players/P/PleaEd00.htm,Eddie Pleasant,DB,2017,27,Houston Texans,2
+0.41,/players/H/HeatJo00.htm,Joel Heath,DL,2017,26,Houston Texans,2
+0.36,/players/C/ColeDy00.htm,Dylan Cole,LB,2017,23,Houston Texans,2
+0.34,/players/J/JoseJo20.htm,Johnathan Joseph,DB,2017,22,Houston Texans,2
+0.28,/players/G/GilcMa00.htm,Marcus Gilchrist,DB,2017,18,Houston Texans,2
+0.22,/players/C/CoviCh00.htm,Christian Covington,DL,2017,14,Houston Texans,2
+0.4,/players/L/LechSh20.htm,Shane Lechler,P,2017,12,Houston Texans,2
+0.23,/players/F/FairKa01.htm,Ka'imi Fairbairn,K,2017,7,Houston Texans,2
+1.0,/players/D/DaltAn00.htm,Andy Dalton,QB,2017,64,Cincinnati Bengals,2
+0.97,/players/G/GreeA.00.htm,A.J. Green,WR,2017,62,Cincinnati Bengals,2
+0.89,/players/L/LaFeBr00.htm,Brandon LaFell,WR,2017,57,Cincinnati Bengals,2
+0.78,/players/E/EifeTy00.htm,Tyler Eifert,TE,2017,50,Cincinnati Bengals,2
+0.58,/players/E/EricAl01.htm,Alex Erickson,WR,2017,37,Cincinnati Bengals,2
+0.52,/players/B/BernGi00.htm,Giovani Bernard,RB,2017,33,Cincinnati Bengals,2
+0.25,/players/M/MixoJo00.htm,Joe Mixon,RB,2017,16,Cincinnati Bengals,2
+0.23,/players/H/HillJe01.htm,Jeremy Hill,RB,2017,15,Cincinnati Bengals,2
+1.0,/players/V/VigiNi00.htm,Nick Vigil,LB,2017,66,Cincinnati Bengals,2
+1.0,/players/I/IlokGe00.htm,George Iloka,DB,2017,66,Cincinnati Bengals,2
+1.0,/players/R/ReyxVi00.htm,Vincent Rey,LB,2017,66,Cincinnati Bengals,2
+1.0,/players/K/KirkDr00.htm,Dre Kirkpatrick,DB,2017,66,Cincinnati Bengals,2
+0.97,/players/W/WillSh02.htm,Shawn Williams,DB,2017,64,Cincinnati Bengals,2
+0.92,/players/J/JonePa20.htm,Adam Jones,DB,2017,61,Cincinnati Bengals,2
+0.8,/players/D/DunlCa99.htm,Carlos Dunlap,DL,2017,53,Cincinnati Bengals,2
+0.76,/players/A/AtkiGe99.htm,Geno Atkins,DL,2017,50,Cincinnati Bengals,2
+0.73,/players/D/DennDa00.htm,Darqueze Dennard,DB,2017,48,Cincinnati Bengals,2
+0.68,/players/W/WillJo09.htm,Jordan Willis,DL,2017,45,Cincinnati Bengals,2
+0.52,/players/S/SmitCh03.htm,Chris Smith,DL,2017,34,Cincinnati Bengals,2
+0.48,/players/S/SimsPa99.htm,Pat Sims,DL,2017,32,Cincinnati Bengals,2
+0.33,/players/G/GlasRy00.htm,Ryan Glasgow,DL,2017,22,Cincinnati Bengals,2
+0.29,/players/M/MintKe00.htm,Kevin Minter,LB,2017,19,Cincinnati Bengals,2
+0.33,/players/H/HubeKe20.htm,Kevin Huber,P,2017,10,Cincinnati Bengals,2
+0.23,/players/B/BullRa00.htm,Randy Bullock,K,2017,7,Cincinnati Bengals,2
+0.92,/players/W/WinsJa00.htm,Jameis Winston,QB,2017,65,Tampa Bay Buccaneers,2
+0.77,/players/E/EvanMi00.htm,Mike Evans,WR,2017,55,Tampa Bay Buccaneers,2
+0.65,/players/H/HowaO.00.htm,O.J. Howard,TE,2017,46,Tampa Bay Buccaneers,2
+0.58,/players/H/HumpAd00.htm,Adam Humphries,WR,2017,41,Tampa Bay Buccaneers,2
+0.54,/players/B/BratCa00.htm,Cameron Brate,TE,2017,38,Tampa Bay Buccaneers,2
+0.51,/players/J/JackDe00.htm,DeSean Jackson,WR,2017,36,Tampa Bay Buccaneers,2
+0.48,/players/R/RodgJa00.htm,Jacquizz Rodgers,RB,2017,34,Tampa Bay Buccaneers,2
+0.41,/players/G/GodwCh00.htm,Chris Godwin,WR,2017,29,Tampa Bay Buccaneers,2
+0.3,/players/S/SimsCh00.htm,Charles Sims,RB,2017,21,Tampa Bay Buccaneers,2
+0.23,/players/B/BarbPe01.htm,Peyton Barber,RB,2017,16,Tampa Bay Buccaneers,2
+0.23,/players/C/CrosAl00.htm,Alan Cross,TE,2017,16,Tampa Bay Buccaneers,2
+1.0,/players/H/HargVe00.htm,Vernon Hargreaves,DB,2017,64,Tampa Bay Buccaneers,2
+0.91,/players/B/BeckKe00.htm,Kendell Beckwith,LB,2017,58,Tampa Bay Buccaneers,2
+0.89,/players/G/GrimBr20.htm,Brent Grimes,DB,2017,57,Tampa Bay Buccaneers,2
+0.89,/players/C/ContCh00.htm,Chris Conte,DB,2017,57,Tampa Bay Buccaneers,2
+0.83,/players/D/DaviLa00.htm,Lavonte David,LB,2017,53,Tampa Bay Buccaneers,2
+0.7,/players/S/SpenNo00.htm,Noah Spence,DL,2017,45,Tampa Bay Buccaneers,2
+0.67,/players/M/McClRo98.htm,Robert McClain,DB,2017,43,Tampa Bay Buccaneers,2
+0.62,/players/M/McCoGe99.htm,Gerald McCoy,DL,2017,40,Tampa Bay Buccaneers,2
+0.56,/players/T/TandKe00.htm,Keith Tandy,DB,2017,36,Tampa Bay Buccaneers,2
+0.55,/players/R/RussRy00.htm,Ryan Russell,DL,2017,35,Tampa Bay Buccaneers,2
+0.52,/players/G/GholWi00.htm,William Gholston,DL,2017,33,Tampa Bay Buccaneers,2
+0.44,/players/W/WardT.99.htm,T.J. Ward,DB,2017,28,Tampa Bay Buccaneers,2
+0.38,/players/M/McDoCl99.htm,Clinton McDonald,DL,2017,24,Tampa Bay Buccaneers,2
+0.34,/players/G/GlanAd00.htm,Adarius Glanton,LB,2017,22,Tampa Bay Buccaneers,2
+0.27,/players/A/AlexKw00.htm,Kwon Alexander,LB,2017,17,Tampa Bay Buccaneers,2
+0.11,/players/S/SmitRy00.htm,Ryan Smith,DB,2017,7,Tampa Bay Buccaneers,2
+0.59,/players/F/FolkNi20.htm,Nick Folk,K,2017,13,Tampa Bay Buccaneers,2
+0.45,/players/A/AngeBr00.htm,Bryan Anger,P,2017,10,Tampa Bay Buccaneers,2
+1.0,/players/G/GlenMi00.htm,Mike Glennon,QB,2017,64,Chicago Bears,2
+0.92,/players/B/BellJo02.htm,Josh Bellamy,WR,2017,59,Chicago Bears,2
+0.86,/players/W/WrigKe01.htm,Kendall Wright,WR,2017,55,Chicago Bears,2
+0.75,/players/M/MillZa02.htm,Zach Miller,TE,2017,48,Chicago Bears,2
+0.62,/players/C/CoheTa00.htm,Tarik Cohen,RB,2017,40,Chicago Bears,2
+0.56,/players/T/ThomDe04.htm,Deonte Thompson,WR,2017,36,Chicago Bears,2
+0.48,/players/H/HowaJo00.htm,Jordan Howard,RB,2017,31,Chicago Bears,2
+0.47,/players/S/SimsDi00.htm,Dion Sims,TE,2017,30,Chicago Bears,2
+0.12,/players/G/GentTa00.htm,Tanner Gentry,WR,2017,8,Chicago Bears,2
+1.0,/players/J/JackEd01.htm,Eddie Jackson,DB,2017,71,Chicago Bears,2
+1.0,/players/C/CoopMa00.htm,Marcus Cooper,DB,2017,71,Chicago Bears,2
+1.0,/players/D/DempQu99.htm,Quintin Demps,DB,2017,71,Chicago Bears,2
+0.94,/players/F/FullKy00.htm,Kyle Fuller,DB,2017,67,Chicago Bears,2
+0.85,/players/T/TrevDa00.htm,Danny Trevathan,LB,2017,60,Chicago Bears,2
+0.77,/players/F/FloyLe00.htm,Leonard Floyd,LB,2017,55,Chicago Bears,2
+0.69,/players/H/HickAk00.htm,Akiem Hicks,DL,2017,49,Chicago Bears,2
+0.66,/players/J/JoneCh05.htm,Christian Jones,LB,2017,47,Chicago Bears,2
+0.56,/players/G/GoldEd00.htm,Eddie Goldman,DL,2017,40,Chicago Bears,2
+0.49,/players/U/UnreMi00.htm,Mitch Unrein,DL,2017,35,Chicago Bears,2
+0.45,/players/A/AchoSa00.htm,Sam Acho,LB,2017,32,Chicago Bears,2
+0.44,/players/Y/YounWi99.htm,Willie Young,LB,2017,31,Chicago Bears,2
+0.38,/players/R/RobeRo00.htm,Roy Robertson-Harris,DL,2017,27,Chicago Bears,2
+0.37,/players/B/BullJo00.htm,Jonathan Bullard,DL,2017,26,Chicago Bears,2
+0.34,/players/M/McPhPe00.htm,Pernell McPhee,LB,2017,24,Chicago Bears,2
+0.23,/players/K/KwiaNi00.htm,Nick Kwiatkoski,LB,2017,16,Chicago Bears,2
+0.17,/players/A/AndeJo01.htm,Jonathan Anderson,LB,2017,12,Chicago Bears,2
+0.18,/players/O/ODonPa00.htm,Pat O'Donnell,P,2017,4,Chicago Bears,2
+0.14,/players/B/barthco01.htm,Connor Barth,K,2017,3,Chicago Bears,2
+1.0,/players/F/FlacJo00.htm,Joe Flacco,QB,2017,68,Baltimore Ravens,2
+0.74,/players/W/WatsBe00.htm,Ben Watson,TE,2017,50,Baltimore Ravens,2
+0.71,/players/W/WallMi00.htm,Mike Wallace,WR,2017,48,Baltimore Ravens,2
+0.63,/players/A/AlleJa01.htm,Javorius Allen,RB,2017,43,Baltimore Ravens,2
+0.63,/players/M/MaclJe00.htm,Jeremy Maclin,WR,2017,43,Baltimore Ravens,2
+0.62,/players/B/BoylNi00.htm,Nick Boyle,TE,2017,42,Baltimore Ravens,2
+0.62,/players/P/PerrBr02.htm,Breshad Perriman,WR,2017,42,Baltimore Ravens,2
+0.41,/players/W/WillMa04.htm,Maxx Williams,TE,2017,28,Baltimore Ravens,2
+0.22,/players/W/WestTe00.htm,Terrance West,RB,2017,15,Baltimore Ravens,2
+0.12,/players/C/CampMi02.htm,Michael Campanaro,WR,2017,8,Baltimore Ravens,2
+0.12,/players/C/CollAl00.htm,Alex Collins,RB,2017,8,Baltimore Ravens,2
+1.0,/players/J/JeffTo00.htm,Tony Jefferson,DB,2017,71,Baltimore Ravens,2
+1.0,/players/M/MoslC.00.htm,C.J. Mosley,LB,2017,71,Baltimore Ravens,2
+1.0,/players/S/SmitJi03.htm,Jimmy Smith,DB,2017,71,Baltimore Ravens,2
+1.0,/players/W/WeddEr99.htm,Eric Weddle,DB,2017,71,Baltimore Ravens,2
+0.97,/players/C/CarrBr99.htm,Brandon Carr,DB,2017,69,Baltimore Ravens,2
+0.82,/players/J/JudoMa00.htm,Matt Judon,LB,2017,58,Baltimore Ravens,2
+0.76,/players/U/UrbaBr00.htm,Brent Urban,DL,2017,54,Baltimore Ravens,2
+0.69,/players/S/SuggTe99.htm,Terrell Suggs,LB,2017,49,Baltimore Ravens,2
+0.69,/players/P/PierMi00.htm,Michael Pierce,DL,2017,49,Baltimore Ravens,2
+0.66,/players/W/WebbLa99.htm,Lardarius Webb,DB,2017,47,Baltimore Ravens,2
+0.49,/players/B/BowsTy00.htm,Tyus Bowser,LB,2017,35,Baltimore Ravens,2
+0.42,/players/C/CorrKa00.htm,Kamalei Correa,LB,2017,30,Baltimore Ravens,2
+0.31,/players/W/WillTi00.htm,Tim Williams,LB,2017,22,Baltimore Ravens,2
+0.27,/players/O/OnwuPa00.htm,Patrick Onwuasor,LB,2017,19,Baltimore Ravens,2
+0.27,/players/W/WillBr02.htm,Brandon Williams,DL,2017,19,Baltimore Ravens,2
+0.18,/players/D/DaviCa01.htm,Carl Davis,DL,2017,13,Baltimore Ravens,2
+0.15,/players/H/HumpMa00.htm,Marlon Humphrey,DB,2017,11,Baltimore Ravens,2
+0.44,/players/K/KochSa20.htm,Sam Koch,P,2017,11,Baltimore Ravens,2
+0.4,/players/T/TuckJu00.htm,Justin Tucker,K,2017,10,Baltimore Ravens,2
+0.76,/players/H/HiggRa00.htm,Rashard Higgins,WR,2017,54,Cleveland Browns,2
+0.73,/players/K/KizeDe00.htm,DeShone Kizer,QB,2017,52,Cleveland Browns,2
+0.59,/players/B/BritKe00.htm,Kenny Britt,WR,2017,42,Cleveland Browns,2
+0.55,/players/J/JohnDu00.htm,Duke Johnson,RB,2017,39,Cleveland Browns,2
+0.54,/players/C/ColeCo00.htm,Corey Coleman,WR,2017,38,Cleveland Browns,2
+0.48,/players/N/NjokDa00.htm,David Njoku,TE,2017,34,Cleveland Browns,2
+0.45,/players/L/LouiRi00.htm,Ricardo Louis,WR,2017,32,Cleveland Browns,2
+0.45,/players/C/CrowIs00.htm,Isaiah Crowell,RB,2017,32,Cleveland Browns,2
+0.44,/players/D/DevaSe00.htm,Seth Devalve,TE,2017,31,Cleveland Browns,2
+0.37,/players/C/CoatSa00.htm,Sammie Coates,WR,2017,26,Cleveland Browns,2
+0.27,/players/T/TelfRa00.htm,Randall Telfer,TE,2017,19,Cleveland Browns,2
+0.27,/players/H/HogaKe00.htm,Kevin Hogan,QB,2017,19,Cleveland Browns,2
+1.0,/players/P/PeppJa00.htm,Jabrill Peppers,DB,2017,68,Cleveland Browns,2
+1.0,/players/T/TaylJa01.htm,Jamar Taylor,DB,2017,68,Cleveland Browns,2
+1.0,/players/S/SchoJo00.htm,Joe Schobert,LB,2017,68,Cleveland Browns,2
+1.0,/players/K/KirkCh00.htm,Christian Kirksey,LB,2017,68,Cleveland Browns,2
+1.0,/players/M/McCoJa99.htm,Jason McCourty,DB,2017,68,Cleveland Browns,2
+0.99,/players/K/KindDe00.htm,Derrick Kindred,DB,2017,67,Cleveland Browns,2
+0.81,/players/C/CollJa00.htm,Jamie Collins,LB,2017,55,Cleveland Browns,2
+0.74,/players/N/NassCa00.htm,Carl Nassib,DL,2017,50,Cleveland Browns,2
+0.62,/players/C/ColeTr01.htm,Trevon Coley,DL,2017,42,Cleveland Browns,2
+0.47,/players/O/OrchNa00.htm,Nate Orchard,DL,2017,32,Cleveland Browns,2
+0.37,/players/B/BoddBr01.htm,Briean Boddy-Calhoun,DB,2017,25,Cleveland Browns,2
+0.25,/players/M/MedeJa00.htm,Jamie Meder,DL,2017,17,Cleveland Browns,2
+0.18,/players/B/BurgJa01.htm,James Burgess,LB,2017,12,Cleveland Browns,2
+0.24,/players/C/ColqBr00.htm,Britton Colquitt,P,2017,6,Cleveland Browns,2
+0.2,/players/G/GonzZa00.htm,Zane Gonzalez,K,2017,5,Cleveland Browns,2
+1.0,/players/M/MariMa01.htm,Marcus Mariota,QB,2017,68,Tennessee Titans,2
+0.82,/players/W/WalkHu00.htm,Delanie Walker,TE,2017,56,Tennessee Titans,2
+0.71,/players/M/MattRi00.htm,Rishard Matthews,WR,2017,48,Tennessee Titans,2
+0.65,/players/D/DeckEr00.htm,Eric Decker,WR,2017,44,Tennessee Titans,2
+0.54,/players/S/SmitJo01.htm,Jonnu Smith,TE,2017,37,Tennessee Titans,2
+0.54,/players/M/MurrDe00.htm,DeMarco Murray,RB,2017,37,Tennessee Titans,2
+0.44,/players/H/HenrDe00.htm,Derrick Henry,RB,2017,30,Tennessee Titans,2
+0.34,/players/D/DaviCo03.htm,Corey Davis,WR,2017,23,Tennessee Titans,2
+0.18,/players/T/TaylTa00.htm,Taywan Taylor,WR,2017,12,Tennessee Titans,2
+0.16,/players/F/FowlJa00.htm,Jalston Fowler,RB,2017,11,Tennessee Titans,2
+1.0,/players/B/ByarKe01.htm,Kevin Byard,DB,2017,67,Tennessee Titans,2
+0.99,/players/R/RyanLo00.htm,Logan Ryan,DB,2017,66,Tennessee Titans,2
+0.9,/players/W/WillAv00.htm,Avery Williamson,LB,2017,60,Tennessee Titans,2
+0.85,/players/J/JackAd00.htm,Adoree' Jackson,DB,2017,57,Tennessee Titans,2
+0.69,/players/M/MorgDe99.htm,Derrick Morgan,LB,2017,46,Tennessee Titans,2
+0.66,/players/W/WoodWe20.htm,Wesley Woodyard,LB,2017,44,Tennessee Titans,2
+0.66,/players/O/OrakBr99.htm,Brian Orakpo,LB,2017,44,Tennessee Titans,2
+0.64,/players/S/SearDa00.htm,Da'Norris Searcy,DB,2017,43,Tennessee Titans,2
+0.58,/players/C/CaseJu00.htm,Jurrell Casey,DL,2017,39,Tennessee Titans,2
+0.54,/players/W/WaldEr99.htm,Erik Walden,LB,2017,36,Tennessee Titans,2
+0.48,/players/J/JoneDa04.htm,DaQuan Jones,DL,2017,32,Tennessee Titans,2
+0.45,/players/S/SimsLe00.htm,LeShaun Sims,DB,2017,30,Tennessee Titans,2
+0.45,/players/B/BrowJa06.htm,Jayon Brown,LB,2017,30,Tennessee Titans,2
+0.39,/players/R/RileCu00.htm,Curtis Riley,DB,2017,26,Tennessee Titans,2
+0.3,/players/M/McCaBr99.htm,Brice McCain,DB,2017,20,Tennessee Titans,2
+0.3,/players/K/KlugKa00.htm,Karl Klug,DL,2017,20,Tennessee Titans,2
+0.5,/players/S/SuccRy44.htm,Ryan Succop,K,2017,14,Tennessee Titans,2
+0.36,/players/K/KernBr20.htm,Brett Kern,P,2017,10,Tennessee Titans,2
+1.0,/players/B/BortBl00.htm,Blake Bortles,QB,2017,67,Jacksonville Jaguars,2
+0.88,/players/H/HurnAl01.htm,Allen Hurns,WR,2017,59,Jacksonville Jaguars,2
+0.87,/players/L/LeexMa00.htm,Marqise Lee,WR,2017,58,Jacksonville Jaguars,2
+0.81,/players/L/LewiMa00.htm,Marcedes Lewis,TE,2017,54,Jacksonville Jaguars,2
+0.66,/players/C/ColeKe00.htm,Keelan Cole,WR,2017,44,Jacksonville Jaguars,2
+0.6,/players/F/FourLe00.htm,Leonard Fournette,RB,2017,40,Jacksonville Jaguars,2
+0.4,/players/I/IvorCh00.htm,Chris Ivory,RB,2017,27,Jacksonville Jaguars,2
+0.28,/players/K/KoyaBe00.htm,Ben Koyack,TE,2017,19,Jacksonville Jaguars,2
+1.0,/players/J/JackMy00.htm,Myles Jack,LB,2017,68,Jacksonville Jaguars,2
+1.0,/players/R/RamsJa00.htm,Jalen Ramsey,DB,2017,68,Jacksonville Jaguars,2
+1.0,/players/G/GipsTa00.htm,Tashaun Gipson,DB,2017,68,Jacksonville Jaguars,2
+1.0,/players/S/SmitTe01.htm,Telvin Smith,LB,2017,68,Jacksonville Jaguars,2
+1.0,/players/C/ChurBa99.htm,Barry Church,DB,2017,68,Jacksonville Jaguars,2
+0.97,/players/B/BouyA.00.htm,A.J. Bouye,DB,2017,66,Jacksonville Jaguars,2
+0.94,/players/C/CampCa99.htm,Calais Campbell,DL,2017,64,Jacksonville Jaguars,2
+0.66,/players/J/JackMa02.htm,Malik Jackson,DL,2017,45,Jacksonville Jaguars,2
+0.65,/players/P/PoluPa99.htm,Paul Posluszny,LB,2017,44,Jacksonville Jaguars,2
+0.62,/players/N/NgakYa00.htm,Yannick Ngakoue,DL,2017,42,Jacksonville Jaguars,2
+0.35,/players/C/ColvAa00.htm,Aaron Colvin,DB,2017,24,Jacksonville Jaguars,2
+0.32,/players/A/AnkoEl00.htm,Eli Ankou,DL,2017,22,Jacksonville Jaguars,2
+0.26,/players/B/BennMi01.htm,Michael Bennett,DL,2017,18,Jacksonville Jaguars,2
+0.25,/players/N/NortBr00.htm,Brad Nortman,P,2017,7,Jacksonville Jaguars,2
+0.21,/players/M/MyerJa00.htm,Jason Myers,K,2017,6,Jacksonville Jaguars,2
+1.0,/players/S/SmitAl03.htm,Alex Smith,QB,2017,53,Kansas City Chiefs,2
+0.96,/players/K/KelcTr00.htm,Travis Kelce,TE,2017,51,Kansas City Chiefs,2
+0.89,/players/H/HillTy00.htm,Tyreek Hill,WR,2017,47,Kansas City Chiefs,2
+0.87,/players/C/ConlCh00.htm,Chris Conley,WR,2017,46,Kansas City Chiefs,2
+0.74,/players/H/HuntKa00.htm,Kareem Hunt,RB,2017,39,Kansas City Chiefs,2
+0.64,/players/W/WilsAl02.htm,Albert Wilson,WR,2017,34,Kansas City Chiefs,2
+0.11,/players/T/TravRo00.htm,Ross Travis,TE,2017,6,Kansas City Chiefs,2
+1.0,/players/S/SoreDa01.htm,Daniel Sorensen,DB,2017,72,Kansas City Chiefs,2
+1.0,/players/P/ParkRo01.htm,Ron Parker,DB,2017,72,Kansas City Chiefs,2
+1.0,/players/J/JohnDe25.htm,Derrick Johnson,LB,2017,72,Kansas City Chiefs,2
+1.0,/players/P/PeteMa00.htm,Marcus Peters,DB,2017,72,Kansas City Chiefs,2
+1.0,/players/M/MitcTe00.htm,Terrance Mitchell,DB,2017,72,Kansas City Chiefs,2
+0.97,/players/H/HousJu00.htm,Justin Houston,LB,2017,70,Kansas City Chiefs,2
+0.93,/players/F/FordDe00.htm,Dee Ford,LB,2017,67,Kansas City Chiefs,2
+0.83,/players/B/BailAl00.htm,Allen Bailey,DL,2017,60,Kansas City Chiefs,2
+0.79,/players/G/GainPh00.htm,Phillip Gaines,DB,2017,57,Kansas City Chiefs,2
+0.69,/players/M/MurrEr00.htm,Eric Murray,DB,2017,50,Kansas City Chiefs,2
+0.51,/players/L/LogaBe00.htm,Bennie Logan,DL,2017,37,Kansas City Chiefs,2
+0.44,/players/J/JoneCh09.htm,Chris Jones,DL,2017,32,Kansas City Chiefs,2
+0.36,/players/N/NuneRa00.htm,Rakeem Nunez-Roches,DL,2017,26,Kansas City Chiefs,2
+0.19,/players/W/WilsRa00.htm,Ramik Wilson,LB,2017,14,Kansas City Chiefs,2
+0.37,/players/S/SantCa01.htm,Cairo Santos,K,2017,11,Kansas City Chiefs,2
+0.33,/players/C/ColqDu20.htm,Dustin Colquitt,P,2017,10,Kansas City Chiefs,2
+1.0,/players/W/WentCa00.htm,Carson Wentz,QB,2017,72,Philadelphia Eagles,2
+0.86,/players/S/SmitTo02.htm,Torrey Smith,WR,2017,62,Philadelphia Eagles,2
+0.85,/players/J/JeffAl00.htm,Alshon Jeffery,WR,2017,61,Philadelphia Eagles,2
+0.83,/players/E/ErtzZa00.htm,Zach Ertz,TE,2017,60,Philadelphia Eagles,2
+0.76,/players/A/AghoNe00.htm,Nelson Agholor,WR,2017,55,Philadelphia Eagles,2
+0.69,/players/S/SproDa00.htm,Darren Sproles,RB,2017,50,Philadelphia Eagles,2
+0.24,/players/H/HollMa00.htm,Mack Hollins,WR,2017,17,Philadelphia Eagles,2
+0.19,/players/B/BurtTr01.htm,Trey Burton,TE,2017,14,Philadelphia Eagles,2
+0.19,/players/S/SmalWe00.htm,Wendell Smallwood,RB,2017,14,Philadelphia Eagles,2
+1.0,/players/J/JenkMa99.htm,Malcolm Jenkins,DB,2017,53,Philadelphia Eagles,2
+1.0,/players/H/HickJo00.htm,Jordan Hicks,LB,2017,53,Philadelphia Eagles,2
+1.0,/players/M/MillJa02.htm,Jalen Mills,DB,2017,53,Philadelphia Eagles,2
+1.0,/players/B/BradNi00.htm,Nigel Bradham,LB,2017,53,Philadelphia Eagles,2
+0.83,/players/C/CoxxFl00.htm,Fletcher Cox,DL,2017,44,Philadelphia Eagles,2
+0.77,/players/G/GrahCo99.htm,Corey Graham,DB,2017,41,Philadelphia Eagles,2
+0.74,/players/D/DougRa00.htm,Rasul Douglas,DB,2017,39,Philadelphia Eagles,2
+0.72,/players/G/GrahBr99.htm,Brandon Graham,DL,2017,38,Philadelphia Eagles,2
+0.62,/players/C/CurrVi00.htm,Vinny Curry,DL,2017,33,Philadelphia Eagles,2
+0.62,/players/J/JernTi00.htm,Timmy Jernigan,DL,2017,33,Philadelphia Eagles,2
+0.6,/players/R/RobiPa99.htm,Patrick Robinson,DB,2017,32,Philadelphia Eagles,2
+0.38,/players/K/KendMy00.htm,Mychal Kendricks,LB,2017,20,Philadelphia Eagles,2
+0.38,/players/B/BarnDe01.htm,Derek Barnett,DL,2017,20,Philadelphia Eagles,2
+0.38,/players/L/LongCh99.htm,Chris Long,DL,2017,20,Philadelphia Eagles,2
+0.28,/players/A/AlleBe00.htm,Beau Allen,DL,2017,15,Philadelphia Eagles,2
+0.26,/players/W/WatkJa01.htm,Jaylen Watkins,DB,2017,14,Philadelphia Eagles,2
+0.23,/players/M/McLeRo00.htm,Rodney McLeod,DB,2017,12,Philadelphia Eagles,2
+0.33,/players/E/ElliJa03.htm,Jake Elliott,K,2017,10,Philadelphia Eagles,2
+0.3,/players/J/JoneDo21.htm,Donnie Jones,P,2017,9,Philadelphia Eagles,2
+1.0,/players/P/PalmCa00.htm,Carson Palmer,QB,2017,66,Arizona Cardinals,2
+0.94,/players/F/FitzLa00.htm,Larry Fitzgerald,WR,2017,62,Arizona Cardinals,2
+0.76,/players/B/BrowJa03.htm,Jaron Brown,WR,2017,50,Arizona Cardinals,2
+0.76,/players/N/NelsJJ00.htm,JJ Nelson,WR,2017,50,Arizona Cardinals,2
+0.45,/players/N/NiklTr00.htm,Troy Niklas,TE,2017,30,Arizona Cardinals,2
+0.45,/players/E/ElliAn00.htm,Andre Ellington,RB,2017,30,Arizona Cardinals,2
+0.32,/players/M/MomaIf00.htm,Ifeanyi Momah,TE,2017,21,Arizona Cardinals,2
+0.3,/players/G/GoldBr00.htm,Brittan Golden,WR,2017,20,Arizona Cardinals,2
+0.27,/players/W/WillKe05.htm,Kerwynn Williams,RB,2017,18,Arizona Cardinals,2
+0.26,/players/J/JohnCh04.htm,Chris Johnson,RB,2017,17,Arizona Cardinals,2
+0.15,/players/W/WillCh05.htm,Chad Williams,WR,2017,10,Arizona Cardinals,2
+1.0,/players/M/MathTy00.htm,Tyrann Mathieu,DB,2017,71,Arizona Cardinals,2
+1.0,/players/B/BranTy99.htm,Tyvon Branch,DB,2017,71,Arizona Cardinals,2
+1.0,/players/P/PetePa00.htm,Patrick Peterson,DB,2017,71,Arizona Cardinals,2
+0.97,/players/D/DansKa20.htm,Karlos Dansby,LB,2017,69,Arizona Cardinals,2
+0.94,/players/J/JoneCh03.htm,Chandler Jones,LB,2017,67,Arizona Cardinals,2
+0.93,/players/B/BethJu00.htm,Justin Bethel,DB,2017,66,Arizona Cardinals,2
+0.9,/players/G/GoldMa00.htm,Markus Golden,LB,2017,64,Arizona Cardinals,2
+0.79,/players/R/ReddHa00.htm,Haason Reddick,LB,2017,56,Arizona Cardinals,2
+0.73,/players/B/BethAn20.htm,Antoine Bethea,DB,2017,52,Arizona Cardinals,2
+0.59,/players/R/RuckFr99.htm,Frostee Rucker,DL,2017,42,Arizona Cardinals,2
+0.37,/players/M/MaurJo00.htm,Josh Mauro,DL,2017,26,Arizona Cardinals,2
+0.25,/players/W/WillXa00.htm,Xavier Williams,DL,2017,18,Arizona Cardinals,2
+0.21,/players/B/ByneJo00.htm,Josh Bynes,LB,2017,15,Arizona Cardinals,2
+0.21,/players/P/PierOl00.htm,Olsen Pierre,DL,2017,15,Arizona Cardinals,2
+0.32,/players/D/dawsophi01.htm,Phil Dawson,K,2017,10,Arizona Cardinals,2
+0.32,/players/L/LeexAn20.htm,Andy Lee,P,2017,10,Arizona Cardinals,2
+1.0,/players/B/BrisJa00.htm,Jacoby Brissett,QB,2017,71,Indianapolis Colts,2
+0.99,/players/D/DoylJa00.htm,Jack Doyle,TE,2017,70,Indianapolis Colts,2
+0.9,/players/H/HiltT.00.htm,T.Y. Hilton,WR,2017,64,Indianapolis Colts,2
+0.89,/players/A/AikeKa00.htm,Kamar Aiken,WR,2017,63,Indianapolis Colts,2
+0.75,/players/M/MoncDo00.htm,Donte Moncrief,WR,2017,53,Indianapolis Colts,2
+0.45,/players/G/GoreFr00.htm,Frank Gore,RB,2017,32,Indianapolis Colts,2
+0.39,/players/T/TurbRo00.htm,Robert Turbin,RB,2017,28,Indianapolis Colts,2
+0.18,/players/W/WillBr04.htm,Brandon Williams,TE,2017,13,Indianapolis Colts,2
+0.15,/players/M/MackMa00.htm,Marlon Mack,RB,2017,11,Indianapolis Colts,2
+1.0,/players/F/FarlMa00.htm,Matthias Farley,DB,2017,66,Indianapolis Colts,2
+1.0,/players/H/HookMa00.htm,Malik Hooker,DB,2017,66,Indianapolis Colts,2
+1.0,/players/B/BostJo00.htm,Jonathan Bostic,LB,2017,66,Indianapolis Colts,2
+1.0,/players/M/MelvRa00.htm,Rashaan Melvin,DB,2017,66,Indianapolis Colts,2
+0.98,/players/W/WilsQu01.htm,Quincy Wilson,DB,2017,65,Indianapolis Colts,2
+0.91,/players/S/SimoJo01.htm,John Simon,LB,2017,60,Indianapolis Colts,2
+0.86,/players/S/SheaJa00.htm,Jabaal Sheard,LB,2017,57,Indianapolis Colts,2
+0.79,/players/G/GeorJe01.htm,Jeremiah George,LB,2017,52,Indianapolis Colts,2
+0.67,/players/H/HairNa00.htm,Nate Hairston,DB,2017,44,Indianapolis Colts,2
+0.47,/players/H/HuntMa00.htm,Margus Hunt,DL,2017,31,Indianapolis Colts,2
+0.47,/players/A/AndeHe00.htm,Henry Anderson,DL,2017,31,Indianapolis Colts,2
+0.47,/players/W/WoodAl99.htm,Al Woods,DL,2017,31,Indianapolis Colts,2
+0.47,/players/H/HankJo00.htm,Johnathan Hankins,DL,2017,31,Indianapolis Colts,2
+0.17,/players/R/RidgHa00.htm,Hassan Ridgeway,DL,2017,11,Indianapolis Colts,2
+0.52,/players/S/SancRi00.htm,Rigoberto Sanchez,P,2017,16,Indianapolis Colts,2
+0.13,/players/V/vinatada01.htm,Adam Vinatieri,K,2017,4,Indianapolis Colts,2
+1.0,/players/N/NewtCa00.htm,Cam Newton,QB,2017,69,Carolina Panthers,2
+0.83,/players/F/FuncDe00.htm,Devin Funchess,WR,2017,57,Carolina Panthers,2
+0.81,/players/D/DickEd00.htm,Ed Dickson,TE,2017,56,Carolina Panthers,2
+0.64,/players/M/McCaCh01.htm,Christian McCaffrey,RB,2017,44,Carolina Panthers,2
+0.64,/players/B/BenjKe00.htm,Kelvin Benjamin,WR,2017,44,Carolina Panthers,2
+0.49,/players/S/ShepRu00.htm,Russell Shepard,WR,2017,34,Carolina Panthers,2
+0.38,/players/S/StewJo00.htm,Jonathan Stewart,RB,2017,26,Carolina Panthers,2
+0.36,/players/O/OlseGr00.htm,Greg Olsen,TE,2017,25,Carolina Panthers,2
+0.33,/players/B/ByrdDa00.htm,Damiere Byrd,WR,2017,23,Carolina Panthers,2
+0.19,/players/S/SamuCu00.htm,Curtis Samuel,WR,2017,13,Carolina Panthers,2
+1.0,/players/B/BradJa00.htm,James Bradberry,DB,2017,54,Carolina Panthers,2
+1.0,/players/W/WorlDa00.htm,Daryl Worley,DB,2017,54,Carolina Panthers,2
+1.0,/players/C/ColeKu99.htm,Kurt Coleman,DB,2017,54,Carolina Panthers,2
+1.0,/players/D/DaviTh20.htm,Thomas Davis,LB,2017,54,Carolina Panthers,2
+1.0,/players/A/AdamMi21.htm,Mike Adams,DB,2017,54,Carolina Panthers,2
+1.0,/players/K/KuecLu00.htm,Luke Kuechly,LB,2017,54,Carolina Panthers,2
+0.76,/players/S/ShorKa00.htm,Kawann Short,DL,2017,41,Carolina Panthers,2
+0.7,/players/A/AddiMa00.htm,Mario Addison,DL,2017,38,Carolina Panthers,2
+0.59,/players/P/PeppJu99.htm,Julius Peppers,DL,2017,32,Carolina Panthers,2
+0.56,/players/J/JohnCh98.htm,Charles Johnson,DL,2017,30,Carolina Panthers,2
+0.54,/players/M/MunnCa99.htm,Captain Munnerlyn,DB,2017,29,Carolina Panthers,2
+0.46,/players/T/ThomSh01.htm,Shaq Thompson,LB,2017,25,Carolina Panthers,2
+0.44,/players/L/LotuSt00.htm,Star Lotulelei,DL,2017,24,Carolina Panthers,2
+0.37,/players/L/LoveKy00.htm,Kyle Love,DL,2017,20,Carolina Panthers,2
+0.24,/players/B/ButlVe00.htm,Vernon Butler,DL,2017,13,Carolina Panthers,2
+0.41,/players/P/PalaMi00.htm,Michael Palardy,P,2017,9,Carolina Panthers,2
+0.32,/players/G/GanoGr44.htm,Graham Gano,K,2017,7,Carolina Panthers,2
+1.0,/players/T/TaylTy00.htm,Tyrod Taylor,QB,2017,54,Buffalo Bills,2
+0.93,/players/M/MattJo00.htm,Jordan Matthews,WR,2017,50,Buffalo Bills,2
+0.91,/players/J/JoneZa00.htm,Zay Jones,WR,2017,49,Buffalo Bills,2
+0.83,/players/C/ClayCh00.htm,Charles Clay,TE,2017,45,Buffalo Bills,2
+0.74,/players/M/McCoLe01.htm,LeSean McCoy,RB,2017,40,Buffalo Bills,2
+0.63,/players/H/HolmAn00.htm,Andre Holmes,WR,2017,34,Buffalo Bills,2
+0.24,/players/D/DiMaPa00.htm,Patrick DiMarco,RB,2017,13,Buffalo Bills,2
+0.24,/players/T/TolbMi00.htm,Mike Tolbert,RB,2017,13,Buffalo Bills,2
+1.0,/players/P/PoyeJo00.htm,Jordan Poyer,DB,2017,69,Buffalo Bills,2
+1.0,/players/B/BrowPr00.htm,Preston Brown,LB,2017,69,Buffalo Bills,2
+0.97,/players/W/WhitTr01.htm,TreDavious White,DB,2017,67,Buffalo Bills,2
+0.94,/players/G/GainE.00.htm,E.J. Gaines,DB,2017,65,Buffalo Bills,2
+0.93,/players/H/HumbRa00.htm,Ramon Humber,LB,2017,64,Buffalo Bills,2
+0.68,/players/W/WillKy20.htm,Kyle Williams,DL,2017,47,Buffalo Bills,2
+0.67,/players/J/JohnLe03.htm,Leonard Johnson,DB,2017,46,Buffalo Bills,2
+0.67,/players/H/HughJe99.htm,Jerry Hughes,DL,2017,46,Buffalo Bills,2
+0.64,/players/A/AlexLo99.htm,Lorenzo Alexander,LB,2017,44,Buffalo Bills,2
+0.62,/players/L/LawsSh00.htm,Shaq Lawson,DL,2017,43,Buffalo Bills,2
+0.45,/players/T/ThorCe00.htm,Cedric Thornton,DL,2017,31,Buffalo Bills,2
+0.38,/players/D/DaviRy00.htm,Ryan Davis,DL,2017,26,Buffalo Bills,2
+0.33,/players/Y/YarbEd01.htm,Eddie Yarbrough,DL,2017,23,Buffalo Bills,2
+0.26,/players/D/DareMa00.htm,Marcell Dareus,DL,2017,18,Buffalo Bills,2
+0.32,/players/S/SchmCo00.htm,Colton Schmidt,P,2017,7,Buffalo Bills,2
+0.14,/players/H/HausSt00.htm,Steven Hauschka,K,2017,3,Buffalo Bills,2
+1.0,/players/B/BradTo00.htm,Tom Brady,QB,2017,76,New England Patriots,2
+0.86,/players/C/CookBr00.htm,Brandin Cooks,WR,2017,65,New England Patriots,2
+0.86,/players/H/HogaCh00.htm,Chris Hogan,WR,2017,65,New England Patriots,2
+0.61,/players/A/AlleDw00.htm,Dwayne Allen,TE,2017,46,New England Patriots,2
+0.61,/players/G/GronRo00.htm,Rob Gronkowski,TE,2017,46,New England Patriots,2
+0.42,/players/D/DorsPh00.htm,Phillip Dorsett,WR,2017,32,New England Patriots,2
+0.39,/players/W/WhitJa02.htm,James White,RB,2017,30,New England Patriots,2
+0.39,/players/G/GillMi00.htm,Mike Gillislee,RB,2017,30,New England Patriots,2
+0.32,/players/D/DeveJa00.htm,James Develin,RB,2017,24,New England Patriots,2
+0.21,/players/H/HollJa03.htm,Jacob Hollister,TE,2017,16,New England Patriots,2
+0.18,/players/L/LewiDi00.htm,Dion Lewis,RB,2017,14,New England Patriots,2
+0.11,/players/B/BurkRe00.htm,Rex Burkhead,RB,2017,8,New England Patriots,2
+1.0,/players/V/VanNKy00.htm,Kyle Van Noy,LB,2017,65,New England Patriots,2
+1.0,/players/M/McCoDe99.htm,Devin McCourty,DB,2017,65,New England Patriots,2
+1.0,/players/G/GilmSt00.htm,Stephon Gilmore,DB,2017,65,New England Patriots,2
+0.97,/players/C/ChunPa99.htm,Patrick Chung,DB,2017,63,New England Patriots,2
+0.95,/players/F/FlowTr00.htm,Trey Flowers,DL,2017,62,New England Patriots,2
+0.8,/players/H/HarmDu00.htm,Duron Harmon,DB,2017,52,New England Patriots,2
+0.75,/players/B/ButlMa01.htm,Malcolm Butler,DB,2017,49,New England Patriots,2
+0.55,/players/R/RobeEl00.htm,Elandon Roberts,LB,2017,36,New England Patriots,2
+0.52,/players/B/BrowMa01.htm,Malcom Brown,DL,2017,34,New England Patriots,2
+0.52,/players/R/RoweEr00.htm,Eric Rowe,DB,2017,34,New England Patriots,2
+0.46,/players/G/GuyxLa00.htm,Lawrence Guy,DL,2017,30,New England Patriots,2
+0.43,/players/W/WiseDe00.htm,Deatrich Wise Jr.,DL,2017,28,New England Patriots,2
+0.42,/players/J/JoneJo03.htm,Jonathan Jones,DB,2017,27,New England Patriots,2
+0.25,/players/R/RichJo00.htm,Jordan Richards,DB,2017,16,New England Patriots,2
+0.45,/players/G/GostSt20.htm,Stephen Gostkowski,K,2017,14,New England Patriots,2
+0.32,/players/A/AlleRy01.htm,Ryan Allen,P,2017,10,New England Patriots,2
+1.0,/players/B/BreeDr00.htm,Drew Brees,QB,2017,65,New Orleans Saints,2
+0.89,/players/C/ColeBr00.htm,Brandon Coleman,WR,2017,58,New Orleans Saints,2
+0.89,/players/T/ThomMi05.htm,Michael Thomas,WR,2017,58,New Orleans Saints,2
+0.66,/players/G/GinnTe00.htm,Ted Ginn,WR,2017,43,New Orleans Saints,2
+0.55,/players/I/IngrMa01.htm,Mark Ingram,RB,2017,36,New Orleans Saints,2
+0.49,/players/F/FleeCo00.htm,Coby Fleener,TE,2017,32,New Orleans Saints,2
+0.4,/players/H/HillJo02.htm,Josh Hill,TE,2017,26,New Orleans Saints,2
+0.34,/players/H/HoomMi00.htm,Michael Hoomanawanui,TE,2017,22,New Orleans Saints,2
+0.26,/players/K/KamaAl00.htm,Alvin Kamara,RB,2017,17,New Orleans Saints,2
+0.23,/players/P/PeteAd01.htm,Adrian Peterson,RB,2017,15,New Orleans Saints,2
+0.22,/players/L/LewiTo00.htm,Tommylee Lewis,WR,2017,14,New Orleans Saints,2
+1.0,/players/J/JordCa00.htm,Cameron Jordan,DL,2017,76,New Orleans Saints,2
+1.0,/players/K/KleiAJ00.htm,A.J. Klein,LB,2017,76,New Orleans Saints,2
+0.99,/players/W/WillP.00.htm,P.J. Williams,DB,2017,75,New Orleans Saints,2
+0.99,/players/W/WillMa06.htm,Marcus Williams,DB,2017,75,New Orleans Saints,2
+0.82,/players/L/LattMa01.htm,Marshon Lattimore,DB,2017,62,New Orleans Saints,2
+0.78,/players/A/AnzaAl00.htm,Alex Anzalone,LB,2017,59,New Orleans Saints,2
+0.78,/players/O/OkafAl00.htm,Alex Okafor,DL,2017,59,New Orleans Saints,2
+0.68,/players/D/DaviTy01.htm,Tyeler Davison,DL,2017,52,New Orleans Saints,2
+0.64,/players/V/VaccKe00.htm,Kenny Vaccaro,DB,2017,49,New Orleans Saints,2
+0.51,/players/T/TeoxMa00.htm,Manti Te'o,LB,2017,39,New Orleans Saints,2
+0.43,/players/B/BellVo00.htm,Vonn Bell,DB,2017,33,New Orleans Saints,2
+0.42,/players/M/MoorSt00.htm,Sterling Moore,DB,2017,32,New Orleans Saints,2
+0.24,/players/H/HarrDe04.htm,De'Vante Harris,DB,2017,18,New Orleans Saints,2
+0.12,/players/K/KikaHa00.htm,Hau'oli Kikaha,DL,2017,9,New Orleans Saints,2
+0.35,/players/L/LutzWi00.htm,Wil Lutz,K,2017,11,New Orleans Saints,2
+0.29,/players/M/MorsTh00.htm,Thomas Morstead,P,2017,9,New Orleans Saints,2
+1.0,/players/R/RoetBe00.htm,Ben Roethlisberger,QB,2017,74,Pittsburgh Steelers,2
+0.96,/players/J/JameJe00.htm,Jesse James,TE,2017,71,Pittsburgh Steelers,2
+0.95,/players/B/BrowAn04.htm,Antonio Brown,WR,2017,70,Pittsburgh Steelers,2
+0.92,/players/B/BellLe00.htm,Le'Veon Bell,RB,2017,68,Pittsburgh Steelers,2
+0.64,/players/B/BryaMa00.htm,Martavis Bryant,WR,2017,47,Pittsburgh Steelers,2
+0.51,/players/S/SmitJu00.htm,JuJu Smith-Schuster,WR,2017,38,Pittsburgh Steelers,2
+0.5,/players/R/RogeEl00.htm,Eli Rogers,WR,2017,37,Pittsburgh Steelers,2
+1.0,/players/D/DaviSe00.htm,Sean Davis,DB,2017,65,Pittsburgh Steelers,2
+1.0,/players/S/ShazRy00.htm,Ryan Shazier,LB,2017,65,Pittsburgh Steelers,2
+0.98,/players/B/BurnAr00.htm,Artie Burns,DB,2017,64,Pittsburgh Steelers,2
+0.98,/players/M/MitcMi99.htm,Mike Mitchell,DB,2017,64,Pittsburgh Steelers,2
+0.98,/players/H/HadeJo99.htm,Joe Haden,DB,2017,64,Pittsburgh Steelers,2
+0.97,/players/D/DuprAl00.htm,Bud Dupree,LB,2017,63,Pittsburgh Steelers,2
+0.86,/players/H/HeywCa01.htm,Cameron Heyward,DL,2017,56,Pittsburgh Steelers,2
+0.83,/players/H/HiltMi01.htm,Mike Hilton,DB,2017,54,Pittsburgh Steelers,2
+0.82,/players/A/AluaTy99.htm,Tyson Alualu,DL,2017,53,Pittsburgh Steelers,2
+0.71,/players/W/WillVi01.htm,Vince Williams,LB,2017,46,Pittsburgh Steelers,2
+0.69,/players/C/ChicAn00.htm,Anthony Chickillo,LB,2017,45,Pittsburgh Steelers,2
+0.31,/players/W/WattT.00.htm,T.J. Watt,LB,2017,20,Pittsburgh Steelers,2
+0.29,/players/G/GayxWi99.htm,William Gay,DB,2017,19,Pittsburgh Steelers,2
+0.15,/players/W/WaltLe00.htm,Leterrius Walton,DL,2017,10,Pittsburgh Steelers,2
+0.45,/players/B/BoswCh00.htm,Chris Boswell,K,2017,14,Pittsburgh Steelers,2
+0.39,/players/B/BerrJo00.htm,Jordan Berry,P,2017,12,Pittsburgh Steelers,2
+1.0,/players/K/KeenCa00.htm,Case Keenum,QB,2017,65,Minnesota Vikings,2
+0.95,/players/R/RudoKy00.htm,Kyle Rudolph,TE,2017,62,Minnesota Vikings,2
+0.95,/players/T/ThieAd00.htm,Adam Thielen,WR,2017,62,Minnesota Vikings,2
+0.92,/players/D/DiggSt00.htm,Stefon Diggs,WR,2017,60,Minnesota Vikings,2
+0.77,/players/T/TreaLa00.htm,Laquon Treadwell,WR,2017,50,Minnesota Vikings,2
+0.57,/players/C/CookDa01.htm,Dalvin Cook,RB,2017,37,Minnesota Vikings,2
+0.34,/players/M/McKiJe00.htm,Jerick McKinnon,RB,2017,22,Minnesota Vikings,2
+0.18,/players/W/WrigJa02.htm,Jarius Wright,WR,2017,12,Minnesota Vikings,2
+0.11,/players/M/MorgDa01.htm,David Morgan,TE,2017,7,Minnesota Vikings,2
+1.0,/players/S/SendAn00.htm,Andrew Sendejo,DB,2017,74,Minnesota Vikings,2
+1.0,/players/K/KendEr00.htm,Eric Kendricks,LB,2017,74,Minnesota Vikings,2
+1.0,/players/B/BarrAn00.htm,Anthony Barr,LB,2017,74,Minnesota Vikings,2
+1.0,/players/S/SmitHa00.htm,Harrison Smith,DB,2017,74,Minnesota Vikings,2
+0.82,/players/R/RhodXa00.htm,Xavier Rhodes,DB,2017,61,Minnesota Vikings,2
+0.8,/players/G/GrifEv99.htm,Everson Griffen,DL,2017,59,Minnesota Vikings,2
+0.78,/players/W/WaynTr00.htm,Trae Waynes,DB,2017,58,Minnesota Vikings,2
+0.72,/players/H/HuntDa01.htm,Danielle Hunter,DL,2017,53,Minnesota Vikings,2
+0.72,/players/J/JohnTo01.htm,Tom Johnson,DL,2017,53,Minnesota Vikings,2
+0.65,/players/J/JoseLi99.htm,Linval Joseph,DL,2017,48,Minnesota Vikings,2
+0.65,/players/R/RobiBr98.htm,Brian Robison,DL,2017,48,Minnesota Vikings,2
+0.58,/players/A/AlexMa01.htm,Mackensie Alexander,DB,2017,43,Minnesota Vikings,2
+0.57,/players/N/NewmTe20.htm,Terence Newman,DB,2017,42,Minnesota Vikings,2
+0.47,/players/S/StepSh00.htm,Shamar Stephen,DL,2017,35,Minnesota Vikings,2
+0.24,/players/G/GedeBe00.htm,Ben Gedeon,LB,2017,18,Minnesota Vikings,2
+0.29,/players/Q/QuigRy00.htm,Ryan Quigley,P,2017,9,Minnesota Vikings,2
+0.16,/players/F/ForbKa00.htm,Kai Forbath,K,2017,5,Minnesota Vikings,2
+1.0,/players/C/CutlJa00.htm,Jay Cutler,QB,2017,68,Miami Dolphins,2
+0.96,/players/T/ThomJu00.htm,Julius Thomas,TE,2017,65,Miami Dolphins,2
+0.94,/players/A/AjayJa00.htm,Jay Ajayi,RB,2017,64,Miami Dolphins,2
+0.93,/players/P/ParkDe01.htm,DeVante Parker,WR,2017,63,Miami Dolphins,2
+0.91,/players/L/LandJa00.htm,Jarvis Landry,WR,2017,62,Miami Dolphins,2
+0.88,/players/S/StilKe00.htm,Kenny Stills,WR,2017,60,Miami Dolphins,2
+1.0,/players/H/HullMi01.htm,Mike Hull,LB,2017,58,Miami Dolphins,2
+1.0,/players/J/JoneRe99.htm,Reshad Jones,DB,2017,58,Miami Dolphins,2
+1.0,/players/A/AlleNa99.htm,Nate Allen,DB,2017,58,Miami Dolphins,2
+1.0,/players/A/AlonKi00.htm,Kiko Alonso,LB,2017,58,Miami Dolphins,2
+0.95,/players/H/HowaXa00.htm,Xavien Howard,DB,2017,55,Miami Dolphins,2
+0.95,/players/M/MaxwBy00.htm,Byron Maxwell,DB,2017,55,Miami Dolphins,2
+0.91,/players/S/SuhxNd99.htm,Ndamukong Suh,DL,2017,53,Miami Dolphins,2
+0.78,/players/M/McCaBo01.htm,Bobby McCain,DB,2017,45,Miami Dolphins,2
+0.74,/players/B/BranAn00.htm,Andre Branch,DL,2017,43,Miami Dolphins,2
+0.57,/players/W/WakeCa00.htm,Cameron Wake,DL,2017,33,Miami Dolphins,2
+0.55,/players/G/GodcDa00.htm,Davon Godchaux,DL,2017,32,Miami Dolphins,2
+0.48,/players/H/HarrCh03.htm,Charles Harris,DL,2017,28,Miami Dolphins,2
+0.43,/players/H/HayeWi99.htm,William Hayes,DL,2017,25,Miami Dolphins,2
+0.36,/players/P/PhilJo01.htm,Jordan Phillips,DL,2017,21,Miami Dolphins,2
+0.22,/players/A/AlleCh02.htm,Chase Allen,LB,2017,13,Miami Dolphins,2
+0.41,/players/P/ParkCo03.htm,Cody Parkey,K,2017,11,Miami Dolphins,2
+0.3,/players/H/HaacMa00.htm,Matt Haack,P,2017,8,Miami Dolphins,2
+1.0,/players/R/RivePh00.htm,Philip Rivers,QB,2017,58,Los Angeles Chargers,2
+0.9,/players/W/WillTy00.htm,Tyrell Williams,WR,2017,52,Los Angeles Chargers,2
+0.84,/players/A/AlleKe00.htm,Keenan Allen,WR,2017,49,Los Angeles Chargers,2
+0.83,/players/G/GordMe00.htm,Melvin Gordon,RB,2017,48,Los Angeles Chargers,2
+0.67,/players/B/BenjTr00.htm,Travis Benjamin,WR,2017,39,Los Angeles Chargers,2
+0.57,/players/H/HenrHu00.htm,Hunter Henry,TE,2017,33,Los Angeles Chargers,2
+0.55,/players/G/GateAn00.htm,Antonio Gates,TE,2017,32,Los Angeles Chargers,2
+0.22,/players/I/InmaDo00.htm,Dontrelle Inman,WR,2017,13,Los Angeles Chargers,2
+0.14,/players/W/WattDe00.htm,Derek Watt,RB,2017,8,Los Angeles Chargers,2
+0.12,/players/O/OlivBr01.htm,Branden Oliver,RB,2017,7,Los Angeles Chargers,2
+1.0,/players/W/WillTr05.htm,Trevor Williams,DB,2017,68,Los Angeles Chargers,2
+1.0,/players/B/BostTr00.htm,Tre Boston,DB,2017,68,Los Angeles Chargers,2
+1.0,/players/B/BrowJa05.htm,Jatavis Brown,LB,2017,68,Los Angeles Chargers,2
+1.0,/players/H/HaywCa00.htm,Casey Hayward,DB,2017,68,Los Angeles Chargers,2
+0.97,/players/A/AddaJa00.htm,Jahleel Addae,DB,2017,66,Los Angeles Chargers,2
+0.82,/players/K/KingDe01.htm,Desmond King,DB,2017,56,Los Angeles Chargers,2
+0.75,/players/B/BosaJo00.htm,Joey Bosa,DL,2017,51,Los Angeles Chargers,2
+0.74,/players/I/IngrMe00.htm,Melvin Ingram,DL,2017,50,Los Angeles Chargers,2
+0.62,/players/P/PullHa00.htm,Hayes Pullard,LB,2017,42,Los Angeles Chargers,2
+0.53,/players/P/PhilDa01.htm,Darius Philon,DL,2017,36,Los Angeles Chargers,2
+0.47,/players/L/LiugCo00.htm,Corey Liuget,DL,2017,32,Los Angeles Chargers,2
+0.37,/players/P/PaleTe00.htm,Tenny Palepoi,DL,2017,25,Los Angeles Chargers,2
+0.26,/players/M/McCaCh00.htm,Chris McCain,DL,2017,18,Los Angeles Chargers,2
+0.18,/players/E/EmanKy00.htm,Kyle Emanuel,LB,2017,12,Los Angeles Chargers,2
+0.18,/players/T/ToomKo00.htm,Korey Toomer,LB,2017,12,Los Angeles Chargers,2
+0.16,/players/H/HarrNi00.htm,Nigel Harris,LB,2017,11,Los Angeles Chargers,2
+0.33,/players/K/KaseDr00.htm,Drew Kaser,P,2017,9,Los Angeles Chargers,2
+0.33,/players/K/KooxYo00.htm,YoungHoe Koo,K,2017,9,Los Angeles Chargers,2
+1.0,/players/C/CarrDe02.htm,Derek Carr,QB,2017,57,Oakland Raiders,2
+0.84,/players/C/CoopAm00.htm,Amari Cooper,WR,2017,48,Oakland Raiders,2
+0.79,/players/C/CookJa02.htm,Jared Cook,TE,2017,45,Oakland Raiders,2
+0.61,/players/C/CrabMi00.htm,Michael Crabtree,WR,2017,35,Oakland Raiders,2
+0.6,/players/R/RobeSe00.htm,Seth Roberts,WR,2017,34,Oakland Raiders,2
+0.47,/players/P/PattCo00.htm,Cordarrelle Patterson,WR,2017,27,Oakland Raiders,2
+0.46,/players/S/SmitLe00.htm,Lee Smith,TE,2017,26,Oakland Raiders,2
+0.4,/players/L/LyncMa00.htm,Marshawn Lynch,RB,2017,23,Oakland Raiders,2
+0.3,/players/R/RichJa01.htm,Jalen Richard,RB,2017,17,Oakland Raiders,2
+0.23,/players/W/WashDe00.htm,DeAndre Washington,RB,2017,13,Oakland Raiders,2
+0.21,/players/W/WalfCl00.htm,Clive Walford,TE,2017,12,Oakland Raiders,2
+1.0,/players/J/JoseKa00.htm,Karl Joseph,DB,2017,56,Oakland Raiders,2
+1.0,/players/C/CarrTr00.htm,T.J. Carrie,DB,2017,56,Oakland Raiders,2
+1.0,/players/J/JameCo00.htm,Cory James,LB,2017,56,Oakland Raiders,2
+1.0,/players/N/NelsRe99.htm,Reggie Nelson,DB,2017,56,Oakland Raiders,2
+1.0,/players/A/AmerDa00.htm,David Amerson,DB,2017,56,Oakland Raiders,2
+0.82,/players/C/ConlGa00.htm,Gareon Conley,DB,2017,46,Oakland Raiders,2
+0.79,/players/M/MackKh00.htm,Khalil Mack,DL,2017,44,Oakland Raiders,2
+0.68,/players/I/IrviBr00.htm,Bruce Irvin,LB,2017,38,Oakland Raiders,2
+0.55,/players/V/VandEd00.htm,Eddie Vanderdoes,DL,2017,31,Oakland Raiders,2
+0.46,/players/A/AutrDe00.htm,Denico Autry,DL,2017,26,Oakland Raiders,2
+0.45,/players/M/MorrNi00.htm,Nicholas Morrow,LB,2017,25,Oakland Raiders,2
+0.43,/players/E/EdwaMa01.htm,Mario Edwards,DL,2017,24,Oakland Raiders,2
+0.38,/players/A/AdamTy00.htm,Tyrell Adams,LB,2017,21,Oakland Raiders,2
+0.32,/players/C/CowsJa00.htm,James Cowser,LB,2017,18,Oakland Raiders,2
+0.25,/players/H/HestTr00.htm,Treyvon Hester,DL,2017,14,Oakland Raiders,2
+0.18,/players/L/LeexMa01.htm,Marquel Lee,LB,2017,10,Oakland Raiders,2
+0.5,/players/T/TaveGi00.htm,Giorgio Tavecchio,K,2017,15,Oakland Raiders,2
+0.33,/players/K/KingMa00.htm,Marquette King,P,2017,10,Oakland Raiders,2
+1.0,/players/M/McCoJo01.htm,Josh McCown,QB,2017,56,New York Jets,2
+0.88,/players/K/KearJe01.htm,Jermaine Kearse,WR,2017,49,New York Jets,2
+0.79,/players/K/KerlJe00.htm,Jeremy Kerley,WR,2017,44,New York Jets,2
+0.77,/players/A/AndeRo04.htm,Robby Anderson,WR,2017,43,New York Jets,2
+0.75,/players/T/TyexWi00.htm,Will Tye,TE,2017,42,New York Jets,2
+0.48,/players/F/FortMa00.htm,Matt Forte,RB,2017,27,New York Jets,2
+0.32,/players/P/PoweBi00.htm,Bilal Powell,RB,2017,18,New York Jets,2
+0.2,/players/P/PeakCh00.htm,Charone Peake,WR,2017,11,New York Jets,2
+0.2,/players/M/McGuEl00.htm,Elijah McGuire,RB,2017,11,New York Jets,2
+0.12,/players/S/SterNe00.htm,Neal Sterling,TE,2017,7,New York Jets,2
+1.0,/players/D/DaviDe00.htm,Demario Davis,LB,2017,57,New York Jets,2
+1.0,/players/A/AdamJa00.htm,Jamal Adams,DB,2017,57,New York Jets,2
+1.0,/players/M/MayeMa00.htm,Marcus Maye,DB,2017,57,New York Jets,2
+1.0,/players/L/LeexDa00.htm,Darron Lee,LB,2017,57,New York Jets,2
+1.0,/players/C/ClaiMo00.htm,Morris Claiborne,DB,2017,57,New York Jets,2
+0.96,/players/S/SkriBu00.htm,Buster Skrine,DB,2017,55,New York Jets,2
+0.84,/players/W/WilkMu00.htm,Muhammad Wilkerson,DL,2017,48,New York Jets,2
+0.72,/players/W/WillLe02.htm,Leonard Williams,DL,2017,41,New York Jets,2
+0.61,/players/E/EalyKo00.htm,Kony Ealy,DL,2017,35,New York Jets,2
+0.6,/players/J/JenkJo01.htm,Jordan Jenkins,LB,2017,34,New York Jets,2
+0.54,/players/B/BurrJu00.htm,Juston Burris,DB,2017,31,New York Jets,2
+0.4,/players/M/MartJo02.htm,Josh Martin,LB,2017,23,New York Jets,2
+0.3,/players/M/McLeSt00.htm,Steve McLendon,DL,2017,17,New York Jets,2
+0.26,/players/P/PennMi00.htm,Mike Pennel,DL,2017,15,New York Jets,2
+0.18,/players/D/DonaDy00.htm,Dylan Donahue,LB,2017,10,New York Jets,2
+0.11,/players/R/RobeDa00.htm,Darryl Roberts,DB,2017,6,New York Jets,2
+0.3,/players/C/CataCh00.htm,Chandler Catanzaro,K,2017,9,New York Jets,2
+0.23,/players/E/EdwaLa01.htm,Lac Edwards,P,2017,7,New York Jets,2
+1.0,/players/W/WilsRu00.htm,Russell Wilson,QB,2017,82,Seattle Seahawks,2
+0.99,/players/B/BaldDo00.htm,Doug Baldwin,WR,2017,81,Seattle Seahawks,2
+0.74,/players/L/LockTy00.htm,Tyler Lockett,WR,2017,61,Seattle Seahawks,2
+0.66,/players/G/GrahJi00.htm,Jimmy Graham,TE,2017,54,Seattle Seahawks,2
+0.62,/players/C/CarsCh00.htm,Chris Carson,RB,2017,51,Seattle Seahawks,2
+0.48,/players/R/RichPa01.htm,Paul Richardson,WR,2017,39,Seattle Seahawks,2
+0.45,/players/W/WillLu00.htm,Luke Willson,TE,2017,37,Seattle Seahawks,2
+0.2,/players/R/RawlTh00.htm,Thomas Rawls,RB,2017,16,Seattle Seahawks,2
+0.2,/players/P/ProsC.00.htm,C.J. Prosise,RB,2017,16,Seattle Seahawks,2
+0.18,/players/M/McEvTa01.htm,Tanner McEvoy,WR,2017,15,Seattle Seahawks,2
+0.17,/players/D/DarbAm00.htm,Amara Darboh,WR,2017,14,Seattle Seahawks,2
+1.0,/players/C/ChanKa99.htm,Kam Chancellor,DB,2017,49,Seattle Seahawks,2
+1.0,/players/S/SherRi00.htm,Richard Sherman,DB,2017,49,Seattle Seahawks,2
+1.0,/players/L/LaneJe00.htm,Jeremy Lane,DB,2017,49,Seattle Seahawks,2
+1.0,/players/W/WrigK.00.htm,K.J. Wright,LB,2017,49,Seattle Seahawks,2
+1.0,/players/W/WagnBo00.htm,Bobby Wagner,LB,2017,49,Seattle Seahawks,2
+1.0,/players/T/ThomEa99.htm,Earl Thomas,DB,2017,49,Seattle Seahawks,2
+0.86,/players/B/BennMi99.htm,Michael Bennett,DL,2017,42,Seattle Seahawks,2
+0.8,/players/R/RichSh00.htm,Sheldon Richardson,DL,2017,39,Seattle Seahawks,2
+0.71,/players/C/ClarFr01.htm,Frank Clark,DL,2017,35,Seattle Seahawks,2
+0.55,/players/R/ReedJa02.htm,Jarran Reed,DL,2017,27,Seattle Seahawks,2
+0.47,/players/W/WilhMi00.htm,Michael Wilhoite,LB,2017,23,Seattle Seahawks,2
+0.36,/players/R/RyanJo21.htm,Jon Ryan,P,2017,10,Seattle Seahawks,2
+0.25,/players/W/WalsBl00.htm,Blair Walsh,K,2017,7,Seattle Seahawks,2
+1.0,/players/H/HoyeBr00.htm,Brian Hoyer,QB,2017,49,San Francisco 49ers,2
+0.88,/players/K/KittGe00.htm,George Kittle,TE,2017,43,San Francisco 49ers,2
+0.88,/players/G/GoodMa00.htm,Marquise Goodwin,WR,2017,43,San Francisco 49ers,2
+0.82,/players/H/HydeCa00.htm,Carlos Hyde,RB,2017,40,San Francisco 49ers,2
+0.8,/players/G/GarcPi00.htm,Pierre Garcon,WR,2017,39,San Francisco 49ers,2
+0.45,/players/T/TaylTr02.htm,Trent Taylor,WR,2017,22,San Francisco 49ers,2
+0.31,/players/C/CeleGa00.htm,Garrett Celek,TE,2017,15,San Francisco 49ers,2
+0.18,/players/B/BreiMa00.htm,Matt Breida,RB,2017,9,San Francisco 49ers,2
+1.0,/players/J/JohnDo02.htm,Dontae Johnson,DB,2017,82,San Francisco 49ers,2
+1.0,/players/R/RobiRa00.htm,Rashard Robinson,DB,2017,82,San Francisco 49ers,2
+1.0,/players/T/TartJa00.htm,Jaquiski Tartt,DB,2017,82,San Francisco 49ers,2
+1.0,/players/B/BowmNa99.htm,NaVorro Bowman,LB,2017,82,San Francisco 49ers,2
+0.84,/players/A/ArmsRa01.htm,Ray-Ray Armstrong,LB,2017,69,San Francisco 49ers,2
+0.82,/players/B/BuckDe00.htm,DeForest Buckner,DL,2017,67,San Francisco 49ers,2
+0.82,/players/A/ArmsAr01.htm,Arik Armstead,DL,2017,67,San Francisco 49ers,2
+0.66,/players/W/WillKW00.htm,K'Waun Williams,DB,2017,54,San Francisco 49ers,2
+0.62,/players/R/ReidEr00.htm,Eric Reid,DB,2017,51,San Francisco 49ers,2
+0.61,/players/M/MitcEa99.htm,Earl Mitchell,DL,2017,50,San Francisco 49ers,2
+0.57,/players/T/ThomSo00.htm,Solomon Thomas,DL,2017,47,San Francisco 49ers,2
+0.46,/players/W/WardJi01.htm,Jimmie Ward,DB,2017,38,San Francisco 49ers,2
+0.37,/players/L/LyncAa00.htm,Aaron Lynch,DL,2017,30,San Francisco 49ers,2
+0.34,/players/H/HaroEl00.htm,Eli Harold,LB,2017,28,San Francisco 49ers,2
+0.28,/players/J/JoneD.01.htm,D.J. Jones,DL,2017,23,San Francisco 49ers,2
+0.26,/players/C/CarrCo00.htm,Tank Carradine,DL,2017,21,San Francisco 49ers,2
+0.5,/players/P/PiniBr00.htm,Bradley Pinion,P,2017,14,San Francisco 49ers,2
+0.11,/players/G/gouldrob01.htm,Robbie Gould,K,2017,3,San Francisco 49ers,2
+1.0,/players/S/SiemTr00.htm,Trevor Siemian,QB,2017,77,Denver Broncos,2
+0.9,/players/S/SandEm00.htm,Emmanuel Sanders,WR,2017,69,Denver Broncos,2
+0.88,/players/T/ThomDe03.htm,Demaryius Thomas,WR,2017,68,Denver Broncos,2
+0.73,/players/A/AndeC.00.htm,C.J. Anderson,RB,2017,56,Denver Broncos,2
+0.6,/players/G/GreeVi00.htm,Virgil Green,TE,2017,46,Denver Broncos,2
+0.38,/players/D/DerbA.00.htm,A.J. Derby,TE,2017,29,Denver Broncos,2
+0.3,/players/F/FowlBe00.htm,Bennie Fowler,WR,2017,23,Denver Broncos,2
+0.3,/players/H/HeueJe00.htm,Jeff Heuerman,TE,2017,23,Denver Broncos,2
+0.26,/players/C/CharJa00.htm,Jamaal Charles,RB,2017,20,Denver Broncos,2
+0.18,/players/L/LatiCo00.htm,Cody Latimer,WR,2017,14,Denver Broncos,2
+0.99,/players/S/SimmJu00.htm,Justin Simmons,DB,2017,70,Denver Broncos,2
+0.97,/players/T/TaliAq99.htm,Aqib Talib,DB,2017,69,Denver Broncos,2
+0.97,/players/H/HarrCh01.htm,Chris Harris,DB,2017,69,Denver Broncos,2
+0.89,/players/S/StewDa00.htm,Darian Stewart,DB,2017,63,Denver Broncos,2
+0.87,/players/R/RobyBr00.htm,Bradley Roby,DB,2017,62,Denver Broncos,2
+0.87,/players/B/BarrSh00.htm,Shaquil Barrett,LB,2017,62,Denver Broncos,2
+0.8,/players/M/MillVo00.htm,Von Miller,LB,2017,57,Denver Broncos,2
+0.77,/players/M/MarsBr01.htm,Brandon Marshall,LB,2017,55,Denver Broncos,2
+0.75,/players/P/ParkWi01.htm,Will Parks,DB,2017,53,Denver Broncos,2
+0.73,/players/W/WolfDe00.htm,Derek Wolfe,DL,2017,52,Denver Broncos,2
+0.62,/players/G/GotsAd00.htm,Adam Gotsis,DL,2017,44,Denver Broncos,2
+0.46,/players/H/HarrSh00.htm,Shelby Harris,DL,2017,33,Denver Broncos,2
+0.27,/players/P/PekoDo20.htm,Domata Peko,DL,2017,19,Denver Broncos,2
+0.27,/players/E/EdebKa00.htm,Kasim Edebali,LB,2017,19,Denver Broncos,2
+0.23,/players/N/NelsCo00.htm,Corey Nelson,LB,2017,16,Denver Broncos,2
+0.5,/players/M/McMaBr01.htm,Brandon McManus,K,2017,15,Denver Broncos,2
+0.37,/players/D/DixoRi00.htm,Riley Dixon,P,2017,11,Denver Broncos,2
+1.0,/players/W/WittJa00.htm,Jason Witten,TE,2017,71,Dallas Cowboys,2
+1.0,/players/P/PresDa01.htm,Dak Prescott,QB,2017,71,Dallas Cowboys,2
+0.93,/players/B/BryaDe01.htm,Dez Bryant,WR,2017,66,Dallas Cowboys,2
+0.89,/players/E/ElliEz00.htm,Ezekiel Elliott,RB,2017,63,Dallas Cowboys,2
+0.8,/players/B/BeasCo00.htm,Cole Beasley,WR,2017,57,Dallas Cowboys,2
+0.69,/players/W/WillTe01.htm,Terrance Williams,WR,2017,49,Dallas Cowboys,2
+0.31,/players/B/ButlBr00.htm,Brice Butler,WR,2017,22,Dallas Cowboys,2
+1.0,/players/B/BrowAn02.htm,Anthony Brown,DB,2017,77,Dallas Cowboys,2
+1.0,/players/L/LeexSe99.htm,Sean Lee,LB,2017,77,Dallas Cowboys,2
+0.99,/players/H/HeatJe00.htm,Jeff Heath,DB,2017,76,Dallas Cowboys,2
+0.99,/players/J/JoneBy00.htm,Byron Jones,DB,2017,76,Dallas Cowboys,2
+0.88,/players/S/SmitJa05.htm,Jaylon Smith,LB,2017,68,Dallas Cowboys,2
+0.84,/players/L/LewiJo01.htm,Jourdan Lewis,DB,2017,65,Dallas Cowboys,2
+0.62,/players/C/CollMa00.htm,Maliek Collins,DL,2017,48,Dallas Cowboys,2
+0.6,/players/P/PaeaSt00.htm,Stephen Paea,DL,2017,46,Dallas Cowboys,2
+0.58,/players/L/LawrDe00.htm,Demarcus Lawrence,DL,2017,45,Dallas Cowboys,2
+0.52,/players/M/MayoBe00.htm,Benson Mayowa,DL,2017,40,Dallas Cowboys,2
+0.48,/players/C/CrawTy00.htm,Tyrone Crawford,DL,2017,37,Dallas Cowboys,2
+0.43,/players/C/CharTa00.htm,Taco Charlton,DL,2017,33,Dallas Cowboys,2
+0.43,/players/P/PricBr00.htm,Brian Price,DL,2017,33,Dallas Cowboys,2
+0.32,/players/T/TappCh00.htm,Charles Tapper,DL,2017,25,Dallas Cowboys,2
+0.32,/players/C/CarrNo00.htm,Nolan Carroll,DB,2017,25,Dallas Cowboys,2
+0.3,/players/W/WilsDa02.htm,Damien Wilson,LB,2017,23,Dallas Cowboys,2
+0.13,/players/F/FrazKa00.htm,Kavon Frazier,DB,2017,10,Dallas Cowboys,2
+0.27,/players/J/JoneCh02.htm,Chris Jones,P,2017,8,Dallas Cowboys,2
+0.23,/players/B/BailDa00.htm,Dan Bailey,K,2017,7,Dallas Cowboys,2
+1.0,/players/C/CousKi00.htm,Kirk Cousins,QB,2017,71,Washington Redskins,2
+0.77,/players/D/DaviVe00.htm,Vernon Davis,TE,2017,55,Washington Redskins,2
+0.73,/players/P/PryoTe00.htm,Terrelle Pryor,WR,2017,52,Washington Redskins,2
+0.56,/players/R/ReedJo02.htm,Jordan Reed,TE,2017,40,Washington Redskins,2
+0.54,/players/C/CrowJa00.htm,Jamison Crowder,WR,2017,38,Washington Redskins,2
+0.42,/players/G/GranRy01.htm,Ryan Grant,WR,2017,30,Washington Redskins,2
+0.41,/players/T/ThomCh03.htm,Chris Thompson,RB,2017,29,Washington Redskins,2
+0.41,/players/D/DoctJo00.htm,Josh Doctson,WR,2017,29,Washington Redskins,2
+0.37,/players/P/PeriSa00.htm,Samaje Perine,RB,2017,26,Washington Redskins,2
+0.23,/players/K/KellRo00.htm,Robert Kelley,RB,2017,16,Washington Redskins,2
+1.0,/players/B/BreeBa00.htm,Bashaud Breeland,DB,2017,50,Washington Redskins,2
+1.0,/players/S/SweaDJ00.htm,D.J. Swearinger,DB,2017,50,Washington Redskins,2
+1.0,/players/F/FostMa00.htm,Mason Foster,LB,2017,50,Washington Redskins,2
+0.98,/players/B/BrowZa00.htm,Zach Brown,LB,2017,49,Washington Redskins,2
+0.94,/players/N/NormJo01.htm,Josh Norman,DB,2017,47,Washington Redskins,2
+0.74,/players/K/KerrRy00.htm,Ryan Kerrigan,LB,2017,37,Washington Redskins,2
+0.72,/players/F/FullKe00.htm,Kendall Fuller,DB,2017,36,Washington Redskins,2
+0.66,/players/S/SmitPr00.htm,Preston Smith,LB,2017,33,Washington Redskins,2
+0.58,/players/A/AlleJo01.htm,Jonathan Allen,DL,2017,29,Washington Redskins,2
+0.56,/players/I/IoanMa01.htm,Matthew Ioannidis,DL,2017,28,Washington Redskins,2
+0.52,/players/N/NichMo00.htm,Montae Nicholson,DB,2017,26,Washington Redskins,2
+0.38,/players/G/GaleJu00.htm,Junior Galette,LB,2017,19,Washington Redskins,2
+0.36,/players/M/McClTe00.htm,Terrell McClain,DL,2017,18,Washington Redskins,2
+0.39,/players/H/HopkDu00.htm,Dustin Hopkins,K,2017,12,Washington Redskins,2
+0.35,/players/W/WayxTr00.htm,Tress Way,P,2017,11,Washington Redskins,2
+1.0,/players/G/GoffJa00.htm,Jared Goff,QB,2017,50,Los Angeles Rams,2
+0.9,/players/W/WatkSa00.htm,Sammy Watkins,WR,2017,45,Los Angeles Rams,2
+0.9,/players/W/WoodRo02.htm,Robert Woods,WR,2017,45,Los Angeles Rams,2
+0.88,/players/G/GurlTo01.htm,Todd Gurley,RB,2017,44,Los Angeles Rams,2
+0.82,/players/H/HigbTy00.htm,Tyler Higbee,TE,2017,41,Los Angeles Rams,2
+0.6,/players/K/KuppCo00.htm,Cooper Kupp,WR,2017,30,Los Angeles Rams,2
+0.32,/players/E/EverGe00.htm,Gerald Everett,TE,2017,16,Los Angeles Rams,2
+0.18,/players/C/CarrDe00.htm,Derek Carrier,TE,2017,9,Los Angeles Rams,2
+0.18,/players/A/AustTa00.htm,Tavon Austin,WR,2017,9,Los Angeles Rams,2
+0.1,/players/B/BrowMa03.htm,Malcolm Brown,RB,2017,5,Los Angeles Rams,2
+1.0,/players/O/OgleAl00.htm,Alec Ogletree,LB,2017,71,Los Angeles Rams,2
+1.0,/players/R/RobeNi00.htm,Nickell Robey-Coleman,DB,2017,71,Los Angeles Rams,2
+1.0,/players/J/JoynLa00.htm,Lamarcus Joyner,DB,2017,71,Los Angeles Rams,2
+0.99,/players/A/AlexMa00.htm,Maurice Alexander,DB,2017,70,Los Angeles Rams,2
+0.96,/players/B/BarrMa00.htm,Mark Barron,LB,2017,68,Los Angeles Rams,2
+0.85,/players/B/BarwCo99.htm,Connor Barwin,LB,2017,60,Los Angeles Rams,2
+0.72,/players/B/BrocMi00.htm,Michael Brockers,DL,2017,51,Los Angeles Rams,2
+0.68,/players/D/DonaAa00.htm,Aaron Donald,DL,2017,48,Los Angeles Rams,2
+0.63,/players/Q/QuinRo00.htm,Robert Quinn,LB,2017,45,Los Angeles Rams,2
+0.39,/players/W/WalkTy00.htm,Tyrunn Walker,DL,2017,28,Los Angeles Rams,2
+0.37,/players/L/LongMa00.htm,Matt Longacre,LB,2017,26,Los Angeles Rams,2
+0.32,/players/W/WestEt00.htm,Ethan Westbrooks,DL,2017,23,Los Angeles Rams,2
+0.28,/players/F/FoxxMo00.htm,Morgan Fox,DL,2017,20,Los Angeles Rams,2
+0.28,/players/S/SmarTa00.htm,Tanzel Smart,DL,2017,20,Los Angeles Rams,2
+0.21,/players/D/DaviCo02.htm,Cody Davis,DB,2017,15,Los Angeles Rams,2
+0.15,/players/E/EbukSa00.htm,Samson Ebukam,LB,2017,11,Los Angeles Rams,2
+0.13,/players/C/CounBl00.htm,Blake Countess,DB,2017,9,Los Angeles Rams,2
+0.29,/players/H/HekkJo00.htm,Johnny Hekker,P,2017,9,Los Angeles Rams,2
+0.29,/players/Z/ZuerGr00.htm,Greg Zuerlein,K,2017,9,Los Angeles Rams,2
+1.0,/players/R/RyanMa00.htm,Matt Ryan,QB,2017,58,Atlanta Falcons,2
+0.83,/players/S/SanuMo00.htm,Mohamed Sanu,WR,2017,48,Atlanta Falcons,2
+0.83,/players/J/JoneJu02.htm,Julio Jones,WR,2017,48,Atlanta Falcons,2
+0.71,/players/H/HoopAu00.htm,Austin Hooper,TE,2017,41,Atlanta Falcons,2
+0.67,/players/F/FreeDe00.htm,Devonta Freeman,RB,2017,39,Atlanta Falcons,2
+0.45,/players/G/GabrTa00.htm,Taylor Gabriel,WR,2017,26,Atlanta Falcons,2
+0.38,/players/C/ColeTe01.htm,Tevin Coleman,RB,2017,22,Atlanta Falcons,2
+0.33,/players/H/HardJu00.htm,Justin Hardy,WR,2017,19,Atlanta Falcons,2
+1.0,/players/N/NealKe01.htm,Keanu Neal,DB,2017,76,Atlanta Falcons,2
+0.99,/players/A/AlfoRo00.htm,Robert Alford,DB,2017,75,Atlanta Falcons,2
+0.96,/players/A/AlleRi00.htm,Ricardo Allen,DB,2017,73,Atlanta Falcons,2
+0.95,/players/T/TrufDe00.htm,Desmond Trufant,DB,2017,72,Atlanta Falcons,2
+0.95,/players/J/JoneDe01.htm,Deion Jones,LB,2017,72,Atlanta Falcons,2
+0.87,/players/P/PoolBr01.htm,Brian Poole,DB,2017,66,Atlanta Falcons,2
+0.72,/players/C/CampDe00.htm,De'Vondre Campbell,LB,2017,55,Atlanta Falcons,2
+0.57,/players/P/PoexDo00.htm,Dontari Poe,DL,2017,43,Atlanta Falcons,2
+0.51,/players/C/CrawJa00.htm,Jack Crawford,DL,2017,39,Atlanta Falcons,2
+0.51,/players/C/ClayAd00.htm,Adrian Clayborn,DL,2017,39,Atlanta Falcons,2
+0.43,/players/R/RileDu00.htm,Duke Riley,LB,2017,33,Atlanta Falcons,2
+0.39,/players/S/ShelDe00.htm,Derrick Shelby,LB,2017,30,Atlanta Falcons,2
+0.29,/players/B/BeasVi00.htm,Vic Beasley,LB,2017,22,Atlanta Falcons,2
+0.61,/players/B/BoshMa00.htm,Matthew Bosher,P,2017,17,Atlanta Falcons,2
+0.21,/players/B/bryanmat01.htm,Matt Bryant,K,2017,6,Atlanta Falcons,2
+1.0,/players/R/RodgAa00.htm,Aaron Rodgers,QB,2017,76,Green Bay Packers,2
+0.93,/players/A/AdamDa01.htm,Davante Adams,WR,2017,71,Green Bay Packers,2
+0.86,/players/M/MontTy01.htm,Ty Montgomery,RB,2017,65,Green Bay Packers,2
+0.83,/players/B/BennMa00.htm,Martellus Bennett,TE,2017,63,Green Bay Packers,2
+0.8,/players/A/AlliGe01.htm,Geronimo Allison,WR,2017,61,Green Bay Packers,2
+0.71,/players/C/CobbRa00.htm,Randall Cobb,WR,2017,54,Green Bay Packers,2
+0.22,/players/D/DaviTr03.htm,Trevor Davis,WR,2017,17,Green Bay Packers,2
+0.13,/players/R/RodgRi00.htm,Richard Rodgers,TE,2017,10,Green Bay Packers,2
+0.13,/players/W/WillJa06.htm,Jamaal Williams,RB,2017,10,Green Bay Packers,2
+0.11,/players/R/RipkAa00.htm,Aaron Ripkowski,RB,2017,8,Green Bay Packers,2
+1.0,/players/C/ClinHa00.htm,Ha Ha Clinton-Dix,DB,2017,58,Green Bay Packers,2
+1.0,/players/B/BurnMo99.htm,Morgan Burnett,DB,2017,58,Green Bay Packers,2
+0.91,/players/P/PerrNi00.htm,Nick Perry,LB,2017,53,Green Bay Packers,2
+0.9,/players/M/MattCl99.htm,Clay Matthews,LB,2017,52,Green Bay Packers,2
+0.84,/players/H/HousDa00.htm,Davon House,DB,2017,49,Green Bay Packers,2
+0.81,/players/C/ClarKe01.htm,Kenny Clark,DL,2017,47,Green Bay Packers,2
+0.79,/players/K/KingKe01.htm,Kevin King,DB,2017,46,Green Bay Packers,2
+0.66,/players/M/MartBl01.htm,Blake Martinez,LB,2017,38,Green Bay Packers,2
+0.59,/players/L/LowrDe00.htm,Dean Lowry,DL,2017,34,Green Bay Packers,2
+0.59,/players/R/RollQu00.htm,Quinten Rollins,DB,2017,34,Green Bay Packers,2
+0.57,/players/D/DialQu00.htm,Quinton Dial,DL,2017,33,Green Bay Packers,2
+0.5,/players/J/JoneJo06.htm,Josh Jones,DB,2017,29,Green Bay Packers,2
+0.48,/players/R/RandDa00.htm,Damarious Randall,DB,2017,28,Green Bay Packers,2
+0.36,/players/B/BricKe00.htm,Kentrell Brice,DB,2017,21,Green Bay Packers,2
+0.29,/players/R/RyanJa00.htm,Jake Ryan,LB,2017,17,Green Bay Packers,2
+0.24,/players/T/ThomJo04.htm,Joe Thomas,LB,2017,14,Green Bay Packers,2
+0.29,/players/C/CrosMa20.htm,Mason Crosby,K,2017,8,Green Bay Packers,2
+0.21,/players/V/VogeJu00.htm,Justin Vogel,P,2017,6,Green Bay Packers,2
+1.0,/players/S/StafMa00.htm,Matthew Stafford,QB,2017,62,Detroit Lions,2
+0.9,/players/J/JoneMa02.htm,Marvin Jones,WR,2017,56,Detroit Lions,2
+0.69,/players/T/TateGo00.htm,Golden Tate,WR,2017,43,Detroit Lions,2
+0.66,/players/F/FellDa01.htm,Darren Fells,TE,2017,41,Detroit Lions,2
+0.63,/players/E/EbroEr00.htm,Eric Ebron,TE,2017,39,Detroit Lions,2
+0.53,/players/G/GollKe00.htm,Kenny Golladay,WR,2017,33,Detroit Lions,2
+0.47,/players/A/AbduAm00.htm,Ameer Abdullah,RB,2017,29,Detroit Lions,2
+0.42,/players/R/RiddTh00.htm,Theo Riddick,RB,2017,26,Detroit Lions,2
+0.11,/players/W/WashDw00.htm,Dwayne Washington,RB,2017,7,Detroit Lions,2
+1.0,/players/Q/QuinGl99.htm,Glover Quin,DB,2017,56,Detroit Lions,2
+1.0,/players/S/SlayDa00.htm,Darius Slay,DB,2017,56,Detroit Lions,2
+0.8,/players/W/WhitTa00.htm,Tahir Whitehead,LB,2017,45,Detroit Lions,2
+0.79,/players/D/DiggQu00.htm,Quandre Diggs,DB,2017,44,Detroit Lions,2
+0.75,/players/K/KillMi00.htm,Miles Killebrew,DB,2017,42,Detroit Lions,2
+0.75,/players/D/DaviJa01.htm,Jarrad Davis,LB,2017,42,Detroit Lions,2
+0.68,/players/L/LawsNe00.htm,Nevin Lawson,DB,2017,38,Detroit Lions,2
+0.64,/players/Z/ZettAn00.htm,Anthony Zettel,DL,2017,36,Detroit Lions,2
+0.62,/players/R/RobiAS00.htm,A'Shawn Robinson,DL,2017,35,Detroit Lions,2
+0.5,/players/N/NgatHa20.htm,Haloti Ngata,DL,2017,28,Detroit Lions,2
+0.5,/players/A/AnsaEz00.htm,Ezekiel Ansah,DL,2017,28,Detroit Lions,2
+0.48,/players/S/SpenAk00.htm,Akeem Spence,DL,2017,27,Detroit Lions,2
+0.41,/players/W/WilsTa00.htm,Tavon Wilson,DB,2017,23,Detroit Lions,2
+0.32,/players/L/LedbJe00.htm,Jeremiah Ledbetter,DL,2017,18,Detroit Lions,2
+0.29,/players/R/ReevJa00.htm,Jalen Reeves-Maybin,LB,2017,16,Detroit Lions,2
+0.21,/players/W/WorrPa00.htm,Paul Worrilow,LB,2017,12,Detroit Lions,2
+0.2,/players/V/ValoJe00.htm,Jeremiah Valoaga,DL,2017,11,Detroit Lions,2
+0.6,/players/L/LockJe00.htm,Jeff Locke,P,2017,15,Detroit Lions,2
+0.2,/players/P/PratMa20.htm,Matt Prater,K,2017,5,Detroit Lions,2
+1.0,/players/S/ShepSt00.htm,Sterling Shepard,WR,2017,56,New York Giants,2
+1.0,/players/M/MannEl00.htm,Eli Manning,QB,2017,56,New York Giants,2
+0.86,/players/M/MarsBr00.htm,Brandon Marshall,WR,2017,48,New York Giants,2
+0.77,/players/E/EngrEv00.htm,Evan Engram,TE,2017,43,New York Giants,2
+0.61,/players/B/BeckOd00.htm,Odell Beckham,WR,2017,34,New York Giants,2
+0.5,/players/P/PerkPa00.htm,Paul Perkins,RB,2017,28,New York Giants,2
+0.39,/players/E/ElliRh00.htm,Rhett Ellison,TE,2017,22,New York Giants,2
+0.3,/players/V/VereSh00.htm,Shane Vereen,RB,2017,17,New York Giants,2
+0.29,/players/L/LewiRo03.htm,Roger Lewis,WR,2017,16,New York Giants,2
+0.2,/players/D/DarkOr00.htm,Orleans Darkwa,RB,2017,11,New York Giants,2
+1.0,/players/M/MunsCa00.htm,Calvin Munson,LB,2017,62,New York Giants,2
+1.0,/players/T/ThomDa05.htm,Darian Thompson,DB,2017,62,New York Giants,2
+1.0,/players/C/CollLa00.htm,Landon Collins,DB,2017,62,New York Giants,2
+1.0,/players/A/ApplEl00.htm,Eli Apple,DB,2017,62,New York Giants,2
+1.0,/players/R/RodgDo99.htm,Dominique Rodgers-Cromartie,DB,2017,62,New York Giants,2
+0.97,/players/V/VernOl00.htm,Olivier Vernon,DL,2017,60,New York Giants,2
+0.95,/players/P/PierJa99.htm,Jason Pierre-Paul,DL,2017,59,New York Giants,2
+0.85,/players/C/CasiJo99.htm,Jonathan Casillas,LB,2017,53,New York Giants,2
+0.68,/players/H/HarrDa03.htm,Damon Harrison,DL,2017,42,New York Giants,2
+0.63,/players/C/CockRo00.htm,Ross Cockrell,DB,2017,39,New York Giants,2
+0.6,/players/T/TomlDa00.htm,Dalvin Tomlinson,DL,2017,37,New York Giants,2
+0.52,/players/K/KennDe00.htm,Devon Kennard,LB,2017,32,New York Giants,2
+0.16,/players/B/BromJa00.htm,Jay Bromley,DL,2017,10,New York Giants,2
+0.28,/players/W/WingBr00.htm,Brad Wing,P,2017,7,New York Giants,2
+0.2,/players/R/RosaAl00.htm,Aldrick Rosas,K,2017,5,New York Giants,2
+1.0,/players/H/HopkDe00.htm,DeAndre Hopkins,WR,2017,66,Houston Texans,2
+1.0,/players/W/WatsDe00.htm,Deshaun Watson,QB,2017,66,Houston Texans,2
+0.95,/players/M/MillBr03.htm,Braxton Miller,WR,2017,63,Houston Texans,2
+0.74,/players/M/MillLa01.htm,Lamar Miller,RB,2017,49,Houston Texans,2
+0.41,/players/E/ErviTy00.htm,Tyler Ervin,RB,2017,27,Houston Texans,2
+0.26,/players/F/ForeDO00.htm,D'Onta Foreman,RB,2017,17,Houston Texans,2
+1.0,/players/H/HalxAn00.htm,Andre Hal,DB,2017,64,Houston Texans,2
+0.98,/players/M/McKiBe00.htm,Benardrick McKinney,LB,2017,63,Houston Texans,2
+0.92,/players/J/JackKa99.htm,Kareem Jackson,DB,2017,59,Houston Texans,2
+0.91,/players/W/WattJ.00.htm,J.J. Watt,DL,2017,58,Houston Texans,2
+0.86,/players/M/MoorCo00.htm,Corey Moore,DB,2017,55,Houston Texans,2
+0.86,/players/C/ClowJa00.htm,Jadeveon Clowney,LB,2017,55,Houston Texans,2
+0.73,/players/J/JohnKe04.htm,Kevin Johnson,DB,2017,47,Houston Texans,2
+0.67,/players/C/CunnZa00.htm,Zach Cunningham,LB,2017,43,Houston Texans,2
+0.55,/players/R/ReadD.00.htm,D.J. Reader,DL,2017,35,Houston Texans,2
+0.42,/players/P/PleaEd00.htm,Eddie Pleasant,DB,2017,27,Houston Texans,2
+0.41,/players/H/HeatJo00.htm,Joel Heath,DL,2017,26,Houston Texans,2
+0.36,/players/C/ColeDy00.htm,Dylan Cole,LB,2017,23,Houston Texans,2
+0.34,/players/J/JoseJo20.htm,Johnathan Joseph,DB,2017,22,Houston Texans,2
+0.28,/players/G/GilcMa00.htm,Marcus Gilchrist,DB,2017,18,Houston Texans,2
+0.22,/players/C/CoviCh00.htm,Christian Covington,DL,2017,14,Houston Texans,2
+0.4,/players/L/LechSh20.htm,Shane Lechler,P,2017,12,Houston Texans,2
+0.23,/players/F/FairKa01.htm,Ka'imi Fairbairn,K,2017,7,Houston Texans,2
