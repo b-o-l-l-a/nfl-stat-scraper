@@ -29,7 +29,9 @@ game_punting_stats = [
 ]
 
 class OffLineman():
+    def __init__(self, PlayerGame):
         
+        return
     def get_positional_stats(self, PlayerGame):
         
         return {}
