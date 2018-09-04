@@ -7,7 +7,7 @@ class Week():
         self.games = games
         url_week_dict = {
             "WildCard" : 18,
-            "Divisional" : 19,
+            "Division" : 19,
             "ConfChamp" : 20,
             "SuperBowl" : 21
         }
