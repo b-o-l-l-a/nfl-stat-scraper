@@ -49,8 +49,10 @@ class Team():
             "Oakland Raiders" : "OAK",
             "Philadelphia Eagles" : "PHI",
             "Pittsburgh Steelers" : "PIT",
-            "Seattle Seahawks" : "SEA",
+            "San Diego Chargers" : "SDG",
             "San Francisco 49ers" : "SFO",
+            "Seattle Seahawks" : "SEA",
+            "St. Louis Rams" : "STL",
             "Tampa Bay Buccaneers" : "TAM",
             "Tennessee Titans" : "TEN",
             "Washington Redskins" : "WAS"
@@ -75,7 +77,7 @@ class Team():
         team_game_summary_dict["home_flg"] = self.home_flg
         team_game_summary_dict["favorite_flg"] = team_favored
         team_game_summary_dict["winner_flg"] = team_win
-        team_game_summary_dict["line"] = abs(float(Game.line)) if team_favored else (-1 * abs(float(Game.line)))
+        team_game_summary_dict["line"] = (-1 * abs(float(Game.line))) if team_favored else abs(float(Game.line))
         team_game_summary_dict["over_under"] = Game.over_under
         team_game_summary_dict["off_pts"] = game_summary_dict["pts_win"] if team_win else game_summary_dict["pts_lose"]
         team_game_summary_dict["def_pts_allowed"] = game_summary_dict["pts_lose"] if team_win else game_summary_dict["pts_win"]
@@ -94,6 +96,58 @@ class Team():
             stats_table_dict = self.clean_stats_table_row(tr, stats_table_dict)
     
         return stats_table_dict
+    
+    def get_drive_summary_dict(self):
+        game_html = self.game_html_page
+        
+        team_id = "{}_drives".format(self.team_table_id)
+        opp_id = "{}_drives".format(self.opp_table_id)
+        
+        team_drive_tbl = game_html.find("table", {"id" : team_id}).tbody
+        opp_drive_tbl = game_html.find("table", {"id" : opp_id}).tbody
+        
+        drive_summary_dict = {}
+        drive_summary_dict = self.build_team_drive_summary_dict(drive_summary_dict, team_drive_tbl, team_flg = True)
+        drive_summary_dict = self.build_team_drive_summary_dict(drive_summary_dict, opp_drive_tbl, team_flg = False)
+
+        return drive_summary_dict
+
+    def build_team_drive_summary_dict(self, drive_summary_dict, drive_tbl, team_flg):
+        
+        drive_rows = drive_tbl.findAll("tr")
+        num_drives = len(drive_rows)
+        num_yds = 0
+        num_tds = 0
+        num_fgs = 0
+        num_plays = 0
+        num_punts = 0
+        for tr in drive_rows:
+            plays = int(tr.find("td", {"data-stat": "play_count_tip"}).span.string)
+            num_plays += plays
+            
+            yds = int(tr.find("td", {"data-stat": "net_yds"}).string)
+            num_yds += yds
+            
+            end_evt = tr.find("td", {"data-stat": "end_event"}).string
+            
+            if end_evt == "Punt":
+                num_punts += 1
+            elif end_evt == "Field Goal":
+                num_fgs += 1
+            elif end_evt == "Touchdown":
+                num_tds += 1
+        
+        col_prepend = "team" if team_flg == True else "opp"
+        
+        drive_summary_dict["{}_drives".format(col_prepend)] = num_drives
+        drive_summary_dict["{}_plays".format(col_prepend)] = num_plays
+        drive_summary_dict["{}_yds".format(col_prepend)] = num_yds
+        drive_summary_dict["{}_tds".format(col_prepend)] = num_tds
+        drive_summary_dict["{}_fgs".format(col_prepend)] = num_fgs
+        drive_summary_dict["{}_punts".format(col_prepend)] = num_punts
+        
+            
+        return drive_summary_dict
     
     def clean_stats_table_row(self, row, stats_table_dict):
         stat_name_dict = {
@@ -207,8 +261,12 @@ class Team():
         
         team_snaps_tbl = self.game_html_page.find("table", \
             {"id": "{}_snap_counts".format(self.team_table_id)})
-        team_snaps_tbl_body = team_snaps_tbl.tbody
-        team_snaps_rows = team_snaps_tbl_body.findAll('tr')
+        
+        if team_snaps_tbl is None:
+            team_snaps_rows = []
+        else :
+            team_snaps_tbl_body = team_snaps_tbl.tbody
+            team_snaps_rows = team_snaps_tbl_body.findAll('tr')
         
         return team_snaps_rows
     
