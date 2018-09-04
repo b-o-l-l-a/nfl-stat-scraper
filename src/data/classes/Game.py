@@ -33,10 +33,10 @@ class Game():
         self.teams_list = self.get_teams(game_summary_row)
         self.game_html_page = self.get_game_page()
               
-        self.favorite = self.get_favorite_or_underdog(favorite_flg = True)
-        self.underdog = self.get_favorite_or_underdog(favorite_flg = False)
         self.home_team = self.get_home_or_vis(home_flg = True)
         self.vis_team = self.get_home_or_vis(home_flg = False)
+        self.favorite = self.get_favorite_or_underdog(favorite_flg = True)
+        self.underdog = self.get_favorite_or_underdog(favorite_flg = False)
         self.line = self.get_vegas_stats(stat = "line")
         self.over_under = self.get_vegas_stats(stat = "over_under")
         
@@ -98,8 +98,11 @@ class Game():
             
             vegas_pattern = re.compile(r'Vegas Line')
             line_string = game_html_page.find('th', text=vegas_pattern).parent.td.string
-            line_string_split = re.split('([\+-])', line_string)        
-            return_val = float(line_string_split[-1])
+            line_string_split = re.split('([\+-])', line_string)      
+            if line_string_split[0] == "Pick":
+                return_val = float(0)
+            else:
+                return_val = float(line_string_split[-1])
             
         elif stat == "over_under":
             vegas_pattern = re.compile(r'Over/Under')
@@ -117,17 +120,20 @@ class Game():
         vegas_pattern = re.compile(r'Vegas Line')
         line_string = game_info_tbl.find('th', text=vegas_pattern).parent.td.string
         line_string_split = re.split('([\+-])', line_string)
-        sign = line_string_split[1]
-        if favorite_flg == True and sign == "-":
-            team = line_string_split[0].strip()
-        elif favorite_flg == True and sign == "+":
-            teams.remove(line_string_split[0].strip())
-            team = teams[0]
-        elif favorite_flg == False and sign == "-":
-            teams.remove(line_string_split[0].strip())
-            team = teams[0]
-        elif favorite_flg == False and sign == "+":
-            team = line_string_split[0].strip()
+        if line_string_split[0] == "Pick":
+            team = self.home_team if favorite_flg == True else self.vis_team
+        else:    
+            sign = line_string_split[1]
+            if favorite_flg == True and sign == "-":
+                team = line_string_split[0].strip()
+            elif favorite_flg == True and sign == "+":
+                teams.remove(line_string_split[0].strip())
+                team = teams[0]
+            elif favorite_flg == False and sign == "-":
+                teams.remove(line_string_split[0].strip())
+                team = teams[0]
+            elif favorite_flg == False and sign == "+":
+                team = line_string_split[0].strip()
         
         #print(game_info_tbl)
 #         if upcoming == False:
@@ -155,6 +161,6 @@ class Game():
         if data_stat == "game_location":
             game_summary_dict[self.home_winner_col_name] = False if td.string == "@" else True
         if data_stat == "pts_win":
-            game_summary_dict[data_stat] = td.strong.string
-
+            game_summary_dict[data_stat] = td.strong.string if td.strong is not None else td.string
+            
         return game_summary_dict
