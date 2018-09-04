@@ -7,7 +7,7 @@ Data collected through this script includes information about potential response
 - whether or not the favored NFL team beat the spread
 - whether the teams involved in each game scored more points than the over/under
 
-Predictor variables that may be useful were also collected. I won't mention examples here because there are numerous team- and player-level statistics available. For the full data set, go to the [corresponding page within the project](https://github.com/b-o-l-l-a/nfl-stat-scraper/tree/obj-oriented-classes/data/external)
+Predictor variables that may be useful were also collected. I won't mention examples here because there are numerous team- and player-level statistics available. For the full data sets, check out the [corresponding page within the project](https://github.com/b-o-l-l-a/nfl-stat-scraper/tree/obj-oriented-classes/data/external)
 
 ### obj-oriented-classes branch
 This particular project was conducive to using python classes because of how hierarchical the relevant concepts are. `Season`s have  `Week`s, `Week`s have `Game`s, `Game`s have `Team`s, `Team`s have `Player`s, and `Player`s have `Position`s. 
