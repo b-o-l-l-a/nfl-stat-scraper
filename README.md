@@ -7,7 +7,10 @@ Data collected through this script includes information about potential response
 - whether or not the favored NFL team beat the spread
 - whether the teams involved in each game scored more points than the over/under
 
-Predictor variables that may be useful were also collected. I won't mention examples here because there are numerous team- and player-level statistics available. For the full data sets, check out the [corresponding page within the project](https://github.com/b-o-l-l-a/nfl-stat-scraper/tree/obj-oriented-classes/data/external)
+Predictor variables that may be useful were also collected. I won't mention examples here because there are numerous team- and player-level statistics available. For the full data sets, check out the [corresponding page within the project](https://github.com/b-o-l-l-a/nfl-stat-scraper/tree/obj-oriented-classes/data/external). Below are summaries of each file in this folder:
+- `game_summary_by_team`: One row per team, per game played; each game has two rows (one for each team involved in the game). Columns with `team_` prepended are statistics regarding the particular team, while columns with `opp_` prepended are in regards to the opponent
+- `game_summary_by_player`: One row per game, per player that participated in the game. This captures individual game statistics for every player. If a player has played 16 games in his career, he would have 16 rows in this CSV
+- `player_metadata`: For every player included in the `game_summary_by_player` CSV, "metadata" about that player - Height, weight, position, and metrics from their rookie combine. One row per player.
 
 ### obj-oriented-classes branch
 This particular project was conducive to using python classes because of how hierarchical the relevant concepts are. `Season`s have  `Week`s, `Week`s have `Game`s, `Game`s have `Team`s, `Team`s have `Player`s, and `Player`s have `Position`s. 
