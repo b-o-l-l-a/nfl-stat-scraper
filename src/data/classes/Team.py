@@ -250,17 +250,23 @@ class Team():
         for key, val in team_row_dict.items():
             team_row_dict[key] = [val]
         new_row_df =  pd.DataFrame(data=team_row_dict)
+        new_row_df_first_cols = ['url', 'team', 'season', 'week', 'opponent', 'line', 'over_under', 'off_pts', 'def_pts_allowed', 'home_flg', 'winner_flg']
+        new_row_df_other_cols = [x for x in list(new_row_df.columns) if x not in new_row_df_first_cols]
+        new_row_df_cols = new_row_df_first_cols + new_row_df_other_cols
+        new_row_df = new_row_df[new_row_df_cols]
         
         team_df = team_df.append(new_row_df, ignore_index = True)
         team_df = team_df.drop_duplicates()
+        team_df = team_df[new_row_df_cols]
         team_df.to_csv(full_path, index = False)
 
         return
     
-    def get_game_snap_rows(self):
+    def get_game_snap_rows(self, opp_flg):
         
+        tbl_id = "{}_snap_counts".format(self.team_table_id) if opp_flg == False else "{}_snap_counts".format(self.opp_table_id)
         team_snaps_tbl = self.game_html_page.find("table", \
-            {"id": "{}_snap_counts".format(self.team_table_id)})
+            {"id": tbl_id})
         
         if team_snaps_tbl is None:
             team_snaps_rows = []
@@ -270,6 +276,90 @@ class Team():
         
         return team_snaps_rows
     
+    def aggregate_game_stats_by_pos(self, team_players_df, opp_flg, off_snaps, def_snaps):
+        col_prepend = "opp" if opp_flg == True else "team"
+        pos_stats_dict = {
+            "QB" : ["fumbles", "pass_att", "pass_cmp", "pass_int", "pass_sacked", "pass_yds", 
+                    "rush_att", "rush_long", "rush_td", "rush_yds", "snaps"],
+            "RB" : ["fumbles", "rush_att", "rush_long", "rush_td", "rush_yds",
+                    "rec", "rec_long", "rec_td", "rec_yds", "targets", "snaps"],
+            "WR" : ["fumbles", "rec", "rec_long", "rec_td", "rec_yds", "targets", "snaps"],
+            "TE" : ["fumbles", "rec", "rec_long", "rec_td", "rec_yds", "targets", "snaps"],
+            "OL" : [],
+            "DL" : ["fumbles_forced", "sacks", "tackles_assists", "tackles_solo", "snaps"],
+            "LB" : ["fumbles_forced", "sacks", "tackles_assists", "tackles_solo", "snaps"],
+            "DB" : ["def_int", "fumbles_forced", "sacks", "tackles_assists", "tackles_solo", "snaps"],
+            "K" : ["fga", "fgm", "xpa", "xpm"],
+            "P" : ["punt", "punt_yds_per_punt"]
+        }    
+        
+        pos_player_dict = {}
+        for pos in team_players_df["position"].unique():
+            pos_colname = pos.lower()
+            pos_players_df = team_players_df[team_players_df["position"] == pos].fillna(0)
+            pos_stats = pos_stats_dict[pos]
+
+            for stat in pos_stats:
+                pos_aggregated_stat = pos_players_df[stat].astype(float).sum()
+                pos_player_dict["{}_{}_{}_sum".format(col_prepend, pos_colname, stat)] = pos_aggregated_stat
+
+            pos_player_avg_dict = self.get_pos_player_avg_stats(pos_players_df, pos, col_prepend, off_snaps, def_snaps)
+            pos_player_dict.update(pos_player_avg_dict)
+        
+        return pos_player_dict
+    
+    def get_pos_player_avg_stats(self, pos_players_df, pos, col_prepend, off_snaps, def_snaps):
+        
+        numerator_key = "numerator"
+        denominator_key = "denominator"
+        pos_colname = pos.lower()
+
+        avg_stats_def = {
+            "yds_per_rec" : {numerator_key : "rec_yds", denominator_key : "rec"},
+            "yds_per_rush" : {numerator_key : "rush_yds", denominator_key : "rush_att"},
+            "yds_per_target" : {numerator_key: "rec_yds", denominator_key : "targets"},
+            "yds_per_snap" : {numerator_key : ["rush_yds", "rec_yds"], denominator_key : None, "denominator_val": off_snaps },
+            "yds_per_pass_att" : {numerator_key : "pass_yds", denominator_key : "pass_att"},
+            "yds_per_pass_comp" : {numerator_key : "pass_yds", denominator_key : "pass_cmp"},
+            "tackles_per_snap" : {numerator_key : ["tackles_assists", "tackles_solo"], denominator_key :  None, "denominator_val": def_snaps},
+            "fg_pct" : {numerator_key : "fgm", denominator_key : "fga"}
+        }
+        pos_stats_dict = {
+            "QB" : ["yds_per_pass_att", "yds_per_pass_comp"],
+            "RB" : ["yds_per_rush", "yds_per_rec", "yds_per_target", "yds_per_snap"],
+            "WR" : ["yds_per_rec", "yds_per_target", "yds_per_snap"],
+            "TE" : ["yds_per_rec", "yds_per_target", "yds_per_snap"],
+            "OL" : [],
+            "DL" : ["tackles_per_snap"],
+            "LB" : ["tackles_per_snap"],
+            "DB" : ["tackles_per_snap"],
+            "P" : [],
+            "K" : ["fg_pct"]
+        }
+        pos_stat_list = pos_stats_dict[pos]
+
+        pos_player_avg_dict = {}
+        for stat in pos_stat_list:
+            stat_config = avg_stats_def[stat]
+            numerator = stat_config[numerator_key]
+            denominator = stat_config[denominator_key]
+
+            denominator_val = pos_players_df[denominator].astype(float).sum() if denominator is not None else float(stat_config["denominator_val"])
+            if isinstance(numerator, list):
+                numerator_val = pos_players_df[numerator].astype(float).sum().sum()
+            else:
+                numerator_val = pos_players_df[numerator].astype(float).sum()
+
+            #denominator_val = pos_players_df[denominator].sum() if denominator is not None else stat_config[]
+            if denominator_val == 0:
+                avg_stat_val = None
+            else:
+                avg_stat_val = float(numerator_val) / float(denominator_val)
+
+            pos_player_avg_dict["{}_{}_{}".format(col_prepend, pos_colname, stat)] = avg_stat_val
+
+        return pos_player_avg_dict
+
     def drop_to_csv(self, df, file_name):
         
         data_dir = self.data_dir

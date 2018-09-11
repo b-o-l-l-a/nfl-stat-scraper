@@ -135,7 +135,7 @@ class Player():
         player_stats = list(filter(lambda x: x["data-stat"] in positional_stats_list, player_stats))
 
         for td in player_stats:
-            indiv_player_stats_dict[td["data-stat"]] = td.string 
+            indiv_player_stats_dict[td["data-stat"]] = td.string
         #else:
         #    for stat in game_stats_list:
         #        indiv_player_stats_dict[stat] = 0

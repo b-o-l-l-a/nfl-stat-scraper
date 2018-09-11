@@ -24,8 +24,7 @@ def get_player_data():
     
     if addtl_rows_flg == True:
         existing_players = list(player_metadata_df["player_link"].unique())
-        print(player_metadata_df.tail())
-        print(players_df.head())
+
         players_df = players_df[~players_df["player_link"].isin(existing_players)]
         print("number of players already scraped: {} / length of remaining df: {}".format(len(existing_players), len(players_df)))
     output_rows = []

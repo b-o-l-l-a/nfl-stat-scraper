@@ -34,6 +34,7 @@ def get_games_stats(config, upcoming_flg, debug_yr = None, debug_wk = None):
                     opp_info = game.teams_list[abs(team_idx - 1)]
                     home_flg = team_info["home_flg"]
                     team = Team(game, team_info["team"], opp_info["team"], home_flg)
+                    opponent = Team(game, opp_info["team"], team_info["team"], opp_info["home_flg"])
                     team_row_dict = team.get_team_game_summary(game)
                     team_game_stats_dict = team.get_indiv_game_stats()
                     rush_dir_dict = team.get_rush_dir_stats()
@@ -42,41 +43,53 @@ def get_games_stats(config, upcoming_flg, debug_yr = None, debug_wk = None):
                     team_row_dict.update(team_game_stats_dict)
                     team_row_dict.update(rush_dir_dict)
                     team_row_dict.update(drive_summary_dict)
-                    team.add_row_to_csv(team_row_dict)
 
-                    team_snap_rows = team.get_game_snap_rows()            
-                    team_game_player_stats = []
-
-                    for tr in team_snap_rows:
-                        player_name = tr.th.a.string if tr.th.a is not None else None
-                        if player_name is None:
-                            continue
-                            
-                        player_link = tr.th.a['href']
-                        position = tr.find("td", {"data-stat" : "pos"}).string
-                        player_game = Player(player_name, player_link, team, position)
+                    team_snap_rows = team.get_game_snap_rows(opp_flg = False)            
+                    team_game_player_stats = get_player_stats_rows(team_snap_rows, team)
+                                                
+                    opp_snap_rows = team.get_game_snap_rows(opp_flg = True)            
+                    opp_game_player_stats = get_player_stats_rows(opp_snap_rows, opponent)
                         
-                        player_stats_dict = player_game.get_player_summary()
-                        num_snaps, perc_snaps = player_game.get_snaps(tr)
-                        player_stats_dict["perc_snaps"] = perc_snaps
-                        player_stats_dict["snaps"] = num_snaps
-                        
-                        pos_stats_flg = player_game.get_pos_stats_flg(tr)
-                        if pos_stats_flg == True:
-
-                            positional_player = player_game.player_class(player_game)
-                            pos_player_stats = positional_player.get_positional_stats(player_game)
-                            player_stats_dict.update(pos_player_stats)
-                        
-                        team_game_player_stats.append(player_stats_dict)
-
                     team_game_player_df = pd.DataFrame(team_game_player_stats)
                     team.drop_to_csv(team_game_player_df, "game_summary_by_player")
-            #team_positional_stats= list(map(lambda x: team.get_positi, team_snap_rows))
+                    
+                    opp_game_player_df = pd.DataFrame(opp_game_player_stats)
+                    team_pos_dict = team.aggregate_game_stats_by_pos(\
+                         team_game_player_df, opp_flg = False, \
+                         off_snaps = team_row_dict["team_plays"], def_snaps = team_row_dict["opp_plays"])
+                    opp_pos_dict = team.aggregate_game_stats_by_pos(\
+                         opp_game_player_df, opp_flg = True, \
+                         off_snaps = team_row_dict["opp_plays"], def_snaps = team_row_dict["team_plays"])
+                    
+                    team_row_dict.update(team_pos_dict)
+                    team_row_dict.update(opp_pos_dict)
+                    team.add_row_to_csv(team_row_dict)
+
+def get_player_stats_rows(snap_rows, team):
+    game_player_stats = []
+    for tr in snap_rows:
+        player_name = tr.th.a.string if tr.th.a is not None else None
+        if player_name is None:
+            continue
+
+        player_link = tr.th.a['href']
+        position = tr.find("td", {"data-stat" : "pos"}).string
+        player_game = Player(player_name, player_link, team, position)
+
+        player_stats_dict = player_game.get_player_summary()
+        num_snaps, perc_snaps = player_game.get_snaps(tr)
+        player_stats_dict["perc_snaps"] = float(perc_snaps)
+        player_stats_dict["snaps"] = float(num_snaps)
+
+        pos_stats_flg = player_game.get_pos_stats_flg(tr)
+        if pos_stats_flg == True:
+
+            positional_player = player_game.player_class(player_game)
+            pos_player_stats = positional_player.get_positional_stats(player_game)
+            player_stats_dict.update(pos_player_stats)
+        game_player_stats.append(player_stats_dict)
     
-#     for week, games in weekly_dict[0:1].items():
-#         print(week)
-    
+    return game_player_stats
 if __name__ == "__main__":
 
     config_dir = os.getcwd()
