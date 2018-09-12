@@ -294,12 +294,15 @@ class Team():
         }    
         
         pos_player_dict = {}
+
         for pos in team_players_df["position"].unique():
             pos_colname = pos.lower()
             pos_players_df = team_players_df[team_players_df["position"] == pos].fillna(0)
             pos_stats = pos_stats_dict[pos]
-
+            
             for stat in pos_stats:
+                if stat not in pos_players_df.columns.values:
+                    continue
                 pos_aggregated_stat = pos_players_df[stat].astype(float).sum()
                 pos_player_dict["{}_{}_{}_sum".format(col_prepend, pos_colname, stat)] = pos_aggregated_stat
 
@@ -344,11 +347,22 @@ class Team():
             numerator = stat_config[numerator_key]
             denominator = stat_config[denominator_key]
 
-            denominator_val = pos_players_df[denominator].astype(float).sum() if denominator is not None else float(stat_config["denominator_val"])
-            if isinstance(numerator, list):
-                numerator_val = pos_players_df[numerator].astype(float).sum().sum()
+            if denominator is None:
+                denominator_val = float(stat_config["denominator_val"])
+            elif denominator in pos_players_df.columns.values:
+                denominator_val = pos_players_df[denominator].astype(float).sum()
             else:
+                denominator_val = 0
+                
+            if isinstance(numerator, list):
+                if all(item in pos_players_df.columns.values for item in numerator):
+                    numerator_val = pos_players_df[numerator].astype(float).sum().sum()
+                else:
+                    numerator_val = 0
+            elif numerator in pos_players_df.columns.values:
                 numerator_val = pos_players_df[numerator].astype(float).sum()
+            else:
+                numerator_val = 0
 
             #denominator_val = pos_players_df[denominator].sum() if denominator is not None else stat_config[]
             if denominator_val == 0:
