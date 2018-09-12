@@ -10,15 +10,19 @@ from classes.Team import Team
 from classes.Player import Player
 from utils import get_config
 
-def get_games_stats(config, upcoming_flg, debug_yr = None, debug_wk = None):
+def get_games_stats(config, upcoming_flg, begin_yr = None, begin_wk = None):
     
-    start_yr = config["start_yr"] if debug_yr is None else debug_yr
-    current_yr = datetime.datetime.now().year
-      
+    if upcoming_flg:
+        start_yr = datetime.datetime.now().year
+        current_yr = datetime.datetime.now().year + 1
+    else:
+        start_yr = config["start_yr"] if begin_yr is None else begin_yr
+        current_yr = datetime.datetime.now().year
+    print(begin_wk)
     for season in range(start_yr, current_yr):
         season = Season(season, config)
         games_table = season.get_schedule_table()
-        weekly_dict = season.get_weekly_dict(games_table, debug_yr, debug_wk)
+        weekly_dict = season.get_weekly_dict(games_table, upcoming_flg, begin_yr, begin_wk)
         
         for week_num, games in weekly_dict.items():
             
@@ -54,15 +58,17 @@ def get_games_stats(config, upcoming_flg, debug_yr = None, debug_wk = None):
                     team.drop_to_csv(team_game_player_df, "game_summary_by_player")
                     
                     opp_game_player_df = pd.DataFrame(opp_game_player_stats)
-                    team_pos_dict = team.aggregate_game_stats_by_pos(\
-                         team_game_player_df, opp_flg = False, \
-                         off_snaps = team_row_dict["team_plays"], def_snaps = team_row_dict["opp_plays"])
-                    opp_pos_dict = team.aggregate_game_stats_by_pos(\
-                         opp_game_player_df, opp_flg = True, \
-                         off_snaps = team_row_dict["opp_plays"], def_snaps = team_row_dict["team_plays"])
                     
-                    team_row_dict.update(team_pos_dict)
-                    team_row_dict.update(opp_pos_dict)
+                    if len(team_game_player_df) > 0 and len(opp_game_player_df) > 0:
+                        team_pos_dict = team.aggregate_game_stats_by_pos(\
+                             team_game_player_df, opp_flg = False, \
+                             off_snaps = team_row_dict["team_plays"], def_snaps = team_row_dict["opp_plays"])
+                        opp_pos_dict = team.aggregate_game_stats_by_pos(\
+                             opp_game_player_df, opp_flg = True, \
+                             off_snaps = team_row_dict["opp_plays"], def_snaps = team_row_dict["team_plays"])
+                    
+                        team_row_dict.update(team_pos_dict)
+                        team_row_dict.update(opp_pos_dict)
                     team.add_row_to_csv(team_row_dict)
 
 def get_player_stats_rows(snap_rows, team):
@@ -105,8 +111,6 @@ if __name__ == "__main__":
     parser.add_argument('-w', '--week', 
         help="if specified, start at wk")
     args = parser.parse_args()   
-    if args.upcoming:
-        get_games_stats(config, upcoming_flg = True)
-    else:
-        get_games_stats(config, args.upcoming, args.year, args.week)
+    
+    get_games_stats(config, args.upcoming, args.year, args.week)
     
