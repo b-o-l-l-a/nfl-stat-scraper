@@ -168,7 +168,12 @@ class Player():
         player_game_stats_flg = True if player_game_stats is not None else False
         
         num_snaps, perc_snaps = self.get_snaps(player_snaps_tr)
-        perc_snaps_flg = True if perc_snaps >= self.min_snap_perc else False
+        
+        if self.side == "special_teams":
+            perc_snaps_flg = True 
+        
+        else :
+            perc_snaps_flg = True if perc_snaps >= self.min_snap_perc else False
         
         pos_stats_flg = all([player_game_stats_flg, perc_snaps_flg])
         return pos_stats_flg
