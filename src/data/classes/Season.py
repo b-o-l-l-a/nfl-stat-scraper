@@ -29,7 +29,7 @@ class Season():
         
         return schedule_table
     
-    def get_weekly_dict(self, games_table, debug_yr, debug_wk):
+    def get_weekly_dict(self, games_table, upcoming_flg, begin_yr, begin_wk):
         
         all_trs = games_table.findAll('tr')
         
@@ -45,12 +45,17 @@ class Season():
                 weekly_dict[week_num] = [game]
             else:
                 weekly_dict[week_num].append(game)
-                
-        if debug_wk is not None and self.season == debug_yr:
-            if debug_wk in ["WildCard", "Division", "ConfChamp", "SuperBowl"]:
+
+        if upcoming_flg == True:
+            weekly_dict = { k : v for k,v in weekly_dict.items() if k == str(begin_wk)}
+
+        elif begin_wk is not None and self.season == begin_yr:
+            if begin_wk in ["WildCard", "Division", "ConfChamp", "SuperBowl"]:
                 for i in range(1, 18):
                     del weekly_dict[str(i)]     
             else:
-                for i in range(1, int(debug_wk)):
+                for i in range(1, int(begin_wk)):
                     del weekly_dict[str(i)]
+                    
+
         return weekly_dict
