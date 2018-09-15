@@ -12,10 +12,10 @@ Predictor variables that may be useful were also collected. I won't mention exam
 - `game_summary_by_player`: One row per game, per player that participated in the game. This captures individual game statistics for every player. If a player has played 16 games in his career, he would have 16 rows in this CSV
 - `player_metadata`: For every player included in the `game_summary_by_player` CSV, "metadata" about that player - Height, weight, position, and metrics from their rookie combine. One row per player.
 
-### obj-oriented-classes branch
+### classes/objects
 This particular project was conducive to using python classes because of how hierarchical the relevant concepts are. `Season`s have  `Week`s, `Week`s have `Game`s, `Game`s have `Team`s, `Team`s have `Player`s, and `Player`s have `Position`s. 
 
-Each one of these objects is a separate class (taking methods/attributes of parent classes, as appropriate); all classes can be found [here](https://github.com/b-o-l-l-a/nfl-stat-scraper/tree/obj-oriented-classes/src/data/classes)
+Each one of these objects is a separate class (taking methods/attributes of parent classes, as appropriate); all classes can be found [here](https://github.com/b-o-l-l-a/nfl-stat-scraper/tree/master/src/data/classes)
 
 ### other things to know about this project
 - __Folder structure based on article found here__: https://www.kdnuggets.com/2018/07/cookiecutter-data-science-organize-data-project.html
