@@ -160,7 +160,7 @@ class Team():
             "Yd" : "pass_yds",
             "TD" : "pass_tds",
             "INT" : "pass_int",
-            "Sacked" : "sacks",
+            "Sacked" : "sacks_allowed",
             "Net Pass Yards" : "net_pass_yds",
             "Total Yards" : "total_yds",
             "Fumbles" : "fumbles",
