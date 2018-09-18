@@ -16,6 +16,7 @@ class Team():
         self.team_abbrev = self.get_team_abbrev(opponent_flg = False)
         self.opp_abbrev = self.get_team_abbrev(opponent_flg = True)
         self.data_dir = os.path.join(os.getcwd(), "data", "external")
+        self.num_wks_to_find = 3
         
     def get_team_abbrev(self, opponent_flg):
         
@@ -374,6 +375,113 @@ class Team():
 
         return pos_player_avg_dict
 
+    def get_idx_cols(self, games_by_team_df, team_row_dict):
+ 
+        row_key = "row_key"
+        df_col_key = "df_col_key"
+        idx_col_name = "idx_col_name"
+        indices_dict = [
+            {row_key: "off_pts", df_col_key: "def_pts_allowed", idx_col_name: "off_pts_idx"},
+            {row_key: "def_pts_allowed", df_col_key: "off_pts", idx_col_name: "off_pts_allowed_idx"},
+            {row_key: "team_total_yds", df_col_key: "opp_total_yds", idx_col_name: "off_total_yds_idx"},
+            {row_key: "opp_total_yds", df_col_key: "team_total_yds", idx_col_name: "total_yds_allowed_idx"},
+            {row_key: "team_first_downs", df_col_key: "opp_first_downs", idx_col_name: "off_first_downs_idx"},
+            {row_key: "opp_first_downs", df_col_key: "team_first_downs", idx_col_name: "first_downs_allowed_idx"},
+            {row_key: "team_rush_yds", df_col_key: "opp_rush_yds", idx_col_name: "off_rush_yds_idx"},
+            {row_key: "opp_rush_yds", df_col_key: "team_rush_yds", idx_col_name: "rush_yds_allowed_idx"},
+            {row_key: "team_pass_yds", df_col_key: "opp_pass_yds", idx_col_name: "off_pass_yds_idx"},
+            {row_key: "opp_pass_yds", df_col_key: "team_pass_yds", idx_col_name: "pass_yds_allowed_idx"},
+            {row_key: "opp_sacks_allowed", df_col_key: "team_sacks_allowed", idx_col_name: "sacks_idx"},
+            {row_key: "team_sacks_allowed", df_col_key: "opp_sacks_allowed", idx_col_name: "sacks_allowed_idx"},
+            {row_key: "team_penalty_yds", df_col_key: "opp_penalty_yds", idx_col_name: "penalty_yds_idx"},
+            {row_key: "opp_penalty_yds", df_col_key: "team_penalty_yds", idx_col_name: "opp_penalty_yds_idx"},
+            {row_key: "team_turnovers", df_col_key: "opp_turnovers", idx_col_name: "turnovers_idx"},
+            {row_key: "opp_turnovers", df_col_key: "team_turnovers", idx_col_name: "turnovers_forced_idx"}
+        ]
+        
+        append_flg = self.append_idx_cols_flg()
+        team_idx_dict = {}
+        if append_flg == True:
+            opp_df = self.get_indiv_team_prevwk_df(games_by_team_df, team_row_dict["opponent"])
+
+            for idx_col in indices_dict:
+                col_name = idx_col[idx_col_name]
+                row_col_key = idx_col[row_key]
+                opp_df_col_key = idx_col[df_col_key]
+
+                team_val = float(team_row_dict[row_col_key])
+                opp_df_mean = float(opp_df[opp_df_col_key].mean())
+
+                if opp_df_mean == 0: idx_val = None
+                else: idx_val = team_val / opp_df_mean
+                team_idx_dict[col_name] = idx_val
+        
+        return team_idx_dict
+        
+    def append_idx_cols_flg(self):
+        
+        append_flg = True
+        
+        if self.week in ["WildCard", "Division", "ConfChamp", "SuperBowl"]:  
+            append_flg = False
+        elif self.season == 2012 and int(self.week) <= 3:
+            append_flg = False
+            
+        return append_flg
+    
+    def get_indiv_team_prevwk_df(self, team_df, team):
+        
+        season = self.season
+        week = self.week 
+        num_wks_to_find = self.num_wks_to_find
+        week = int(week)
+        indiv_team_prevwk_df = pd.DataFrame()
+        num_wks_found = 0
+
+#        print("{} / {} / {}".format(team, season, week))
+        for prev_wk in range(week - 1, 0, -1):
+
+            #valid_row = get_valid_row(team_df_subset, prev_wk, season)
+            team_game_df, num_wks_found = self.append_team_prevwk_game(team_df, team, season, prev_wk, num_wks_found)
+            if team_game_df is not None:
+                indiv_team_prevwk_df = indiv_team_prevwk_df.append(team_game_df, ignore_index=True)
+
+            if num_wks_found == num_wks_to_find:
+                break
+
+        if num_wks_found < num_wks_to_find:
+            for prev_wk in range(17, 0, -1):
+                team_game_df, num_wks_found = self.append_team_prevwk_game(team_df, team, season - 1, prev_wk, num_wks_found)
+
+                if team_game_df is not None:
+                    indiv_team_prevwk_df = indiv_team_prevwk_df.append(team_game_df, ignore_index=True)
+
+                if num_wks_found == num_wks_to_find:
+                    break
+
+        return indiv_team_prevwk_df
+    
+    def append_team_prevwk_game(self, team_df, team, season, prev_wk, num_wks_found):
+#        print("  {} / {} / {}".format(team, season, prev_wk))
+        
+        if team == "Los Angeles Rams":
+            teams = ["Los Angeles Rams", "St. Louis Rams"]
+        elif team == "Los Angeles Chargers":
+            teams = ["Los Angeles Chargers", "San Diego Chargers"]
+        else:
+            teams = [team]
+        team_df_subset = team_df[team_df["week"].astype(str) == str(prev_wk)]
+        team_df_subset = team_df_subset[team_df_subset["season"] == season]
+        
+        valid_row_flg = True if any(team in team_df_subset["team"].unique() for team in teams) else False
+        if valid_row_flg == True:
+            returned_df = team_df_subset[team_df_subset["team"].isin(teams)]
+            num_wks_found += 1
+        else:
+            returned_df = None
+
+        return returned_df, num_wks_found
+    
     def drop_to_csv(self, df, file_name):
         
         data_dir = self.data_dir
