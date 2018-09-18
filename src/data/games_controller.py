@@ -18,7 +18,11 @@ def get_games_stats(config, upcoming_flg, begin_yr = None, begin_wk = None):
     else:
         start_yr = config["start_yr"] if begin_yr is None else begin_yr
         current_yr = datetime.datetime.now().year
-    print(begin_wk)
+
+    root_dir = os.getcwd().replace("/src", "").replace("/data", "")
+    data_dir = os.path.join(root_dir, "data", "external")
+    games_by_team_path = os.path.join(data_dir, "game_summary_by_team.csv")
+    
     for season in range(start_yr, current_yr):
         season = Season(season, config)
         games_table = season.get_schedule_table()
@@ -30,6 +34,10 @@ def get_games_stats(config, upcoming_flg, begin_yr = None, begin_wk = None):
             
             print("\nYear: {} / Week: {}".format(season.season, week_num))
             for game_idx, game_info in enumerate(week.games):
+                if os.path.exists(games_by_team_path):
+                    games_by_team_df = pd.read_csv(games_by_team_path)
+                else: games_by_team_df = pd.DataFrame()
+                
                 game = Game(week, week.games[game_idx], upcoming_flg)
                 print(game.game_full_url)
 
@@ -69,6 +77,9 @@ def get_games_stats(config, upcoming_flg, begin_yr = None, begin_wk = None):
                     
                         team_row_dict.update(team_pos_dict)
                         team_row_dict.update(opp_pos_dict)
+                    team_idx_dict = team.get_idx_cols(games_by_team_df, team_row_dict)
+                    team_row_dict.update(team_idx_dict)
+                    
                     team.add_row_to_csv(team_row_dict)
 
 def get_player_stats_rows(snap_rows, team):
